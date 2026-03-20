@@ -28,10 +28,6 @@ regions = {
     "Hawaii": gdf[gdf["STUSPS"] == "HI"].copy(),
     "District of Columbia": gdf[gdf["STUSPS"] == "DC"].copy(),
     "Puerto Rico": gdf[gdf["STUSPS"] == "PR"].copy(),
-    "U.S. Virgin Islands": gdf[gdf["STUSPS"] == "VI"].copy(),
-    "Guam": gdf[gdf["STUSPS"] == "GU"].copy(),
-    "N. Mariana Is.": gdf[gdf["STUSPS"] == "MP"].copy(),
-    "American Samoa": gdf[gdf["STUSPS"] == "AS"].copy(),
 }
 
 # ----------------------------
@@ -81,11 +77,6 @@ draw_inset(fig, [0.28, 0.03, 0.16, 0.12], "Hawaii", regions["Hawaii"])
 
 draw_inset(fig, [0.79, 0.61, 0.17, 0.12], "District of Columbia", regions["District of Columbia"])
 draw_inset(fig, [0.79, 0.46, 0.17, 0.12], "Puerto Rico", regions["Puerto Rico"])
-
-draw_inset(fig, [0.79, 0.30, 0.08, 0.10], "Guam", regions["Guam"])
-draw_inset(fig, [0.88, 0.30, 0.08, 0.10], "U.S. Virgin Islands", regions["U.S. Virgin Islands"])
-draw_inset(fig, [0.79, 0.17, 0.08, 0.10], "N. Mariana Is.", regions["N. Mariana Is."])
-draw_inset(fig, [0.88, 0.17, 0.08, 0.10], "American Samoa", regions["American Samoa"])
 
 plt.savefig("us_map_with_insets.png", dpi=200, bbox_inches="tight")
 plt.show()
