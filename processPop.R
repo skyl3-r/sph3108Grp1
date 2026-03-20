@@ -13,5 +13,8 @@ geo <- geo %>%
 df <- pop %>%
   inner_join(geo, by = c("name" = "Name"))
 
+# Save result
+write_csv(df, "US_pop_with_geo.csv")
+
 # View result
 print(df)
