@@ -39,6 +39,9 @@ for (i in seq_len(nrow(year_month))) {
   monthly_matrix <- as.matrix(monthly_matrix)
   rownames(monthly_matrix) <- state_levels
   colnames(monthly_matrix) <- state_levels
+  names(dimnames(monthly_matrix)) <- c("origin_state", "destination_state")
+  attr(monthly_matrix, "row_role") <- "origin/departure"
+  attr(monthly_matrix, "col_role") <- "destination/arrival"
 
   matrix_name <- sprintf(
     "%s%d",
