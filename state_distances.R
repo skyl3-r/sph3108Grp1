@@ -43,22 +43,4 @@ distance_matrix_df <- data.frame(
   check.names = FALSE
 )
 
-edge_index <- expand.grid(
-  from = seq_len(nrow(states)),
-  to = seq_len(nrow(states))
-)
-
-edge_list <- tibble(
-  from = states$name[edge_index$from],
-  to = states$name[edge_index$to],
-  distance = distance_matrix[cbind(edge_index$from, edge_index$to)]
-) %>%
-  filter(from != to)
-
-saveRDS(
-  list(
-    distance_matrix = distance_matrix_df,
-    distance_edges = edge_list
-  ),
-  "US_state_distances.rds"
-)
+saveRDS(distance_matrix_df, "US_state_distances.rds")
