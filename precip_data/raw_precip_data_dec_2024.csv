@@ -1,0 +1,52 @@
+# Title: December 2024 Contiguous U.S. Statewide Precipitation
+# Units: Inches
+# Note: Period of Record: 131 Years
+ID,Name,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean
+1,Alabama,5.14,77,-0.01,5.15
+2,Arizona,0.01,2,-1.17,1.18
+3,Arkansas,6.69,116,2.32,4.37
+4,California,3.74,78,0.13,3.61
+5,Colorado,0.47,9,-0.61,1.08
+6,Connecticut,5.18,96,1.18,4
+7,Delaware,3.02,56,-0.44,3.46
+8,Florida,1.76,39,-0.94,2.7
+9,Georgia,3.24,47,-0.83,4.07
+10,Idaho,3.03,75,0.13,2.9
+11,Illinois,2.6,87,0.27,2.33
+12,Indiana,4.17,111,1.32,2.85
+13,Iowa,1.34,86,0.23,1.11
+14,Kansas,0.19,11,-0.66,0.85
+15,Kentucky,5.04,97,0.98,4.06
+16,Louisiana,6.24,100,0.77,5.47
+17,Maine,4.86,104,1.33,3.53
+18,Maryland,2.75,52,-0.54,3.29
+19,Massachusetts,5.04,97,1.2,3.84
+20,Michigan,2.69,109,0.68,2.01
+21,Minnesota,0.92,79,0.11,0.81
+22,Mississippi,5.42,75,-0.15,5.57
+23,Missouri,2.51,86,0.2,2.31
+24,Montana,1,48,-0.29,1.29
+25,Nebraska,0.27,26,-0.33,0.6
+26,Nevada,0.82,52,-0.2,1.02
+27,New Hampshire,4.37,96,0.79,3.58
+28,New Jersey,3.69,67,-0.01,3.7
+29,New Mexico,0.02,2,-0.72,0.74
+30,New York,3.65,93,0.53,3.12
+31,North Carolina,3.11,52,-0.56,3.67
+32,North Dakota,0.53,76,0.04,0.49
+33,Ohio,3.61,104,0.86,2.75
+34,Oklahoma,1.54,68,-0.18,1.72
+35,Oregon,6.8,108,1.97,4.83
+36,Pennsylvania,3.19,71,0.08,3.11
+37,Rhode Island,6.92,119,2.75,4.17
+38,South Carolina,3.13,59,-0.48,3.61
+39,South Dakota,0.45,62,-0.03,0.48
+40,Tennessee,5.54,84,0.59,4.95
+41,Texas,1.67,76,-0.11,1.78
+42,Utah,0.65,30,-0.46,1.11
+43,Vermont,4.26,105,1.11,3.15
+44,Virginia,2.9,56,-0.32,3.22
+45,Washington,7.8,98,1.33,6.47
+46,West Virginia,3.29,66,-0.13,3.42
+47,Wisconsin,1.24,63,-0.03,1.27
+48,Wyoming,0.77,37,-0.24,1.01

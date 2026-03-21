@@ -1,0 +1,52 @@
+# Title: February 2025 Contiguous U.S. Statewide Precipitation
+# Units: Inches
+# Note: Period of Record: 132 Years
+ID,Name,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean
+1,Alabama,4.46,58,-0.72,5.18
+2,Arizona,0.27,20,-0.88,1.15
+3,Arkansas,4.17,91,0.45,3.73
+4,California,5.05,96,1.2,3.85
+5,Colorado,0.91,50,-0.18,1.09
+6,Connecticut,2.81,54,-0.47,3.28
+7,Delaware,3.05,75,0.01,3.04
+8,Florida,2.13,39,-1.02,3.15
+9,Georgia,3.3,36,-1.21,4.51
+10,Idaho,3.91,123,1.45,2.46
+11,Illinois,1.07,24,-0.79,1.86
+12,Indiana,2.09,66,-0.14,2.23
+13,Iowa,0.44,21,-0.58,1.02
+14,Kansas,0.38,28,-0.51,0.89
+15,Kentucky,7.55,126,3.95,3.6
+16,Louisiana,5.13,82,0.51,4.62
+17,Maine,2.57,56,-0.21,2.78
+18,Maryland,2.81,70,-0.08,2.89
+19,Massachusetts,3.25,76,0.03,3.22
+20,Michigan,1.33,54,-0.17,1.5
+21,Minnesota,0.51,41,-0.18,0.69
+22,Mississippi,4.63,63,-0.38,5.01
+23,Missouri,1.16,24,-0.86,2.02
+24,Montana,1.49,114,0.43,1.06
+25,Nebraska,0.43,42,-0.23,0.66
+26,Nevada,1.23,88,0.12,1.11
+27,New Hampshire,3.14,85,0.26,2.88
+28,New Jersey,2.61,54,-0.44,3.05
+29,New Mexico,0.11,4,-0.53,0.64
+30,New York,3.18,108,0.65,2.53
+31,North Carolina,3.84,66,0.01,3.83
+32,North Dakota,0.28,31,-0.18,0.46
+33,Ohio,3.22,107,0.93,2.29
+34,Oklahoma,0.68,23,-0.94,1.62
+35,Oregon,5.13,109,1.31,3.82
+36,Pennsylvania,3.06,93,0.46,2.6
+37,Rhode Island,3.28,64,-0.16,3.44
+38,South Carolina,2.25,29,-1.65,3.9
+39,South Dakota,0.26,21,-0.28,0.54
+40,Tennessee,6.29,109,1.84,4.45
+41,Texas,0.86,29,-0.74,1.6
+42,Utah,0.92,46,-0.3,1.22
+43,Vermont,3.09,102,0.54,2.55
+44,Virginia,5.66,128,2.64,3.02
+45,Washington,4.82,76,0.08,4.74
+46,West Virginia,5.57,126,2.45,3.12
+47,Wisconsin,0.82,52,-0.21,1.03
+48,Wyoming,1.34,116,0.37,0.97
