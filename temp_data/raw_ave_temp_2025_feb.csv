@@ -1,0 +1,52 @@
+# Title: February 2025 Contiguous U.S. Statewide Average Temperature
+# Units: Degrees Fahrenheit
+# Note: Period of Record: 132 Years
+ID,Name,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean
+1,Alabama,52.7,114,4.7,48
+2,Arizona,51.2,130,6.5,44.7
+3,Arkansas,44,77,0.9,43.1
+4,California,48.7,115,3.4,45.3
+5,Colorado,30.1,96,2.7,27.4
+6,Connecticut,28.9,86,2.6,26.3
+7,Delaware,37.2,94,2.8,34.4
+8,Florida,65.8,126,6.4,59.4
+9,Georgia,54.1,121,5.5,48.6
+10,Idaho,26.2,54,-0.2,26.4
+11,Illinois,29.3,64,0.1,29.2
+12,Indiana,30.6,78,1.2,29.4
+13,Iowa,20.7,54,-2,22.7
+14,Kansas,29.4,28,-4.2,33.6
+15,Kentucky,38.8,85,2.3,36.5
+16,Louisiana,55.9,104,3.5,52.4
+17,Maine,16.1,70,1.2,14.9
+18,Maryland,36.8,95,3,33.8
+19,Massachusetts,26.8,80,1.8,25
+20,Michigan,20.9,80,1.8,19.1
+21,Minnesota,11,61,-1.1,12.1
+22,Mississippi,52.6,110,4.3,48.3
+23,Missouri,32.1,49,-1.7,33.8
+24,Montana,13.3,13,-8,21.3
+25,Nebraska,22.3,27,-4.4,26.7
+26,Nevada,38.3,113,4.2,34.1
+27,New Hampshire,19.3,64,0.8,18.5
+28,New Jersey,33.8,91,3.2,30.6
+29,New Mexico,43.4,127,5.6,37.8
+30,New York,22.4,77,1.7,20.7
+31,North Carolina,45.9,109,4,41.9
+32,North Dakota,5.6,21,-6.3,11.9
+33,Ohio,30.3,74,1.3,29
+34,Oklahoma,39.2,41,-2,41.2
+35,Oregon,32.6,34,-1.5,34.1
+36,Pennsylvania,28.5,84,2,26.5
+37,Rhode Island,30.1,84,2.3,27.8
+38,South Carolina,51.8,119,5,46.8
+39,South Dakota,14.8,34,-5.1,19.9
+40,Tennessee,43.1,92,3,40.1
+41,Texas,51.8,94,2.4,49.4
+42,Utah,35.9,121,5.6,30.3
+43,Vermont,18,72,1.5,16.5
+44,Virginia,40,99,3.3,36.7
+45,Washington,30.3,27,-2.8,33.1
+46,West Virginia,35.7,93,3,32.7
+47,Wisconsin,16.6,69,0.2,16.4
+48,Wyoming,22.4,62,0.1,22.3
