@@ -1,6 +1,6 @@
 input_path <- file.path("flight_data", "state_flight_freq_final.csv")
 output_dir <- "flight_data"
-output_path <- file.path(output_dir, "state_flight_freq_matrices.rds")
+output_path <- file.path(output_dir, "state_flight_freq_norm_matrices.rds")
 
 flight_freq <- read.csv(input_path, stringsAsFactors = FALSE)
 
@@ -22,8 +22,15 @@ for (i in seq_len(nrow(year_month))) {
     flight_freq$YEAR == year_value & flight_freq$MONTH == month_value,
   ]
 
+  max_departures <- max(monthly_data$DEPARTURES_PERFORMED, na.rm = TRUE)
+  monthly_data$DEPARTURES_NORMALIZED <- if (is.finite(max_departures) && max_departures > 0) {
+    monthly_data$DEPARTURES_PERFORMED / max_departures
+  } else {
+    0
+  }
+
   monthly_matrix <- xtabs(
-    DEPARTURES_PERFORMED ~
+    DEPARTURES_NORMALIZED ~
       factor(ORIGIN_STATE_ABR, levels = state_levels) +
       factor(DEST_STATE_ABR, levels = state_levels),
     data = monthly_data
@@ -40,7 +47,11 @@ for (i in seq_len(nrow(year_month))) {
   )
 
   monthly_matrices[[matrix_name]] <- monthly_matrix
-  cat("Built", matrix_name, "with dimension", paste(dim(monthly_matrix), collapse = " x "), "\n")
+  cat(
+    "Built", matrix_name,
+    "with dimension", paste(dim(monthly_matrix), collapse = " x "),
+    "using month-normalized flight frequencies\n"
+  )
 }
 
 saveRDS(monthly_matrices, output_path)
