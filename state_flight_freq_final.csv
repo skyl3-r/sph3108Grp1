@@ -1,0 +1,5021 @@
+ORIGIN_STATE_ABR,ORIGIN_STATE_NM,DEST_STATE_ABR,DEST_STATE_NM,YEAR,MONTH,DEPARTURES_PERFORMED
+AK,Alaska,AK,Alaska,2024,12,26785.0
+AK,Alaska,AL,Alabama,2024,12,4.0
+AK,Alaska,AZ,Arizona,2024,12,31.0
+AK,Alaska,CA,California,2024,12,191.0
+AK,Alaska,CO,Colorado,2024,12,31.0
+AK,Alaska,FL,Florida,2024,12,198.0
+AK,Alaska,GA,Georgia,2024,12,54.0
+AK,Alaska,HI,Hawaii,2024,12,49.0
+AK,Alaska,ID,Idaho,2024,12,1.0
+AK,Alaska,IL,Illinois,2024,12,685.0
+AK,Alaska,IN,Indiana,2024,12,37.0
+AK,Alaska,KY,Kentucky,2024,12,323.0
+AK,Alaska,MD,Maryland,2024,12,1.0
+AK,Alaska,MN,Minnesota,2024,12,28.0
+AK,Alaska,NJ,New Jersey,2024,12,21.0
+AK,Alaska,NV,Nevada,2024,12,9.0
+AK,Alaska,NY,New York,2024,12,281.0
+AK,Alaska,OR,Oregon,2024,12,90.0
+AK,Alaska,SC,South Carolina,2024,12,4.0
+AK,Alaska,TN,Tennessee,2024,12,183.0
+AK,Alaska,TT,U.S. Pacific Trust Territories and Possessions,2024,12,4.0
+AK,Alaska,TX,Texas,2024,12,151.0
+AK,Alaska,WA,Washington,2024,12,1013.0
+AL,Alabama,AL,Alabama,2024,12,7.0
+AL,Alabama,AR,Arkansas,2024,12,1.0
+AL,Alabama,AZ,Arizona,2024,12,15.0
+AL,Alabama,CO,Colorado,2024,12,155.0
+AL,Alabama,FL,Florida,2024,12,241.0
+AL,Alabama,GA,Georgia,2024,12,846.0
+AL,Alabama,ID,Idaho,2024,12,1.0
+AL,Alabama,IL,Illinois,2024,12,233.0
+AL,Alabama,IN,Indiana,2024,12,1.0
+AL,Alabama,KY,Kentucky,2024,12,42.0
+AL,Alabama,LA,Louisiana,2024,12,25.0
+AL,Alabama,MD,Maryland,2024,12,30.0
+AL,Alabama,MI,Michigan,2024,12,66.0
+AL,Alabama,MN,Minnesota,2024,12,1.0
+AL,Alabama,MS,Mississippi,2024,12,1.0
+AL,Alabama,NC,North Carolina,2024,12,570.0
+AL,Alabama,ND,North Dakota,2024,12,1.0
+AL,Alabama,NV,Nevada,2024,12,39.0
+AL,Alabama,NY,New York,2024,12,75.0
+AL,Alabama,OH,Ohio,2024,12,2.0
+AL,Alabama,OK,Oklahoma,2024,12,2.0
+AL,Alabama,PA,Pennsylvania,2024,12,37.0
+AL,Alabama,SD,South Dakota,2024,12,1.0
+AL,Alabama,TN,Tennessee,2024,12,115.0
+AL,Alabama,TX,Texas,2024,12,1007.0
+AL,Alabama,VA,Virginia,2024,12,349.0
+AR,Arkansas,AR,Arkansas,2024,12,4.0
+AR,Arkansas,AZ,Arizona,2024,12,77.0
+AR,Arkansas,CA,California,2024,12,45.0
+AR,Arkansas,CO,Colorado,2024,12,221.0
+AR,Arkansas,FL,Florida,2024,12,78.0
+AR,Arkansas,GA,Georgia,2024,12,369.0
+AR,Arkansas,ID,Idaho,2024,12,4.0
+AR,Arkansas,IL,Illinois,2024,12,313.0
+AR,Arkansas,IN,Indiana,2024,12,1.0
+AR,Arkansas,KY,Kentucky,2024,12,22.0
+AR,Arkansas,LA,Louisiana,2024,12,11.0
+AR,Arkansas,MI,Michigan,2024,12,27.0
+AR,Arkansas,MN,Minnesota,2024,12,44.0
+AR,Arkansas,MO,Missouri,2024,12,109.0
+AR,Arkansas,NC,North Carolina,2024,12,268.0
+AR,Arkansas,NE,Nebraska,2024,12,1.0
+AR,Arkansas,NJ,New Jersey,2024,12,1.0
+AR,Arkansas,NV,Nevada,2024,12,40.0
+AR,Arkansas,NY,New York,2024,12,143.0
+AR,Arkansas,OH,Ohio,2024,12,1.0
+AR,Arkansas,OK,Oklahoma,2024,12,1.0
+AR,Arkansas,PA,Pennsylvania,2024,12,11.0
+AR,Arkansas,TN,Tennessee,2024,12,76.0
+AR,Arkansas,TX,Texas,2024,12,1196.0
+AR,Arkansas,VA,Virginia,2024,12,62.0
+AR,Arkansas,WI,Wisconsin,2024,12,1.0
+AZ,Arizona,AK,Alaska,2024,12,31.0
+AZ,Arizona,AL,Alabama,2024,12,16.0
+AZ,Arizona,AR,Arkansas,2024,12,74.0
+AZ,Arizona,AZ,Arizona,2024,12,1849.0
+AZ,Arizona,CA,California,2024,12,5073.0
+AZ,Arizona,CO,Colorado,2024,12,1491.0
+AZ,Arizona,CT,Connecticut,2024,12,14.0
+AZ,Arizona,FL,Florida,2024,12,516.0
+AZ,Arizona,GA,Georgia,2024,12,384.0
+AZ,Arizona,HI,Hawaii,2024,12,254.0
+AZ,Arizona,IA,Iowa,2024,12,203.0
+AZ,Arizona,ID,Idaho,2024,12,256.0
+AZ,Arizona,IL,Illinois,2024,12,994.0
+AZ,Arizona,IN,Indiana,2024,12,178.0
+AZ,Arizona,KS,Kansas,2024,12,73.0
+AZ,Arizona,KY,Kentucky,2024,12,254.0
+AZ,Arizona,LA,Louisiana,2024,12,85.0
+AZ,Arizona,MA,Massachusetts,2024,12,207.0
+AZ,Arizona,MD,Maryland,2024,12,105.0
+AZ,Arizona,MI,Michigan,2024,12,269.0
+AZ,Arizona,MN,Minnesota,2024,12,501.0
+AZ,Arizona,MO,Missouri,2024,12,476.0
+AZ,Arizona,MT,Montana,2024,12,97.0
+AZ,Arizona,NC,North Carolina,2024,12,324.0
+AZ,Arizona,ND,North Dakota,2024,12,105.0
+AZ,Arizona,NE,Nebraska,2024,12,202.0
+AZ,Arizona,NJ,New Jersey,2024,12,234.0
+AZ,Arizona,NM,New Mexico,2024,12,456.0
+AZ,Arizona,NV,Nevada,2024,12,1071.0
+AZ,Arizona,NY,New York,2024,12,278.0
+AZ,Arizona,OH,Ohio,2024,12,200.0
+AZ,Arizona,OK,Oklahoma,2024,12,281.0
+AZ,Arizona,OR,Oregon,2024,12,615.0
+AZ,Arizona,PA,Pennsylvania,2024,12,273.0
+AZ,Arizona,RI,Rhode Island,2024,12,1.0
+AZ,Arizona,SD,South Dakota,2024,12,88.0
+AZ,Arizona,TN,Tennessee,2024,12,341.0
+AZ,Arizona,TX,Texas,2024,12,2496.0
+AZ,Arizona,UT,Utah,2024,12,921.0
+AZ,Arizona,VA,Virginia,2024,12,231.0
+AZ,Arizona,WA,Washington,2024,12,984.0
+AZ,Arizona,WI,Wisconsin,2024,12,236.0
+CA,California,AK,Alaska,2024,12,124.0
+CA,California,AR,Arkansas,2024,12,42.0
+CA,California,AZ,Arizona,2024,12,5010.0
+CA,California,CA,California,2024,12,20752.0
+CA,California,CO,Colorado,2024,12,4170.0
+CA,California,CT,Connecticut,2024,12,26.0
+CA,California,FL,Florida,2024,12,1722.0
+CA,California,GA,Georgia,2024,12,1402.0
+CA,California,HI,Hawaii,2024,12,2710.0
+CA,California,IA,Iowa,2024,12,12.0
+CA,California,ID,Idaho,2024,12,815.0
+CA,California,IL,Illinois,2024,12,2219.0
+CA,California,IN,Indiana,2024,12,265.0
+CA,California,KY,Kentucky,2024,12,924.0
+CA,California,LA,Louisiana,2024,12,263.0
+CA,California,MA,Massachusetts,2024,12,878.0
+CA,California,MD,Maryland,2024,12,261.0
+CA,California,ME,Maine,2024,12,1.0
+CA,California,MI,Michigan,2024,12,537.0
+CA,California,MN,Minnesota,2024,12,866.0
+CA,California,MO,Missouri,2024,12,608.0
+CA,California,MT,Montana,2024,12,147.0
+CA,California,NC,North Carolina,2024,12,853.0
+CA,California,NE,Nebraska,2024,12,71.0
+CA,California,NH,New Hampshire,2024,12,16.0
+CA,California,NJ,New Jersey,2024,12,1110.0
+CA,California,NM,New Mexico,2024,12,391.0
+CA,California,NV,Nevada,2024,12,6171.0
+CA,California,NY,New York,2024,12,1751.0
+CA,California,OH,Ohio,2024,12,162.0
+CA,California,OK,Oklahoma,2024,12,109.0
+CA,California,OR,Oregon,2024,12,2987.0
+CA,California,PA,Pennsylvania,2024,12,598.0
+CA,California,RI,Rhode Island,2024,12,4.0
+CA,California,SC,South Carolina,2024,12,9.0
+CA,California,SD,South Dakota,2024,12,12.0
+CA,California,TN,Tennessee,2024,12,900.0
+CA,California,TX,Texas,2024,12,6153.0
+CA,California,UT,Utah,2024,12,2292.0
+CA,California,VA,Virginia,2024,12,890.0
+CA,California,WA,Washington,2024,12,4292.0
+CA,California,WY,Wyoming,2024,12,60.0
+CO,Colorado,AK,Alaska,2024,12,31.0
+CO,Colorado,AL,Alabama,2024,12,155.0
+CO,Colorado,AR,Arkansas,2024,12,220.0
+CO,Colorado,AZ,Arizona,2024,12,1504.0
+CO,Colorado,CA,California,2024,12,4160.0
+CO,Colorado,CO,Colorado,2024,12,3545.0
+CO,Colorado,CT,Connecticut,2024,12,80.0
+CO,Colorado,FL,Florida,2024,12,1371.0
+CO,Colorado,GA,Georgia,2024,12,616.0
+CO,Colorado,HI,Hawaii,2024,12,144.0
+CO,Colorado,IA,Iowa,2024,12,279.0
+CO,Colorado,ID,Idaho,2024,12,457.0
+CO,Colorado,IL,Illinois,2024,12,1081.0
+CO,Colorado,IN,Indiana,2024,12,225.0
+CO,Colorado,KS,Kansas,2024,12,346.0
+CO,Colorado,KY,Kentucky,2024,12,356.0
+CO,Colorado,LA,Louisiana,2024,12,240.0
+CO,Colorado,MA,Massachusetts,2024,12,302.0
+CO,Colorado,MD,Maryland,2024,12,307.0
+CO,Colorado,MI,Michigan,2024,12,345.0
+CO,Colorado,MN,Minnesota,2024,12,534.0
+CO,Colorado,MO,Missouri,2024,12,760.0
+CO,Colorado,MT,Montana,2024,12,666.0
+CO,Colorado,NC,North Carolina,2024,12,431.0
+CO,Colorado,ND,North Dakota,2024,12,523.0
+CO,Colorado,NE,Nebraska,2024,12,664.0
+CO,Colorado,NJ,New Jersey,2024,12,314.0
+CO,Colorado,NM,New Mexico,2024,12,474.0
+CO,Colorado,NV,Nevada,2024,12,935.0
+CO,Colorado,NY,New York,2024,12,600.0
+CO,Colorado,OH,Ohio,2024,12,360.0
+CO,Colorado,OK,Oklahoma,2024,12,463.0
+CO,Colorado,OR,Oregon,2024,12,535.0
+CO,Colorado,PA,Pennsylvania,2024,12,359.0
+CO,Colorado,PR,Puerto Rico,2024,12,31.0
+CO,Colorado,RI,Rhode Island,2024,12,16.0
+CO,Colorado,SC,South Carolina,2024,12,80.0
+CO,Colorado,SD,South Dakota,2024,12,417.0
+CO,Colorado,TN,Tennessee,2024,12,582.0
+CO,Colorado,TX,Texas,2024,12,3370.0
+CO,Colorado,UT,Utah,2024,12,842.0
+CO,Colorado,VA,Virginia,2024,12,494.0
+CO,Colorado,WA,Washington,2024,12,731.0
+CO,Colorado,WI,Wisconsin,2024,12,279.0
+CO,Colorado,WY,Wyoming,2024,12,767.0
+CT,Connecticut,AR,Arkansas,2024,12,1.0
+CT,Connecticut,AZ,Arizona,2024,12,13.0
+CT,Connecticut,CO,Colorado,2024,12,79.0
+CT,Connecticut,FL,Florida,2024,12,920.0
+CT,Connecticut,GA,Georgia,2024,12,211.0
+CT,Connecticut,IA,Iowa,2024,12,1.0
+CT,Connecticut,IL,Illinois,2024,12,271.0
+CT,Connecticut,KY,Kentucky,2024,12,131.0
+CT,Connecticut,LA,Louisiana,2024,12,9.0
+CT,Connecticut,MA,Massachusetts,2024,12,10.0
+CT,Connecticut,MD,Maryland,2024,12,155.0
+CT,Connecticut,MI,Michigan,2024,12,107.0
+CT,Connecticut,MN,Minnesota,2024,12,72.0
+CT,Connecticut,MO,Missouri,2024,12,5.0
+CT,Connecticut,NC,North Carolina,2024,12,275.0
+CT,Connecticut,NH,New Hampshire,2024,12,3.0
+CT,Connecticut,NJ,New Jersey,2024,12,11.0
+CT,Connecticut,NV,Nevada,2024,12,13.0
+CT,Connecticut,NY,New York,2024,12,32.0
+CT,Connecticut,OH,Ohio,2024,12,44.0
+CT,Connecticut,PA,Pennsylvania,2024,12,122.0
+CT,Connecticut,PR,Puerto Rico,2024,12,112.0
+CT,Connecticut,RI,Rhode Island,2024,12,18.0
+CT,Connecticut,SC,South Carolina,2024,12,67.0
+CT,Connecticut,TN,Tennessee,2024,12,63.0
+CT,Connecticut,TX,Texas,2024,12,52.0
+CT,Connecticut,VA,Virginia,2024,12,337.0
+CT,Connecticut,VT,Vermont,2024,12,1.0
+CT,Connecticut,WV,West Virginia,2024,12,1.0
+DE,Delaware,FL,Florida,2024,12,84.0
+DE,Delaware,GA,Georgia,2024,12,9.0
+DE,Delaware,KY,Kentucky,2024,12,1.0
+DE,Delaware,NC,North Carolina,2024,12,10.0
+DE,Delaware,PR,Puerto Rico,2024,12,9.0
+DE,Delaware,TX,Texas,2024,12,1.0
+FL,Florida,AK,Alaska,2024,12,117.0
+FL,Florida,AL,Alabama,2024,12,244.0
+FL,Florida,AR,Arkansas,2024,12,79.0
+FL,Florida,AZ,Arizona,2024,12,511.0
+FL,Florida,CA,California,2024,12,1647.0
+FL,Florida,CO,Colorado,2024,12,1366.0
+FL,Florida,CT,Connecticut,2024,12,909.0
+FL,Florida,DE,Delaware,2024,12,82.0
+FL,Florida,FL,Florida,2024,12,4992.0
+FL,Florida,GA,Georgia,2024,12,5079.0
+FL,Florida,HI,Hawaii,2024,12,2.0
+FL,Florida,IA,Iowa,2024,12,193.0
+FL,Florida,IL,Illinois,2024,12,3169.0
+FL,Florida,IN,Indiana,2024,12,948.0
+FL,Florida,KS,Kansas,2024,12,12.0
+FL,Florida,KY,Kentucky,2024,12,1630.0
+FL,Florida,LA,Louisiana,2024,12,556.0
+FL,Florida,MA,Massachusetts,2024,12,2272.0
+FL,Florida,MD,Maryland,2024,12,1690.0
+FL,Florida,ME,Maine,2024,12,140.0
+FL,Florida,MI,Michigan,2024,12,1682.0
+FL,Florida,MN,Minnesota,2024,12,1043.0
+FL,Florida,MO,Missouri,2024,12,1005.0
+FL,Florida,MS,Mississippi,2024,12,28.0
+FL,Florida,NC,North Carolina,2024,12,4351.0
+FL,Florida,ND,North Dakota,2024,12,51.0
+FL,Florida,NE,Nebraska,2024,12,98.0
+FL,Florida,NH,New Hampshire,2024,12,128.0
+FL,Florida,NJ,New Jersey,2024,12,3038.0
+FL,Florida,NM,New Mexico,2024,12,5.0
+FL,Florida,NV,Nevada,2024,12,476.0
+FL,Florida,NY,New York,2024,12,6478.0
+FL,Florida,OH,Ohio,2024,12,1352.0
+FL,Florida,OK,Oklahoma,2024,12,54.0
+FL,Florida,OR,Oregon,2024,12,132.0
+FL,Florida,PA,Pennsylvania,2024,12,2730.0
+FL,Florida,PR,Puerto Rico,2024,12,1661.0
+FL,Florida,RI,Rhode Island,2024,12,525.0
+FL,Florida,SC,South Carolina,2024,12,356.0
+FL,Florida,SD,South Dakota,2024,12,44.0
+FL,Florida,TN,Tennessee,2024,12,1987.0
+FL,Florida,TX,Texas,2024,12,5494.0
+FL,Florida,UT,Utah,2024,12,276.0
+FL,Florida,VA,Virginia,2024,12,2834.0
+FL,Florida,VI,U.S. Virgin Islands,2024,12,239.0
+FL,Florida,VT,Vermont,2024,12,37.0
+FL,Florida,WA,Washington,2024,12,456.0
+FL,Florida,WI,Wisconsin,2024,12,394.0
+FL,Florida,WV,West Virginia,2024,12,46.0
+GA,Georgia,AK,Alaska,2024,12,36.0
+GA,Georgia,AL,Alabama,2024,12,827.0
+GA,Georgia,AR,Arkansas,2024,12,370.0
+GA,Georgia,AZ,Arizona,2024,12,380.0
+GA,Georgia,CA,California,2024,12,1391.0
+GA,Georgia,CO,Colorado,2024,12,623.0
+GA,Georgia,CT,Connecticut,2024,12,210.0
+GA,Georgia,DE,Delaware,2024,12,9.0
+GA,Georgia,FL,Florida,2024,12,5046.0
+GA,Georgia,GA,Georgia,2024,12,1499.0
+GA,Georgia,HI,Hawaii,2024,12,64.0
+GA,Georgia,IA,Iowa,2024,12,136.0
+GA,Georgia,ID,Idaho,2024,12,43.0
+GA,Georgia,IL,Illinois,2024,12,1005.0
+GA,Georgia,IN,Indiana,2024,12,555.0
+GA,Georgia,KS,Kansas,2024,12,91.0
+GA,Georgia,KY,Kentucky,2024,12,854.0
+GA,Georgia,LA,Louisiana,2024,12,918.0
+GA,Georgia,MA,Massachusetts,2024,12,540.0
+GA,Georgia,MD,Maryland,2024,12,683.0
+GA,Georgia,ME,Maine,2024,12,32.0
+GA,Georgia,MI,Michigan,2024,12,535.0
+GA,Georgia,MN,Minnesota,2024,12,364.0
+GA,Georgia,MO,Missouri,2024,12,652.0
+GA,Georgia,MS,Mississippi,2024,12,416.0
+GA,Georgia,MT,Montana,2024,12,36.0
+GA,Georgia,NC,North Carolina,2024,12,1988.0
+GA,Georgia,ND,North Dakota,2024,12,1.0
+GA,Georgia,NE,Nebraska,2024,12,167.0
+GA,Georgia,NH,New Hampshire,2024,12,1.0
+GA,Georgia,NJ,New Jersey,2024,12,626.0
+GA,Georgia,NM,New Mexico,2024,12,87.0
+GA,Georgia,NV,Nevada,2024,12,451.0
+GA,Georgia,NY,New York,2024,12,1711.0
+GA,Georgia,OH,Ohio,2024,12,652.0
+GA,Georgia,OK,Oklahoma,2024,12,297.0
+GA,Georgia,OR,Oregon,2024,12,123.0
+GA,Georgia,PA,Pennsylvania,2024,12,1053.0
+GA,Georgia,PR,Puerto Rico,2024,12,212.0
+GA,Georgia,RI,Rhode Island,2024,12,97.0
+GA,Georgia,SC,South Carolina,2024,12,804.0
+GA,Georgia,SD,South Dakota,2024,12,30.0
+GA,Georgia,TN,Tennessee,2024,12,1401.0
+GA,Georgia,TX,Texas,2024,12,2461.0
+GA,Georgia,UT,Utah,2024,12,256.0
+GA,Georgia,VA,Virginia,2024,12,1777.0
+GA,Georgia,VI,U.S. Virgin Islands,2024,12,74.0
+GA,Georgia,VT,Vermont,2024,12,33.0
+GA,Georgia,WA,Washington,2024,12,319.0
+GA,Georgia,WI,Wisconsin,2024,12,345.0
+GA,Georgia,WV,West Virginia,2024,12,96.0
+GA,Georgia,WY,Wyoming,2024,12,10.0
+HI,Hawaii,AK,Alaska,2024,12,49.0
+HI,Hawaii,AZ,Arizona,2024,12,256.0
+HI,Hawaii,CA,California,2024,12,2658.0
+HI,Hawaii,CO,Colorado,2024,12,143.0
+HI,Hawaii,FL,Florida,2024,12,2.0
+HI,Hawaii,GA,Georgia,2024,12,62.0
+HI,Hawaii,HI,Hawaii,2024,12,10928.0
+HI,Hawaii,IL,Illinois,2024,12,60.0
+HI,Hawaii,KY,Kentucky,2024,12,28.0
+HI,Hawaii,MA,Massachusetts,2024,12,44.0
+HI,Hawaii,MI,Michigan,2024,12,28.0
+HI,Hawaii,MN,Minnesota,2024,12,31.0
+HI,Hawaii,NJ,New Jersey,2024,12,27.0
+HI,Hawaii,NV,Nevada,2024,12,250.0
+HI,Hawaii,NY,New York,2024,12,56.0
+HI,Hawaii,OR,Oregon,2024,12,159.0
+HI,Hawaii,TN,Tennessee,2024,12,27.0
+HI,Hawaii,TT,U.S. Pacific Trust Territories and Possessions,2024,12,84.0
+HI,Hawaii,TX,Texas,2024,12,138.0
+HI,Hawaii,UT,Utah,2024,12,120.0
+HI,Hawaii,VA,Virginia,2024,12,15.0
+HI,Hawaii,WA,Washington,2024,12,653.0
+IA,Iowa,AR,Arkansas,2024,12,1.0
+IA,Iowa,AZ,Arizona,2024,12,202.0
+IA,Iowa,CA,California,2024,12,19.0
+IA,Iowa,CO,Colorado,2024,12,278.0
+IA,Iowa,FL,Florida,2024,12,194.0
+IA,Iowa,GA,Georgia,2024,12,138.0
+IA,Iowa,IA,Iowa,2024,12,34.0
+IA,Iowa,ID,Idaho,2024,12,1.0
+IA,Iowa,IL,Illinois,2024,12,661.0
+IA,Iowa,IN,Indiana,2024,12,5.0
+IA,Iowa,KS,Kansas,2024,12,1.0
+IA,Iowa,KY,Kentucky,2024,12,62.0
+IA,Iowa,MI,Michigan,2024,12,78.0
+IA,Iowa,MN,Minnesota,2024,12,160.0
+IA,Iowa,MO,Missouri,2024,12,121.0
+IA,Iowa,MT,Montana,2024,12,3.0
+IA,Iowa,NC,North Carolina,2024,12,110.0
+IA,Iowa,NE,Nebraska,2024,12,1.0
+IA,Iowa,NJ,New Jersey,2024,12,10.0
+IA,Iowa,NV,Nevada,2024,12,62.0
+IA,Iowa,NY,New York,2024,12,76.0
+IA,Iowa,OH,Ohio,2024,12,1.0
+IA,Iowa,OK,Oklahoma,2024,12,3.0
+IA,Iowa,PA,Pennsylvania,2024,12,1.0
+IA,Iowa,SD,South Dakota,2024,12,1.0
+IA,Iowa,TN,Tennessee,2024,12,47.0
+IA,Iowa,TX,Texas,2024,12,238.0
+IA,Iowa,VA,Virginia,2024,12,75.0
+IA,Iowa,WI,Wisconsin,2024,12,3.0
+ID,Idaho,AZ,Arizona,2024,12,260.0
+ID,Idaho,CA,California,2024,12,814.0
+ID,Idaho,CO,Colorado,2024,12,456.0
+ID,Idaho,GA,Georgia,2024,12,43.0
+ID,Idaho,ID,Idaho,2024,12,24.0
+ID,Idaho,IL,Illinois,2024,12,77.0
+ID,Idaho,KY,Kentucky,2024,12,73.0
+ID,Idaho,MN,Minnesota,2024,12,62.0
+ID,Idaho,MT,Montana,2024,12,11.0
+ID,Idaho,NM,New Mexico,2024,12,1.0
+ID,Idaho,NV,Nevada,2024,12,175.0
+ID,Idaho,OK,Oklahoma,2024,12,2.0
+ID,Idaho,OR,Oregon,2024,12,184.0
+ID,Idaho,PA,Pennsylvania,2024,12,1.0
+ID,Idaho,TX,Texas,2024,12,90.0
+ID,Idaho,UT,Utah,2024,12,557.0
+ID,Idaho,WA,Washington,2024,12,672.0
+ID,Idaho,WY,Wyoming,2024,12,22.0
+IL,Illinois,AK,Alaska,2024,12,255.0
+IL,Illinois,AL,Alabama,2024,12,233.0
+IL,Illinois,AR,Arkansas,2024,12,315.0
+IL,Illinois,AZ,Arizona,2024,12,981.0
+IL,Illinois,CA,California,2024,12,2251.0
+IL,Illinois,CO,Colorado,2024,12,1093.0
+IL,Illinois,CT,Connecticut,2024,12,303.0
+IL,Illinois,DE,Delaware,2024,12,1.0
+IL,Illinois,FL,Florida,2024,12,3198.0
+IL,Illinois,GA,Georgia,2024,12,1017.0
+IL,Illinois,HI,Hawaii,2024,12,65.0
+IL,Illinois,IA,Iowa,2024,12,680.0
+IL,Illinois,ID,Idaho,2024,12,81.0
+IL,Illinois,IL,Illinois,2024,12,1573.0
+IL,Illinois,IN,Indiana,2024,12,922.0
+IL,Illinois,KS,Kansas,2024,12,218.0
+IL,Illinois,KY,Kentucky,2024,12,1087.0
+IL,Illinois,LA,Louisiana,2024,12,219.0
+IL,Illinois,MA,Massachusetts,2024,12,608.0
+IL,Illinois,MD,Maryland,2024,12,359.0
+IL,Illinois,ME,Maine,2024,12,61.0
+IL,Illinois,MI,Michigan,2024,12,1823.0
+IL,Illinois,MN,Minnesota,2024,12,958.0
+IL,Illinois,MO,Missouri,2024,12,1492.0
+IL,Illinois,MS,Mississippi,2024,12,2.0
+IL,Illinois,MT,Montana,2024,12,107.0
+IL,Illinois,NC,North Carolina,2024,12,1117.0
+IL,Illinois,ND,North Dakota,2024,12,170.0
+IL,Illinois,NE,Nebraska,2024,12,477.0
+IL,Illinois,NH,New Hampshire,2024,12,31.0
+IL,Illinois,NJ,New Jersey,2024,12,586.0
+IL,Illinois,NM,New Mexico,2024,12,94.0
+IL,Illinois,NV,Nevada,2024,12,686.0
+IL,Illinois,NY,New York,2024,12,2178.0
+IL,Illinois,OH,Ohio,2024,12,1175.0
+IL,Illinois,OK,Oklahoma,2024,12,361.0
+IL,Illinois,OR,Oregon,2024,12,228.0
+IL,Illinois,PA,Pennsylvania,2024,12,1375.0
+IL,Illinois,PR,Puerto Rico,2024,12,153.0
+IL,Illinois,RI,Rhode Island,2024,12,125.0
+IL,Illinois,SC,South Carolina,2024,12,376.0
+IL,Illinois,SD,South Dakota,2024,12,221.0
+IL,Illinois,TN,Tennessee,2024,12,1172.0
+IL,Illinois,TX,Texas,2024,12,2622.0
+IL,Illinois,UT,Utah,2024,12,319.0
+IL,Illinois,VA,Virginia,2024,12,1273.0
+IL,Illinois,VI,U.S. Virgin Islands,2024,12,22.0
+IL,Illinois,VT,Vermont,2024,12,76.0
+IL,Illinois,WA,Washington,2024,12,508.0
+IL,Illinois,WI,Wisconsin,2024,12,1281.0
+IL,Illinois,WV,West Virginia,2024,12,93.0
+IL,Illinois,WY,Wyoming,2024,12,30.0
+IN,Indiana,AK,Alaska,2024,12,36.0
+IN,Indiana,AL,Alabama,2024,12,2.0
+IN,Indiana,AR,Arkansas,2024,12,1.0
+IN,Indiana,AZ,Arizona,2024,12,174.0
+IN,Indiana,CA,California,2024,12,274.0
+IN,Indiana,CO,Colorado,2024,12,222.0
+IN,Indiana,CT,Connecticut,2024,12,15.0
+IN,Indiana,FL,Florida,2024,12,935.0
+IN,Indiana,GA,Georgia,2024,12,551.0
+IN,Indiana,IA,Iowa,2024,12,2.0
+IN,Indiana,IL,Illinois,2024,12,915.0
+IN,Indiana,IN,Indiana,2024,12,77.0
+IN,Indiana,KS,Kansas,2024,12,2.0
+IN,Indiana,KY,Kentucky,2024,12,33.0
+IN,Indiana,LA,Louisiana,2024,12,19.0
+IN,Indiana,MA,Massachusetts,2024,12,191.0
+IN,Indiana,MD,Maryland,2024,12,113.0
+IN,Indiana,MI,Michigan,2024,12,226.0
+IN,Indiana,MN,Minnesota,2024,12,218.0
+IN,Indiana,MO,Missouri,2024,12,65.0
+IN,Indiana,MS,Mississippi,2024,12,4.0
+IN,Indiana,NC,North Carolina,2024,12,455.0
+IN,Indiana,NE,Nebraska,2024,12,1.0
+IN,Indiana,NJ,New Jersey,2024,12,249.0
+IN,Indiana,NV,Nevada,2024,12,141.0
+IN,Indiana,NY,New York,2024,12,436.0
+IN,Indiana,OH,Ohio,2024,12,30.0
+IN,Indiana,OK,Oklahoma,2024,12,4.0
+IN,Indiana,OR,Oregon,2024,12,34.0
+IN,Indiana,PA,Pennsylvania,2024,12,150.0
+IN,Indiana,TN,Tennessee,2024,12,124.0
+IN,Indiana,TX,Texas,2024,12,698.0
+IN,Indiana,UT,Utah,2024,12,43.0
+IN,Indiana,VA,Virginia,2024,12,313.0
+IN,Indiana,WA,Washington,2024,12,61.0
+IN,Indiana,WI,Wisconsin,2024,12,7.0
+KS,Kansas,AZ,Arizona,2024,12,76.0
+KS,Kansas,CO,Colorado,2024,12,346.0
+KS,Kansas,FL,Florida,2024,12,12.0
+KS,Kansas,GA,Georgia,2024,12,91.0
+KS,Kansas,IL,Illinois,2024,12,216.0
+KS,Kansas,KS,Kansas,2024,12,46.0
+KS,Kansas,KY,Kentucky,2024,12,19.0
+KS,Kansas,MD,Maryland,2024,12,1.0
+KS,Kansas,MN,Minnesota,2024,12,33.0
+KS,Kansas,MO,Missouri,2024,12,70.0
+KS,Kansas,NC,North Carolina,2024,12,2.0
+KS,Kansas,NJ,New Jersey,2024,12,2.0
+KS,Kansas,NV,Nevada,2024,12,41.0
+KS,Kansas,NY,New York,2024,12,1.0
+KS,Kansas,OH,Ohio,2024,12,1.0
+KS,Kansas,OK,Oklahoma,2024,12,1.0
+KS,Kansas,PA,Pennsylvania,2024,12,1.0
+KS,Kansas,SC,South Carolina,2024,12,2.0
+KS,Kansas,TN,Tennessee,2024,12,20.0
+KS,Kansas,TX,Texas,2024,12,498.0
+KS,Kansas,VA,Virginia,2024,12,17.0
+KS,Kansas,WA,Washington,2024,12,26.0
+KY,Kentucky,AK,Alaska,2024,12,192.0
+KY,Kentucky,AL,Alabama,2024,12,47.0
+KY,Kentucky,AR,Arkansas,2024,12,22.0
+KY,Kentucky,AZ,Arizona,2024,12,225.0
+KY,Kentucky,CA,California,2024,12,926.0
+KY,Kentucky,CO,Colorado,2024,12,359.0
+KY,Kentucky,CT,Connecticut,2024,12,112.0
+KY,Kentucky,FL,Florida,2024,12,1609.0
+KY,Kentucky,GA,Georgia,2024,12,866.0
+KY,Kentucky,HI,Hawaii,2024,12,100.0
+KY,Kentucky,IA,Iowa,2024,12,43.0
+KY,Kentucky,ID,Idaho,2024,12,56.0
+KY,Kentucky,IL,Illinois,2024,12,1077.0
+KY,Kentucky,IN,Indiana,2024,12,19.0
+KY,Kentucky,KS,Kansas,2024,12,23.0
+KY,Kentucky,KY,Kentucky,2024,12,43.0
+KY,Kentucky,LA,Louisiana,2024,12,138.0
+KY,Kentucky,MA,Massachusetts,2024,12,298.0
+KY,Kentucky,MD,Maryland,2024,12,251.0
+KY,Kentucky,MI,Michigan,2024,12,415.0
+KY,Kentucky,MN,Minnesota,2024,12,357.0
+KY,Kentucky,MO,Missouri,2024,12,201.0
+KY,Kentucky,MS,Mississippi,2024,12,42.0
+KY,Kentucky,MT,Montana,2024,12,81.0
+KY,Kentucky,NC,North Carolina,2024,12,757.0
+KY,Kentucky,ND,North Dakota,2024,12,60.0
+KY,Kentucky,NE,Nebraska,2024,12,70.0
+KY,Kentucky,NH,New Hampshire,2024,12,122.0
+KY,Kentucky,NJ,New Jersey,2024,12,368.0
+KY,Kentucky,NM,New Mexico,2024,12,79.0
+KY,Kentucky,NV,Nevada,2024,12,232.0
+KY,Kentucky,NY,New York,2024,12,817.0
+KY,Kentucky,OH,Ohio,2024,12,75.0
+KY,Kentucky,OK,Oklahoma,2024,12,92.0
+KY,Kentucky,OR,Oregon,2024,12,152.0
+KY,Kentucky,PA,Pennsylvania,2024,12,513.0
+KY,Kentucky,PR,Puerto Rico,2024,12,154.0
+KY,Kentucky,RI,Rhode Island,2024,12,34.0
+KY,Kentucky,SC,South Carolina,2024,12,80.0
+KY,Kentucky,SD,South Dakota,2024,12,48.0
+KY,Kentucky,TN,Tennessee,2024,12,184.0
+KY,Kentucky,TX,Texas,2024,12,1383.0
+KY,Kentucky,UT,Utah,2024,12,152.0
+KY,Kentucky,VA,Virginia,2024,12,563.0
+KY,Kentucky,WA,Washington,2024,12,282.0
+KY,Kentucky,WI,Wisconsin,2024,12,45.0
+KY,Kentucky,WV,West Virginia,2024,12,4.0
+LA,Louisiana,AL,Alabama,2024,12,6.0
+LA,Louisiana,AR,Arkansas,2024,12,27.0
+LA,Louisiana,AZ,Arizona,2024,12,86.0
+LA,Louisiana,CA,California,2024,12,261.0
+LA,Louisiana,CO,Colorado,2024,12,241.0
+LA,Louisiana,CT,Connecticut,2024,12,9.0
+LA,Louisiana,FL,Florida,2024,12,559.0
+LA,Louisiana,GA,Georgia,2024,12,917.0
+LA,Louisiana,IL,Illinois,2024,12,220.0
+LA,Louisiana,IN,Indiana,2024,12,1.0
+LA,Louisiana,KY,Kentucky,2024,12,107.0
+LA,Louisiana,LA,Louisiana,2024,12,24.0
+LA,Louisiana,MA,Massachusetts,2024,12,116.0
+LA,Louisiana,MD,Maryland,2024,12,104.0
+LA,Louisiana,MI,Michigan,2024,12,72.0
+LA,Louisiana,MN,Minnesota,2024,12,35.0
+LA,Louisiana,MO,Missouri,2024,12,93.0
+LA,Louisiana,MS,Mississippi,2024,12,6.0
+LA,Louisiana,MT,Montana,2024,12,1.0
+LA,Louisiana,NC,North Carolina,2024,12,398.0
+LA,Louisiana,NE,Nebraska,2024,12,1.0
+LA,Louisiana,NJ,New Jersey,2024,12,142.0
+LA,Louisiana,NM,New Mexico,2024,12,2.0
+LA,Louisiana,NV,Nevada,2024,12,90.0
+LA,Louisiana,NY,New York,2024,12,238.0
+LA,Louisiana,OH,Ohio,2024,12,2.0
+LA,Louisiana,OK,Oklahoma,2024,12,8.0
+LA,Louisiana,PA,Pennsylvania,2024,12,87.0
+LA,Louisiana,PR,Puerto Rico,2024,12,13.0
+LA,Louisiana,RI,Rhode Island,2024,12,1.0
+LA,Louisiana,SC,South Carolina,2024,12,21.0
+LA,Louisiana,TN,Tennessee,2024,12,226.0
+LA,Louisiana,TX,Texas,2024,12,2334.0
+LA,Louisiana,UT,Utah,2024,12,40.0
+LA,Louisiana,VA,Virginia,2024,12,244.0
+LA,Louisiana,VT,Vermont,2024,12,1.0
+LA,Louisiana,WA,Washington,2024,12,55.0
+LA,Louisiana,WI,Wisconsin,2024,12,1.0
+LA,Louisiana,WV,West Virginia,2024,12,1.0
+MA,Massachusetts,AR,Arkansas,2024,12,1.0
+MA,Massachusetts,AZ,Arizona,2024,12,206.0
+MA,Massachusetts,CA,California,2024,12,868.0
+MA,Massachusetts,CO,Colorado,2024,12,301.0
+MA,Massachusetts,CT,Connecticut,2024,12,5.0
+MA,Massachusetts,FL,Florida,2024,12,2285.0
+MA,Massachusetts,GA,Georgia,2024,12,544.0
+MA,Massachusetts,HI,Hawaii,2024,12,45.0
+MA,Massachusetts,IL,Illinois,2024,12,623.0
+MA,Massachusetts,IN,Indiana,2024,12,167.0
+MA,Massachusetts,KS,Kansas,2024,12,1.0
+MA,Massachusetts,KY,Kentucky,2024,12,274.0
+MA,Massachusetts,LA,Louisiana,2024,12,116.0
+MA,Massachusetts,MA,Massachusetts,2024,12,1991.0
+MA,Massachusetts,MD,Maryland,2024,12,366.0
+MA,Massachusetts,ME,Maine,2024,12,294.0
+MA,Massachusetts,MI,Michigan,2024,12,242.0
+MA,Massachusetts,MN,Minnesota,2024,12,184.0
+MA,Massachusetts,MO,Missouri,2024,12,185.0
+MA,Massachusetts,MT,Montana,2024,12,15.0
+MA,Massachusetts,NC,North Carolina,2024,12,641.0
+MA,Massachusetts,NH,New Hampshire,2024,12,121.0
+MA,Massachusetts,NJ,New Jersey,2024,12,377.0
+MA,Massachusetts,NV,Nevada,2024,12,135.0
+MA,Massachusetts,NY,New York,2024,12,1401.0
+MA,Massachusetts,OH,Ohio,2024,12,301.0
+MA,Massachusetts,OK,Oklahoma,2024,12,1.0
+MA,Massachusetts,OR,Oregon,2024,12,42.0
+MA,Massachusetts,PA,Pennsylvania,2024,12,640.0
+MA,Massachusetts,PR,Puerto Rico,2024,12,186.0
+MA,Massachusetts,RI,Rhode Island,2024,12,45.0
+MA,Massachusetts,SC,South Carolina,2024,12,131.0
+MA,Massachusetts,TN,Tennessee,2024,12,310.0
+MA,Massachusetts,TX,Texas,2024,12,563.0
+MA,Massachusetts,UT,Utah,2024,12,88.0
+MA,Massachusetts,VA,Virginia,2024,12,1002.0
+MA,Massachusetts,VI,U.S. Virgin Islands,2024,12,23.0
+MA,Massachusetts,VT,Vermont,2024,12,90.0
+MA,Massachusetts,WA,Washington,2024,12,185.0
+MA,Massachusetts,WI,Wisconsin,2024,12,49.0
+MD,Maryland,AL,Alabama,2024,12,30.0
+MD,Maryland,AR,Arkansas,2024,12,1.0
+MD,Maryland,AZ,Arizona,2024,12,105.0
+MD,Maryland,CA,California,2024,12,231.0
+MD,Maryland,CO,Colorado,2024,12,280.0
+MD,Maryland,CT,Connecticut,2024,12,155.0
+MD,Maryland,FL,Florida,2024,12,1713.0
+MD,Maryland,GA,Georgia,2024,12,690.0
+MD,Maryland,HI,Hawaii,2024,12,1.0
+MD,Maryland,IL,Illinois,2024,12,371.0
+MD,Maryland,IN,Indiana,2024,12,117.0
+MD,Maryland,KY,Kentucky,2024,12,226.0
+MD,Maryland,LA,Louisiana,2024,12,102.0
+MD,Maryland,MA,Massachusetts,2024,12,367.0
+MD,Maryland,MD,Maryland,2024,12,5.0
+MD,Maryland,ME,Maine,2024,12,106.0
+MD,Maryland,MI,Michigan,2024,12,199.0
+MD,Maryland,MN,Minnesota,2024,12,120.0
+MD,Maryland,MO,Missouri,2024,12,198.0
+MD,Maryland,MS,Mississippi,2024,12,29.0
+MD,Maryland,NC,North Carolina,2024,12,555.0
+MD,Maryland,NE,Nebraska,2024,12,1.0
+MD,Maryland,NH,New Hampshire,2024,12,149.0
+MD,Maryland,NJ,New Jersey,2024,12,29.0
+MD,Maryland,NM,New Mexico,2024,12,33.0
+MD,Maryland,NV,Nevada,2024,12,157.0
+MD,Maryland,NY,New York,2024,12,460.0
+MD,Maryland,OH,Ohio,2024,12,157.0
+MD,Maryland,OK,Oklahoma,2024,12,1.0
+MD,Maryland,PA,Pennsylvania,2024,12,186.0
+MD,Maryland,PR,Puerto Rico,2024,12,131.0
+MD,Maryland,RI,Rhode Island,2024,12,153.0
+MD,Maryland,SC,South Carolina,2024,12,232.0
+MD,Maryland,TN,Tennessee,2024,12,193.0
+MD,Maryland,TX,Texas,2024,12,720.0
+MD,Maryland,UT,Utah,2024,12,59.0
+MD,Maryland,VA,Virginia,2024,12,190.0
+MD,Maryland,WA,Washington,2024,12,54.0
+MD,Maryland,WI,Wisconsin,2024,12,73.0
+MD,Maryland,WY,Wyoming,2024,12,1.0
+ME,Maine,AL,Alabama,2024,12,1.0
+ME,Maine,FL,Florida,2024,12,140.0
+ME,Maine,GA,Georgia,2024,12,32.0
+ME,Maine,IL,Illinois,2024,12,61.0
+ME,Maine,KY,Kentucky,2024,12,17.0
+ME,Maine,MA,Massachusetts,2024,12,296.0
+ME,Maine,MD,Maryland,2024,12,106.0
+ME,Maine,ME,Maine,2024,12,87.0
+ME,Maine,MI,Michigan,2024,12,60.0
+ME,Maine,NC,North Carolina,2024,12,43.0
+ME,Maine,NJ,New Jersey,2024,12,124.0
+ME,Maine,NY,New York,2024,12,226.0
+ME,Maine,PA,Pennsylvania,2024,12,169.0
+ME,Maine,RI,Rhode Island,2024,12,1.0
+ME,Maine,SC,South Carolina,2024,12,9.0
+ME,Maine,TN,Tennessee,2024,12,20.0
+ME,Maine,VA,Virginia,2024,12,275.0
+MI,Michigan,AL,Alabama,2024,12,64.0
+MI,Michigan,AR,Arkansas,2024,12,27.0
+MI,Michigan,AZ,Arizona,2024,12,271.0
+MI,Michigan,CA,California,2024,12,512.0
+MI,Michigan,CO,Colorado,2024,12,344.0
+MI,Michigan,CT,Connecticut,2024,12,109.0
+MI,Michigan,FL,Florida,2024,12,1683.0
+MI,Michigan,GA,Georgia,2024,12,545.0
+MI,Michigan,HI,Hawaii,2024,12,28.0
+MI,Michigan,IA,Iowa,2024,12,76.0
+MI,Michigan,IL,Illinois,2024,12,1829.0
+MI,Michigan,IN,Indiana,2024,12,229.0
+MI,Michigan,KS,Kansas,2024,12,1.0
+MI,Michigan,KY,Kentucky,2024,12,407.0
+MI,Michigan,LA,Louisiana,2024,12,78.0
+MI,Michigan,MA,Massachusetts,2024,12,238.0
+MI,Michigan,MD,Maryland,2024,12,200.0
+MI,Michigan,ME,Maine,2024,12,61.0
+MI,Michigan,MI,Michigan,2024,12,1691.0
+MI,Michigan,MN,Minnesota,2024,12,470.0
+MI,Michigan,MO,Missouri,2024,12,272.0
+MI,Michigan,MS,Mississippi,2024,12,3.0
+MI,Michigan,NC,North Carolina,2024,12,615.0
+MI,Michigan,NE,Nebraska,2024,12,82.0
+MI,Michigan,NH,New Hampshire,2024,12,1.0
+MI,Michigan,NJ,New Jersey,2024,12,304.0
+MI,Michigan,NM,New Mexico,2024,12,1.0
+MI,Michigan,NV,Nevada,2024,12,297.0
+MI,Michigan,NY,New York,2024,12,1115.0
+MI,Michigan,OH,Ohio,2024,12,272.0
+MI,Michigan,OK,Oklahoma,2024,12,4.0
+MI,Michigan,OR,Oregon,2024,12,28.0
+MI,Michigan,PA,Pennsylvania,2024,12,475.0
+MI,Michigan,PR,Puerto Rico,2024,12,44.0
+MI,Michigan,RI,Rhode Island,2024,12,75.0
+MI,Michigan,SC,South Carolina,2024,12,168.0
+MI,Michigan,TN,Tennessee,2024,12,484.0
+MI,Michigan,TX,Texas,2024,12,971.0
+MI,Michigan,UT,Utah,2024,12,131.0
+MI,Michigan,VA,Virginia,2024,12,614.0
+MI,Michigan,VT,Vermont,2024,12,63.0
+MI,Michigan,WA,Washington,2024,12,154.0
+MI,Michigan,WI,Wisconsin,2024,12,486.0
+MI,Michigan,WV,West Virginia,2024,12,1.0
+MN,Minnesota,AK,Alaska,2024,12,28.0
+MN,Minnesota,AL,Alabama,2024,12,1.0
+MN,Minnesota,AR,Arkansas,2024,12,44.0
+MN,Minnesota,AZ,Arizona,2024,12,500.0
+MN,Minnesota,CA,California,2024,12,839.0
+MN,Minnesota,CO,Colorado,2024,12,533.0
+MN,Minnesota,CT,Connecticut,2024,12,72.0
+MN,Minnesota,FL,Florida,2024,12,1063.0
+MN,Minnesota,GA,Georgia,2024,12,359.0
+MN,Minnesota,HI,Hawaii,2024,12,31.0
+MN,Minnesota,IA,Iowa,2024,12,162.0
+MN,Minnesota,ID,Idaho,2024,12,63.0
+MN,Minnesota,IL,Illinois,2024,12,939.0
+MN,Minnesota,IN,Indiana,2024,12,208.0
+MN,Minnesota,KS,Kansas,2024,12,34.0
+MN,Minnesota,KY,Kentucky,2024,12,327.0
+MN,Minnesota,LA,Louisiana,2024,12,36.0
+MN,Minnesota,MA,Massachusetts,2024,12,184.0
+MN,Minnesota,MD,Maryland,2024,12,121.0
+MN,Minnesota,MI,Michigan,2024,12,461.0
+MN,Minnesota,MN,Minnesota,2024,12,1024.0
+MN,Minnesota,MO,Missouri,2024,12,297.0
+MN,Minnesota,MS,Mississippi,2024,12,2.0
+MN,Minnesota,MT,Montana,2024,12,186.0
+MN,Minnesota,NC,North Carolina,2024,12,324.0
+MN,Minnesota,ND,North Dakota,2024,12,600.0
+MN,Minnesota,NE,Nebraska,2024,12,128.0
+MN,Minnesota,NH,New Hampshire,2024,12,1.0
+MN,Minnesota,NJ,New Jersey,2024,12,204.0
+MN,Minnesota,NM,New Mexico,2024,12,31.0
+MN,Minnesota,NV,Nevada,2024,12,291.0
+MN,Minnesota,NY,New York,2024,12,346.0
+MN,Minnesota,OH,Ohio,2024,12,217.0
+MN,Minnesota,OK,Oklahoma,2024,12,44.0
+MN,Minnesota,OR,Oregon,2024,12,170.0
+MN,Minnesota,PA,Pennsylvania,2024,12,290.0
+MN,Minnesota,PR,Puerto Rico,2024,12,39.0
+MN,Minnesota,SC,South Carolina,2024,12,32.0
+MN,Minnesota,SD,South Dakota,2024,12,298.0
+MN,Minnesota,TN,Tennessee,2024,12,337.0
+MN,Minnesota,TX,Texas,2024,12,787.0
+MN,Minnesota,UT,Utah,2024,12,133.0
+MN,Minnesota,VA,Virginia,2024,12,391.0
+MN,Minnesota,VI,U.S. Virgin Islands,2024,12,3.0
+MN,Minnesota,WA,Washington,2024,12,347.0
+MN,Minnesota,WI,Wisconsin,2024,12,539.0
+MN,Minnesota,WV,West Virginia,2024,12,1.0
+MN,Minnesota,WY,Wyoming,2024,12,10.0
+MO,Missouri,AL,Alabama,2024,12,1.0
+MO,Missouri,AR,Arkansas,2024,12,113.0
+MO,Missouri,AZ,Arizona,2024,12,474.0
+MO,Missouri,CA,California,2024,12,634.0
+MO,Missouri,CO,Colorado,2024,12,763.0
+MO,Missouri,CT,Connecticut,2024,12,4.0
+MO,Missouri,FL,Florida,2024,12,998.0
+MO,Missouri,GA,Georgia,2024,12,649.0
+MO,Missouri,IA,Iowa,2024,12,120.0
+MO,Missouri,IL,Illinois,2024,12,1489.0
+MO,Missouri,IN,Indiana,2024,12,61.0
+MO,Missouri,KS,Kansas,2024,12,67.0
+MO,Missouri,KY,Kentucky,2024,12,214.0
+MO,Missouri,LA,Louisiana,2024,12,96.0
+MO,Missouri,MA,Massachusetts,2024,12,185.0
+MO,Missouri,MD,Maryland,2024,12,198.0
+MO,Missouri,MI,Michigan,2024,12,267.0
+MO,Missouri,MN,Minnesota,2024,12,290.0
+MO,Missouri,MO,Missouri,2024,12,190.0
+MO,Missouri,NC,North Carolina,2024,12,482.0
+MO,Missouri,NE,Nebraska,2024,12,89.0
+MO,Missouri,NJ,New Jersey,2024,12,97.0
+MO,Missouri,NM,New Mexico,2024,12,30.0
+MO,Missouri,NV,Nevada,2024,12,359.0
+MO,Missouri,NY,New York,2024,12,504.0
+MO,Missouri,OH,Ohio,2024,12,120.0
+MO,Missouri,OK,Oklahoma,2024,12,121.0
+MO,Missouri,OR,Oregon,2024,12,31.0
+MO,Missouri,PA,Pennsylvania,2024,12,216.0
+MO,Missouri,PR,Puerto Rico,2024,12,4.0
+MO,Missouri,TN,Tennessee,2024,12,275.0
+MO,Missouri,TX,Texas,2024,12,1916.0
+MO,Missouri,UT,Utah,2024,12,156.0
+MO,Missouri,VA,Virginia,2024,12,438.0
+MO,Missouri,WA,Washington,2024,12,140.0
+MO,Missouri,WI,Wisconsin,2024,12,87.0
+MS,Mississippi,AL,Alabama,2024,12,2.0
+MS,Mississippi,AR,Arkansas,2024,12,1.0
+MS,Mississippi,AZ,Arizona,2024,12,1.0
+MS,Mississippi,CA,California,2024,12,1.0
+MS,Mississippi,FL,Florida,2024,12,31.0
+MS,Mississippi,GA,Georgia,2024,12,414.0
+MS,Mississippi,IA,Iowa,2024,12,1.0
+MS,Mississippi,IL,Illinois,2024,12,2.0
+MS,Mississippi,IN,Indiana,2024,12,2.0
+MS,Mississippi,KY,Kentucky,2024,12,33.0
+MS,Mississippi,LA,Louisiana,2024,12,4.0
+MS,Mississippi,MD,Maryland,2024,12,28.0
+MS,Mississippi,MI,Michigan,2024,12,4.0
+MS,Mississippi,MN,Minnesota,2024,12,2.0
+MS,Mississippi,MS,Mississippi,2024,12,6.0
+MS,Mississippi,NC,North Carolina,2024,12,219.0
+MS,Mississippi,NV,Nevada,2024,12,10.0
+MS,Mississippi,OH,Ohio,2024,12,6.0
+MS,Mississippi,OK,Oklahoma,2024,12,1.0
+MS,Mississippi,PA,Pennsylvania,2024,12,3.0
+MS,Mississippi,SC,South Carolina,2024,12,7.0
+MS,Mississippi,TN,Tennessee,2024,12,34.0
+MS,Mississippi,TX,Texas,2024,12,694.0
+MS,Mississippi,VA,Virginia,2024,12,15.0
+MS,Mississippi,WI,Wisconsin,2024,12,5.0
+MT,Montana,AZ,Arizona,2024,12,101.0
+MT,Montana,CA,California,2024,12,158.0
+MT,Montana,CO,Colorado,2024,12,668.0
+MT,Montana,GA,Georgia,2024,12,35.0
+MT,Montana,HI,Hawaii,2024,12,1.0
+MT,Montana,IA,Iowa,2024,12,2.0
+MT,Montana,ID,Idaho,2024,12,21.0
+MT,Montana,IL,Illinois,2024,12,107.0
+MT,Montana,KY,Kentucky,2024,12,49.0
+MT,Montana,LA,Louisiana,2024,12,1.0
+MT,Montana,MA,Massachusetts,2024,12,15.0
+MT,Montana,MN,Minnesota,2024,12,185.0
+MT,Montana,MO,Missouri,2024,12,1.0
+MT,Montana,MT,Montana,2024,12,959.0
+MT,Montana,ND,North Dakota,2024,12,1.0
+MT,Montana,NJ,New Jersey,2024,12,15.0
+MT,Montana,NV,Nevada,2024,12,106.0
+MT,Montana,NY,New York,2024,12,14.0
+MT,Montana,OR,Oregon,2024,12,96.0
+MT,Montana,SD,South Dakota,2024,12,17.0
+MT,Montana,TN,Tennessee,2024,12,40.0
+MT,Montana,TX,Texas,2024,12,142.0
+MT,Montana,UT,Utah,2024,12,570.0
+MT,Montana,VA,Virginia,2024,12,2.0
+MT,Montana,WA,Washington,2024,12,388.0
+NC,North Carolina,AL,Alabama,2024,12,573.0
+NC,North Carolina,AR,Arkansas,2024,12,267.0
+NC,North Carolina,AZ,Arizona,2024,12,323.0
+NC,North Carolina,CA,California,2024,12,805.0
+NC,North Carolina,CO,Colorado,2024,12,433.0
+NC,North Carolina,CT,Connecticut,2024,12,270.0
+NC,North Carolina,DE,Delaware,2024,12,9.0
+NC,North Carolina,FL,Florida,2024,12,4387.0
+NC,North Carolina,GA,Georgia,2024,12,1993.0
+NC,North Carolina,IA,Iowa,2024,12,110.0
+NC,North Carolina,IL,Illinois,2024,12,1143.0
+NC,North Carolina,IN,Indiana,2024,12,485.0
+NC,North Carolina,KS,Kansas,2024,12,1.0
+NC,North Carolina,KY,Kentucky,2024,12,755.0
+NC,North Carolina,LA,Louisiana,2024,12,397.0
+NC,North Carolina,MA,Massachusetts,2024,12,639.0
+NC,North Carolina,MD,Maryland,2024,12,554.0
+NC,North Carolina,ME,Maine,2024,12,43.0
+NC,North Carolina,MI,Michigan,2024,12,611.0
+NC,North Carolina,MN,Minnesota,2024,12,323.0
+NC,North Carolina,MO,Missouri,2024,12,483.0
+NC,North Carolina,MS,Mississippi,2024,12,216.0
+NC,North Carolina,NC,North Carolina,2024,12,3091.0
+NC,North Carolina,NE,Nebraska,2024,12,82.0
+NC,North Carolina,NH,New Hampshire,2024,12,99.0
+NC,North Carolina,NJ,New Jersey,2024,12,737.0
+NC,North Carolina,NV,Nevada,2024,12,237.0
+NC,North Carolina,NY,New York,2024,12,2392.0
+NC,North Carolina,OH,Ohio,2024,12,625.0
+NC,North Carolina,OK,Oklahoma,2024,12,177.0
+NC,North Carolina,OR,Oregon,2024,12,28.0
+NC,North Carolina,PA,Pennsylvania,2024,12,1513.0
+NC,North Carolina,PR,Puerto Rico,2024,12,185.0
+NC,North Carolina,RI,Rhode Island,2024,12,177.0
+NC,North Carolina,SC,South Carolina,2024,12,1143.0
+NC,North Carolina,TN,Tennessee,2024,12,1327.0
+NC,North Carolina,TX,Texas,2024,12,1536.0
+NC,North Carolina,UT,Utah,2024,12,104.0
+NC,North Carolina,VA,Virginia,2024,12,2418.0
+NC,North Carolina,VI,U.S. Virgin Islands,2024,12,67.0
+NC,North Carolina,VT,Vermont,2024,12,43.0
+NC,North Carolina,WA,Washington,2024,12,162.0
+NC,North Carolina,WI,Wisconsin,2024,12,197.0
+NC,North Carolina,WV,West Virginia,2024,12,331.0
+ND,North Dakota,AK,Alaska,2024,12,2.0
+ND,North Dakota,AL,Alabama,2024,12,1.0
+ND,North Dakota,AZ,Arizona,2024,12,107.0
+ND,North Dakota,CA,California,2024,12,12.0
+ND,North Dakota,CO,Colorado,2024,12,524.0
+ND,North Dakota,FL,Florida,2024,12,49.0
+ND,North Dakota,GA,Georgia,2024,12,2.0
+ND,North Dakota,IA,Iowa,2024,12,2.0
+ND,North Dakota,IL,Illinois,2024,12,174.0
+ND,North Dakota,IN,Indiana,2024,12,1.0
+ND,North Dakota,KY,Kentucky,2024,12,23.0
+ND,North Dakota,MI,Michigan,2024,12,1.0
+ND,North Dakota,MN,Minnesota,2024,12,614.0
+ND,North Dakota,MT,Montana,2024,12,2.0
+ND,North Dakota,ND,North Dakota,2024,12,240.0
+ND,North Dakota,NV,Nevada,2024,12,57.0
+ND,North Dakota,OH,Ohio,2024,12,2.0
+ND,North Dakota,OR,Oregon,2024,12,1.0
+ND,North Dakota,SD,South Dakota,2024,12,15.0
+ND,North Dakota,TN,Tennessee,2024,12,29.0
+ND,North Dakota,TX,Texas,2024,12,159.0
+ND,North Dakota,UT,Utah,2024,12,1.0
+NE,Nebraska,AR,Arkansas,2024,12,1.0
+NE,Nebraska,AZ,Arizona,2024,12,201.0
+NE,Nebraska,CA,California,2024,12,72.0
+NE,Nebraska,CO,Colorado,2024,12,669.0
+NE,Nebraska,FL,Florida,2024,12,97.0
+NE,Nebraska,GA,Georgia,2024,12,167.0
+NE,Nebraska,IA,Iowa,2024,12,7.0
+NE,Nebraska,IL,Illinois,2024,12,462.0
+NE,Nebraska,IN,Indiana,2024,12,1.0
+NE,Nebraska,KY,Kentucky,2024,12,74.0
+NE,Nebraska,MI,Michigan,2024,12,81.0
+NE,Nebraska,MN,Minnesota,2024,12,129.0
+NE,Nebraska,MO,Missouri,2024,12,90.0
+NE,Nebraska,NC,North Carolina,2024,12,82.0
+NE,Nebraska,NE,Nebraska,2024,12,162.0
+NE,Nebraska,NV,Nevada,2024,12,117.0
+NE,Nebraska,NY,New York,2024,12,96.0
+NE,Nebraska,OK,Oklahoma,2024,12,2.0
+NE,Nebraska,PA,Pennsylvania,2024,12,1.0
+NE,Nebraska,SD,South Dakota,2024,12,1.0
+NE,Nebraska,TN,Tennessee,2024,12,48.0
+NE,Nebraska,TX,Texas,2024,12,302.0
+NE,Nebraska,UT,Utah,2024,12,61.0
+NE,Nebraska,VA,Virginia,2024,12,50.0
+NE,Nebraska,WA,Washington,2024,12,26.0
+NE,Nebraska,WI,Wisconsin,2024,12,3.0
+NE,Nebraska,WY,Wyoming,2024,12,20.0
+NH,New Hampshire,CA,California,2024,12,1.0
+NH,New Hampshire,CT,Connecticut,2024,12,1.0
+NH,New Hampshire,FL,Florida,2024,12,128.0
+NH,New Hampshire,IL,Illinois,2024,12,32.0
+NH,New Hampshire,KY,Kentucky,2024,12,102.0
+NH,New Hampshire,MA,Massachusetts,2024,12,118.0
+NH,New Hampshire,MD,Maryland,2024,12,149.0
+NH,New Hampshire,ME,Maine,2024,12,17.0
+NH,New Hampshire,MN,Minnesota,2024,12,1.0
+NH,New Hampshire,MO,Missouri,2024,12,1.0
+NH,New Hampshire,NC,North Carolina,2024,12,98.0
+NH,New Hampshire,NJ,New Jersey,2024,12,60.0
+NH,New Hampshire,NY,New York,2024,12,61.0
+NH,New Hampshire,PA,Pennsylvania,2024,12,111.0
+NH,New Hampshire,SC,South Carolina,2024,12,11.0
+NH,New Hampshire,TN,Tennessee,2024,12,19.0
+NH,New Hampshire,TX,Texas,2024,12,36.0
+NH,New Hampshire,VA,Virginia,2024,12,101.0
+NJ,New Jersey,AK,Alaska,2024,12,22.0
+NJ,New Jersey,AL,Alabama,2024,12,1.0
+NJ,New Jersey,AR,Arkansas,2024,12,2.0
+NJ,New Jersey,AZ,Arizona,2024,12,225.0
+NJ,New Jersey,CA,California,2024,12,1100.0
+NJ,New Jersey,CO,Colorado,2024,12,317.0
+NJ,New Jersey,CT,Connecticut,2024,12,1.0
+NJ,New Jersey,FL,Florida,2024,12,3068.0
+NJ,New Jersey,GA,Georgia,2024,12,626.0
+NJ,New Jersey,HI,Hawaii,2024,12,28.0
+NJ,New Jersey,IA,Iowa,2024,12,10.0
+NJ,New Jersey,IL,Illinois,2024,12,624.0
+NJ,New Jersey,IN,Indiana,2024,12,259.0
+NJ,New Jersey,KS,Kansas,2024,12,3.0
+NJ,New Jersey,KY,Kentucky,2024,12,413.0
+NJ,New Jersey,LA,Louisiana,2024,12,142.0
+NJ,New Jersey,MA,Massachusetts,2024,12,377.0
+NJ,New Jersey,MD,Maryland,2024,12,41.0
+NJ,New Jersey,ME,Maine,2024,12,122.0
+NJ,New Jersey,MI,Michigan,2024,12,305.0
+NJ,New Jersey,MN,Minnesota,2024,12,206.0
+NJ,New Jersey,MO,Missouri,2024,12,97.0
+NJ,New Jersey,MS,Mississippi,2024,12,1.0
+NJ,New Jersey,MT,Montana,2024,12,15.0
+NJ,New Jersey,NC,North Carolina,2024,12,731.0
+NJ,New Jersey,NH,New Hampshire,2024,12,57.0
+NJ,New Jersey,NJ,New Jersey,2024,12,5.0
+NJ,New Jersey,NM,New Mexico,2024,12,1.0
+NJ,New Jersey,NV,Nevada,2024,12,260.0
+NJ,New Jersey,NY,New York,2024,12,375.0
+NJ,New Jersey,OH,Ohio,2024,12,394.0
+NJ,New Jersey,OK,Oklahoma,2024,12,4.0
+NJ,New Jersey,OR,Oregon,2024,12,62.0
+NJ,New Jersey,PA,Pennsylvania,2024,12,245.0
+NJ,New Jersey,PR,Puerto Rico,2024,12,257.0
+NJ,New Jersey,RI,Rhode Island,2024,12,62.0
+NJ,New Jersey,SC,South Carolina,2024,12,255.0
+NJ,New Jersey,TN,Tennessee,2024,12,364.0
+NJ,New Jersey,TX,Texas,2024,12,914.0
+NJ,New Jersey,UT,Utah,2024,12,96.0
+NJ,New Jersey,VA,Virginia,2024,12,671.0
+NJ,New Jersey,VI,U.S. Virgin Islands,2024,12,31.0
+NJ,New Jersey,VT,Vermont,2024,12,81.0
+NJ,New Jersey,WA,Washington,2024,12,148.0
+NJ,New Jersey,WI,Wisconsin,2024,12,90.0
+NJ,New Jersey,WV,West Virginia,2024,12,12.0
+NJ,New Jersey,WY,Wyoming,2024,12,24.0
+NM,New Mexico,AL,Alabama,2024,12,1.0
+NM,New Mexico,AZ,Arizona,2024,12,459.0
+NM,New Mexico,CA,California,2024,12,435.0
+NM,New Mexico,CO,Colorado,2024,12,492.0
+NM,New Mexico,FL,Florida,2024,12,5.0
+NM,New Mexico,GA,Georgia,2024,12,84.0
+NM,New Mexico,IL,Illinois,2024,12,93.0
+NM,New Mexico,KY,Kentucky,2024,12,44.0
+NM,New Mexico,LA,Louisiana,2024,12,5.0
+NM,New Mexico,MD,Maryland,2024,12,34.0
+NM,New Mexico,MI,Michigan,2024,12,1.0
+NM,New Mexico,MN,Minnesota,2024,12,33.0
+NM,New Mexico,MO,Missouri,2024,12,29.0
+NM,New Mexico,NM,New Mexico,2024,12,432.0
+NM,New Mexico,NV,Nevada,2024,12,180.0
+NM,New Mexico,OK,Oklahoma,2024,12,1.0
+NM,New Mexico,OR,Oregon,2024,12,31.0
+NM,New Mexico,TN,Tennessee,2024,12,19.0
+NM,New Mexico,TX,Texas,2024,12,903.0
+NM,New Mexico,UT,Utah,2024,12,92.0
+NM,New Mexico,VA,Virginia,2024,12,1.0
+NM,New Mexico,WA,Washington,2024,12,46.0
+NV,Nevada,AK,Alaska,2024,12,8.0
+NV,Nevada,AL,Alabama,2024,12,40.0
+NV,Nevada,AR,Arkansas,2024,12,41.0
+NV,Nevada,AZ,Arizona,2024,12,1131.0
+NV,Nevada,CA,California,2024,12,6229.0
+NV,Nevada,CO,Colorado,2024,12,917.0
+NV,Nevada,CT,Connecticut,2024,12,14.0
+NV,Nevada,FL,Florida,2024,12,475.0
+NV,Nevada,GA,Georgia,2024,12,452.0
+NV,Nevada,HI,Hawaii,2024,12,247.0
+NV,Nevada,IA,Iowa,2024,12,62.0
+NV,Nevada,ID,Idaho,2024,12,186.0
+NV,Nevada,IL,Illinois,2024,12,680.0
+NV,Nevada,IN,Indiana,2024,12,141.0
+NV,Nevada,KS,Kansas,2024,12,41.0
+NV,Nevada,KY,Kentucky,2024,12,264.0
+NV,Nevada,LA,Louisiana,2024,12,90.0
+NV,Nevada,MA,Massachusetts,2024,12,134.0
+NV,Nevada,MD,Maryland,2024,12,157.0
+NV,Nevada,MI,Michigan,2024,12,297.0
+NV,Nevada,MN,Minnesota,2024,12,287.0
+NV,Nevada,MO,Missouri,2024,12,361.0
+NV,Nevada,MS,Mississippi,2024,12,10.0
+NV,Nevada,MT,Montana,2024,12,106.0
+NV,Nevada,NC,North Carolina,2024,12,232.0
+NV,Nevada,ND,North Dakota,2024,12,57.0
+NV,Nevada,NE,Nebraska,2024,12,113.0
+NV,Nevada,NJ,New Jersey,2024,12,256.0
+NV,Nevada,NM,New Mexico,2024,12,182.0
+NV,Nevada,NV,Nevada,2024,12,732.0
+NV,Nevada,NY,New York,2024,12,391.0
+NV,Nevada,OH,Ohio,2024,12,182.0
+NV,Nevada,OK,Oklahoma,2024,12,155.0
+NV,Nevada,OR,Oregon,2024,12,457.0
+NV,Nevada,PA,Pennsylvania,2024,12,205.0
+NV,Nevada,SD,South Dakota,2024,12,35.0
+NV,Nevada,TN,Tennessee,2024,12,274.0
+NV,Nevada,TX,Texas,2024,12,2124.0
+NV,Nevada,UT,Utah,2024,12,527.0
+NV,Nevada,VA,Virginia,2024,12,135.0
+NV,Nevada,WA,Washington,2024,12,804.0
+NV,Nevada,WI,Wisconsin,2024,12,90.0
+NY,New York,AK,Alaska,2024,12,115.0
+NY,New York,AL,Alabama,2024,12,77.0
+NY,New York,AR,Arkansas,2024,12,144.0
+NY,New York,AZ,Arizona,2024,12,277.0
+NY,New York,CA,California,2024,12,1743.0
+NY,New York,CO,Colorado,2024,12,598.0
+NY,New York,CT,Connecticut,2024,12,27.0
+NY,New York,DE,Delaware,2024,12,1.0
+NY,New York,FL,Florida,2024,12,6490.0
+NY,New York,GA,Georgia,2024,12,1699.0
+NY,New York,HI,Hawaii,2024,12,62.0
+NY,New York,IA,Iowa,2024,12,77.0
+NY,New York,IL,Illinois,2024,12,2195.0
+NY,New York,IN,Indiana,2024,12,424.0
+NY,New York,KS,Kansas,2024,12,1.0
+NY,New York,KY,Kentucky,2024,12,867.0
+NY,New York,LA,Louisiana,2024,12,240.0
+NY,New York,MA,Massachusetts,2024,12,1383.0
+NY,New York,MD,Maryland,2024,12,461.0
+NY,New York,ME,Maine,2024,12,225.0
+NY,New York,MI,Michigan,2024,12,1111.0
+NY,New York,MN,Minnesota,2024,12,347.0
+NY,New York,MO,Missouri,2024,12,506.0
+NY,New York,MT,Montana,2024,12,15.0
+NY,New York,NC,North Carolina,2024,12,2380.0
+NY,New York,NE,Nebraska,2024,12,97.0
+NY,New York,NH,New Hampshire,2024,12,62.0
+NY,New York,NJ,New Jersey,2024,12,392.0
+NY,New York,NV,Nevada,2024,12,391.0
+NY,New York,NY,New York,2024,12,1969.0
+NY,New York,OH,Ohio,2024,12,790.0
+NY,New York,OK,Oklahoma,2024,12,137.0
+NY,New York,OR,Oregon,2024,12,62.0
+NY,New York,PA,Pennsylvania,2024,12,932.0
+NY,New York,PR,Puerto Rico,2024,12,490.0
+NY,New York,RI,Rhode Island,2024,12,22.0
+NY,New York,SC,South Carolina,2024,12,631.0
+NY,New York,TN,Tennessee,2024,12,986.0
+NY,New York,TX,Texas,2024,12,1653.0
+NY,New York,UT,Utah,2024,12,178.0
+NY,New York,VA,Virginia,2024,12,2252.0
+NY,New York,VI,U.S. Virgin Islands,2024,12,46.0
+NY,New York,VT,Vermont,2024,12,154.0
+NY,New York,WA,Washington,2024,12,240.0
+NY,New York,WI,Wisconsin,2024,12,194.0
+OH,Ohio,AL,Alabama,2024,12,2.0
+OH,Ohio,AR,Arkansas,2024,12,1.0
+OH,Ohio,AZ,Arizona,2024,12,179.0
+OH,Ohio,CA,California,2024,12,227.0
+OH,Ohio,CO,Colorado,2024,12,359.0
+OH,Ohio,CT,Connecticut,2024,12,40.0
+OH,Ohio,FL,Florida,2024,12,1330.0
+OH,Ohio,GA,Georgia,2024,12,674.0
+OH,Ohio,IA,Iowa,2024,12,1.0
+OH,Ohio,IL,Illinois,2024,12,1160.0
+OH,Ohio,IN,Indiana,2024,12,37.0
+OH,Ohio,KS,Kansas,2024,12,2.0
+OH,Ohio,KY,Kentucky,2024,12,80.0
+OH,Ohio,MA,Massachusetts,2024,12,300.0
+OH,Ohio,MD,Maryland,2024,12,158.0
+OH,Ohio,MI,Michigan,2024,12,271.0
+OH,Ohio,MN,Minnesota,2024,12,217.0
+OH,Ohio,MO,Missouri,2024,12,120.0
+OH,Ohio,MS,Mississippi,2024,12,8.0
+OH,Ohio,MT,Montana,2024,12,1.0
+OH,Ohio,NC,North Carolina,2024,12,626.0
+OH,Ohio,ND,North Dakota,2024,12,1.0
+OH,Ohio,NE,Nebraska,2024,12,1.0
+OH,Ohio,NJ,New Jersey,2024,12,387.0
+OH,Ohio,NV,Nevada,2024,12,184.0
+OH,Ohio,NY,New York,2024,12,795.0
+OH,Ohio,OH,Ohio,2024,12,10.0
+OH,Ohio,OK,Oklahoma,2024,12,1.0
+OH,Ohio,PA,Pennsylvania,2024,12,340.0
+OH,Ohio,PR,Puerto Rico,2024,12,14.0
+OH,Ohio,SC,South Carolina,2024,12,26.0
+OH,Ohio,TN,Tennessee,2024,12,223.0
+OH,Ohio,TX,Texas,2024,12,717.0
+OH,Ohio,UT,Utah,2024,12,65.0
+OH,Ohio,VA,Virginia,2024,12,756.0
+OH,Ohio,VT,Vermont,2024,12,1.0
+OH,Ohio,WA,Washington,2024,12,55.0
+OH,Ohio,WI,Wisconsin,2024,12,5.0
+OK,Oklahoma,AR,Arkansas,2024,12,2.0
+OK,Oklahoma,AZ,Arizona,2024,12,285.0
+OK,Oklahoma,CA,California,2024,12,107.0
+OK,Oklahoma,CO,Colorado,2024,12,460.0
+OK,Oklahoma,FL,Florida,2024,12,53.0
+OK,Oklahoma,GA,Georgia,2024,12,297.0
+OK,Oklahoma,IL,Illinois,2024,12,361.0
+OK,Oklahoma,IN,Indiana,2024,12,4.0
+OK,Oklahoma,KS,Kansas,2024,12,16.0
+OK,Oklahoma,KY,Kentucky,2024,12,87.0
+OK,Oklahoma,LA,Louisiana,2024,12,3.0
+OK,Oklahoma,MI,Michigan,2024,12,2.0
+OK,Oklahoma,MN,Minnesota,2024,12,34.0
+OK,Oklahoma,MO,Missouri,2024,12,121.0
+OK,Oklahoma,NC,North Carolina,2024,12,174.0
+OK,Oklahoma,NJ,New Jersey,2024,12,1.0
+OK,Oklahoma,NV,Nevada,2024,12,153.0
+OK,Oklahoma,NY,New York,2024,12,132.0
+OK,Oklahoma,OK,Oklahoma,2024,12,18.0
+OK,Oklahoma,TN,Tennessee,2024,12,59.0
+OK,Oklahoma,TX,Texas,2024,12,1466.0
+OK,Oklahoma,UT,Utah,2024,12,120.0
+OK,Oklahoma,VA,Virginia,2024,12,87.0
+OK,Oklahoma,WA,Washington,2024,12,26.0
+OK,Oklahoma,WI,Wisconsin,2024,12,1.0
+OR,Oregon,AK,Alaska,2024,12,101.0
+OR,Oregon,AZ,Arizona,2024,12,621.0
+OR,Oregon,CA,California,2024,12,2956.0
+OR,Oregon,CO,Colorado,2024,12,535.0
+OR,Oregon,FL,Florida,2024,12,131.0
+OR,Oregon,GA,Georgia,2024,12,124.0
+OR,Oregon,HI,Hawaii,2024,12,158.0
+OR,Oregon,IA,Iowa,2024,12,1.0
+OR,Oregon,ID,Idaho,2024,12,184.0
+OR,Oregon,IL,Illinois,2024,12,194.0
+OR,Oregon,IN,Indiana,2024,12,25.0
+OR,Oregon,KS,Kansas,2024,12,1.0
+OR,Oregon,KY,Kentucky,2024,12,161.0
+OR,Oregon,LA,Louisiana,2024,12,1.0
+OR,Oregon,MA,Massachusetts,2024,12,45.0
+OR,Oregon,MI,Michigan,2024,12,28.0
+OR,Oregon,MN,Minnesota,2024,12,170.0
+OR,Oregon,MO,Missouri,2024,12,31.0
+OR,Oregon,MT,Montana,2024,12,95.0
+OR,Oregon,NC,North Carolina,2024,12,27.0
+OR,Oregon,NJ,New Jersey,2024,12,63.0
+OR,Oregon,NM,New Mexico,2024,12,31.0
+OR,Oregon,NV,Nevada,2024,12,459.0
+OR,Oregon,NY,New York,2024,12,62.0
+OR,Oregon,OK,Oklahoma,2024,12,1.0
+OR,Oregon,OR,Oregon,2024,12,1157.0
+OR,Oregon,TN,Tennessee,2024,12,55.0
+OR,Oregon,TX,Texas,2024,12,395.0
+OR,Oregon,UT,Utah,2024,12,405.0
+OR,Oregon,VA,Virginia,2024,12,46.0
+OR,Oregon,WA,Washington,2024,12,1335.0
+OR,Oregon,WY,Wyoming,2024,12,1.0
+PA,Pennsylvania,AL,Alabama,2024,12,36.0
+PA,Pennsylvania,AR,Arkansas,2024,12,12.0
+PA,Pennsylvania,AZ,Arizona,2024,12,271.0
+PA,Pennsylvania,CA,California,2024,12,531.0
+PA,Pennsylvania,CO,Colorado,2024,12,367.0
+PA,Pennsylvania,CT,Connecticut,2024,12,125.0
+PA,Pennsylvania,DE,Delaware,2024,12,1.0
+PA,Pennsylvania,FL,Florida,2024,12,2751.0
+PA,Pennsylvania,GA,Georgia,2024,12,1030.0
+PA,Pennsylvania,ID,Idaho,2024,12,1.0
+PA,Pennsylvania,IL,Illinois,2024,12,1418.0
+PA,Pennsylvania,IN,Indiana,2024,12,167.0
+PA,Pennsylvania,KS,Kansas,2024,12,1.0
+PA,Pennsylvania,KY,Kentucky,2024,12,550.0
+PA,Pennsylvania,LA,Louisiana,2024,12,88.0
+PA,Pennsylvania,MA,Massachusetts,2024,12,629.0
+PA,Pennsylvania,MD,Maryland,2024,12,158.0
+PA,Pennsylvania,ME,Maine,2024,12,169.0
+PA,Pennsylvania,MI,Michigan,2024,12,493.0
+PA,Pennsylvania,MN,Minnesota,2024,12,271.0
+PA,Pennsylvania,MO,Missouri,2024,12,216.0
+PA,Pennsylvania,MS,Mississippi,2024,12,2.0
+PA,Pennsylvania,NC,North Carolina,2024,12,1502.0
+PA,Pennsylvania,NH,New Hampshire,2024,12,109.0
+PA,Pennsylvania,NJ,New Jersey,2024,12,264.0
+PA,Pennsylvania,NV,Nevada,2024,12,205.0
+PA,Pennsylvania,NY,New York,2024,12,930.0
+PA,Pennsylvania,OH,Ohio,2024,12,306.0
+PA,Pennsylvania,OK,Oklahoma,2024,12,1.0
+PA,Pennsylvania,PA,Pennsylvania,2024,12,1124.0
+PA,Pennsylvania,PR,Puerto Rico,2024,12,163.0
+PA,Pennsylvania,RI,Rhode Island,2024,12,99.0
+PA,Pennsylvania,SC,South Carolina,2024,12,312.0
+PA,Pennsylvania,TN,Tennessee,2024,12,610.0
+PA,Pennsylvania,TX,Texas,2024,12,915.0
+PA,Pennsylvania,UT,Utah,2024,12,99.0
+PA,Pennsylvania,VA,Virginia,2024,12,1128.0
+PA,Pennsylvania,VI,U.S. Virgin Islands,2024,12,13.0
+PA,Pennsylvania,VT,Vermont,2024,12,84.0
+PA,Pennsylvania,WA,Washington,2024,12,113.0
+PA,Pennsylvania,WI,Wisconsin,2024,12,90.0
+PA,Pennsylvania,WV,West Virginia,2024,12,16.0
+PR,Puerto Rico,AL,Alabama,2024,12,1.0
+PR,Puerto Rico,AR,Arkansas,2024,12,4.0
+PR,Puerto Rico,CO,Colorado,2024,12,31.0
+PR,Puerto Rico,CT,Connecticut,2024,12,110.0
+PR,Puerto Rico,DE,Delaware,2024,12,9.0
+PR,Puerto Rico,FL,Florida,2024,12,1555.0
+PR,Puerto Rico,GA,Georgia,2024,12,202.0
+PR,Puerto Rico,IL,Illinois,2024,12,147.0
+PR,Puerto Rico,KS,Kansas,2024,12,1.0
+PR,Puerto Rico,KY,Kentucky,2024,12,167.0
+PR,Puerto Rico,LA,Louisiana,2024,12,13.0
+PR,Puerto Rico,MA,Massachusetts,2024,12,184.0
+PR,Puerto Rico,MD,Maryland,2024,12,131.0
+PR,Puerto Rico,ME,Maine,2024,12,1.0
+PR,Puerto Rico,MI,Michigan,2024,12,43.0
+PR,Puerto Rico,MN,Minnesota,2024,12,40.0
+PR,Puerto Rico,MO,Missouri,2024,12,4.0
+PR,Puerto Rico,NC,North Carolina,2024,12,187.0
+PR,Puerto Rico,ND,North Dakota,2024,12,1.0
+PR,Puerto Rico,NJ,New Jersey,2024,12,276.0
+PR,Puerto Rico,NY,New York,2024,12,488.0
+PR,Puerto Rico,OH,Ohio,2024,12,15.0
+PR,Puerto Rico,PA,Pennsylvania,2024,12,167.0
+PR,Puerto Rico,PR,Puerto Rico,2024,12,2341.0
+PR,Puerto Rico,RI,Rhode Island,2024,12,30.0
+PR,Puerto Rico,SC,South Carolina,2024,12,12.0
+PR,Puerto Rico,TN,Tennessee,2024,12,63.0
+PR,Puerto Rico,TX,Texas,2024,12,225.0
+PR,Puerto Rico,VA,Virginia,2024,12,75.0
+PR,Puerto Rico,VI,U.S. Virgin Islands,2024,12,653.0
+RI,Rhode Island,AZ,Arizona,2024,12,1.0
+RI,Rhode Island,CA,California,2024,12,1.0
+RI,Rhode Island,CO,Colorado,2024,12,16.0
+RI,Rhode Island,CT,Connecticut,2024,12,6.0
+RI,Rhode Island,FL,Florida,2024,12,523.0
+RI,Rhode Island,GA,Georgia,2024,12,98.0
+RI,Rhode Island,IL,Illinois,2024,12,126.0
+RI,Rhode Island,IN,Indiana,2024,12,15.0
+RI,Rhode Island,KY,Kentucky,2024,12,36.0
+RI,Rhode Island,MA,Massachusetts,2024,12,49.0
+RI,Rhode Island,MD,Maryland,2024,12,154.0
+RI,Rhode Island,MI,Michigan,2024,12,75.0
+RI,Rhode Island,NC,North Carolina,2024,12,178.0
+RI,Rhode Island,NJ,New Jersey,2024,12,71.0
+RI,Rhode Island,NY,New York,2024,12,24.0
+RI,Rhode Island,PA,Pennsylvania,2024,12,103.0
+RI,Rhode Island,PR,Puerto Rico,2024,12,30.0
+RI,Rhode Island,RI,Rhode Island,2024,12,537.0
+RI,Rhode Island,SC,South Carolina,2024,12,51.0
+RI,Rhode Island,TN,Tennessee,2024,12,3.0
+RI,Rhode Island,TX,Texas,2024,12,1.0
+RI,Rhode Island,UT,Utah,2024,12,1.0
+RI,Rhode Island,VA,Virginia,2024,12,316.0
+RI,Rhode Island,VI,U.S. Virgin Islands,2024,12,1.0
+RI,Rhode Island,VT,Vermont,2024,12,1.0
+SC,South Carolina,AK,Alaska,2024,12,3.0
+SC,South Carolina,AL,Alabama,2024,12,2.0
+SC,South Carolina,CA,California,2024,12,9.0
+SC,South Carolina,CO,Colorado,2024,12,79.0
+SC,South Carolina,CT,Connecticut,2024,12,63.0
+SC,South Carolina,FL,Florida,2024,12,355.0
+SC,South Carolina,GA,Georgia,2024,12,813.0
+SC,South Carolina,IL,Illinois,2024,12,377.0
+SC,South Carolina,KS,Kansas,2024,12,3.0
+SC,South Carolina,KY,Kentucky,2024,12,76.0
+SC,South Carolina,LA,Louisiana,2024,12,20.0
+SC,South Carolina,MA,Massachusetts,2024,12,132.0
+SC,South Carolina,MD,Maryland,2024,12,232.0
+SC,South Carolina,ME,Maine,2024,12,9.0
+SC,South Carolina,MI,Michigan,2024,12,166.0
+SC,South Carolina,MN,Minnesota,2024,12,32.0
+SC,South Carolina,MO,Missouri,2024,12,1.0
+SC,South Carolina,MS,Mississippi,2024,12,8.0
+SC,South Carolina,NC,North Carolina,2024,12,1148.0
+SC,South Carolina,NH,New Hampshire,2024,12,11.0
+SC,South Carolina,NJ,New Jersey,2024,12,256.0
+SC,South Carolina,NY,New York,2024,12,635.0
+SC,South Carolina,OH,Ohio,2024,12,28.0
+SC,South Carolina,PA,Pennsylvania,2024,12,299.0
+SC,South Carolina,RI,Rhode Island,2024,12,50.0
+SC,South Carolina,SC,South Carolina,2024,12,50.0
+SC,South Carolina,TN,Tennessee,2024,12,173.0
+SC,South Carolina,TX,Texas,2024,12,428.0
+SC,South Carolina,VA,Virginia,2024,12,625.0
+SC,South Carolina,WA,Washington,2024,12,30.0
+SC,South Carolina,WV,West Virginia,2024,12,2.0
+SD,South Dakota,AL,Alabama,2024,12,1.0
+SD,South Dakota,AZ,Arizona,2024,12,96.0
+SD,South Dakota,CA,California,2024,12,16.0
+SD,South Dakota,CO,Colorado,2024,12,416.0
+SD,South Dakota,FL,Florida,2024,12,44.0
+SD,South Dakota,GA,Georgia,2024,12,31.0
+SD,South Dakota,IA,Iowa,2024,12,1.0
+SD,South Dakota,IL,Illinois,2024,12,229.0
+SD,South Dakota,KY,Kentucky,2024,12,25.0
+SD,South Dakota,MN,Minnesota,2024,12,298.0
+SD,South Dakota,MO,Missouri,2024,12,3.0
+SD,South Dakota,MT,Montana,2024,12,17.0
+SD,South Dakota,ND,North Dakota,2024,12,7.0
+SD,South Dakota,NV,Nevada,2024,12,34.0
+SD,South Dakota,OH,Ohio,2024,12,2.0
+SD,South Dakota,OK,Oklahoma,2024,12,1.0
+SD,South Dakota,PA,Pennsylvania,2024,12,1.0
+SD,South Dakota,SD,South Dakota,2024,12,158.0
+SD,South Dakota,TN,Tennessee,2024,12,30.0
+SD,South Dakota,TX,Texas,2024,12,179.0
+SD,South Dakota,WA,Washington,2024,12,1.0
+TN,Tennessee,AK,Alaska,2024,12,153.0
+TN,Tennessee,AL,Alabama,2024,12,110.0
+TN,Tennessee,AR,Arkansas,2024,12,72.0
+TN,Tennessee,AZ,Arizona,2024,12,353.0
+TN,Tennessee,CA,California,2024,12,821.0
+TN,Tennessee,CO,Colorado,2024,12,588.0
+TN,Tennessee,CT,Connecticut,2024,12,63.0
+TN,Tennessee,FL,Florida,2024,12,2023.0
+TN,Tennessee,GA,Georgia,2024,12,1399.0
+TN,Tennessee,HI,Hawaii,2024,12,60.0
+TN,Tennessee,IA,Iowa,2024,12,49.0
+TN,Tennessee,ID,Idaho,2024,12,16.0
+TN,Tennessee,IL,Illinois,2024,12,1156.0
+TN,Tennessee,IN,Indiana,2024,12,127.0
+TN,Tennessee,KS,Kansas,2024,12,20.0
+TN,Tennessee,KY,Kentucky,2024,12,215.0
+TN,Tennessee,LA,Louisiana,2024,12,211.0
+TN,Tennessee,MA,Massachusetts,2024,12,313.0
+TN,Tennessee,MD,Maryland,2024,12,193.0
+TN,Tennessee,ME,Maine,2024,12,20.0
+TN,Tennessee,MI,Michigan,2024,12,496.0
+TN,Tennessee,MN,Minnesota,2024,12,335.0
+TN,Tennessee,MO,Missouri,2024,12,268.0
+TN,Tennessee,MS,Mississippi,2024,12,34.0
+TN,Tennessee,MT,Montana,2024,12,40.0
+TN,Tennessee,NC,North Carolina,2024,12,1346.0
+TN,Tennessee,ND,North Dakota,2024,12,29.0
+TN,Tennessee,NE,Nebraska,2024,12,57.0
+TN,Tennessee,NH,New Hampshire,2024,12,20.0
+TN,Tennessee,NJ,New Jersey,2024,12,366.0
+TN,Tennessee,NM,New Mexico,2024,12,18.0
+TN,Tennessee,NV,Nevada,2024,12,269.0
+TN,Tennessee,NY,New York,2024,12,1001.0
+TN,Tennessee,OH,Ohio,2024,12,215.0
+TN,Tennessee,OK,Oklahoma,2024,12,73.0
+TN,Tennessee,OR,Oregon,2024,12,73.0
+TN,Tennessee,PA,Pennsylvania,2024,12,595.0
+TN,Tennessee,PR,Puerto Rico,2024,12,91.0
+TN,Tennessee,RI,Rhode Island,2024,12,17.0
+TN,Tennessee,SC,South Carolina,2024,12,202.0
+TN,Tennessee,SD,South Dakota,2024,12,28.0
+TN,Tennessee,TN,Tennessee,2024,12,155.0
+TN,Tennessee,TX,Texas,2024,12,2286.0
+TN,Tennessee,UT,Utah,2024,12,170.0
+TN,Tennessee,VA,Virginia,2024,12,893.0
+TN,Tennessee,WA,Washington,2024,12,198.0
+TN,Tennessee,WI,Wisconsin,2024,12,140.0
+TN,Tennessee,WV,West Virginia,2024,12,17.0
+TN,Tennessee,WY,Wyoming,2024,12,20.0
+TT,U.S. Pacific Trust Territories and Possessions,HI,Hawaii,2024,12,67.0
+TT,U.S. Pacific Trust Territories and Possessions,IL,Illinois,2024,12,1.0
+TT,U.S. Pacific Trust Territories and Possessions,TT,U.S. Pacific Trust Territories and Possessions,2024,12,1906.0
+TX,Texas,AK,Alaska,2024,12,72.0
+TX,Texas,AL,Alabama,2024,12,1023.0
+TX,Texas,AR,Arkansas,2024,12,1167.0
+TX,Texas,AZ,Arizona,2024,12,2546.0
+TX,Texas,CA,California,2024,12,6198.0
+TX,Texas,CO,Colorado,2024,12,3388.0
+TX,Texas,CT,Connecticut,2024,12,59.0
+TX,Texas,FL,Florida,2024,12,5473.0
+TX,Texas,GA,Georgia,2024,12,2410.0
+TX,Texas,HI,Hawaii,2024,12,139.0
+TX,Texas,IA,Iowa,2024,12,243.0
+TX,Texas,ID,Idaho,2024,12,91.0
+TX,Texas,IL,Illinois,2024,12,2559.0
+TX,Texas,IN,Indiana,2024,12,698.0
+TX,Texas,KS,Kansas,2024,12,489.0
+TX,Texas,KY,Kentucky,2024,12,1388.0
+TX,Texas,LA,Louisiana,2024,12,2303.0
+TX,Texas,MA,Massachusetts,2024,12,565.0
+TX,Texas,MD,Maryland,2024,12,719.0
+TX,Texas,MI,Michigan,2024,12,966.0
+TX,Texas,MN,Minnesota,2024,12,807.0
+TX,Texas,MO,Missouri,2024,12,1911.0
+TX,Texas,MS,Mississippi,2024,12,688.0
+TX,Texas,MT,Montana,2024,12,143.0
+TX,Texas,NC,North Carolina,2024,12,1556.0
+TX,Texas,ND,North Dakota,2024,12,159.0
+TX,Texas,NE,Nebraska,2024,12,303.0
+TX,Texas,NH,New Hampshire,2024,12,26.0
+TX,Texas,NJ,New Jersey,2024,12,895.0
+TX,Texas,NM,New Mexico,2024,12,911.0
+TX,Texas,NV,Nevada,2024,12,2156.0
+TX,Texas,NY,New York,2024,12,1665.0
+TX,Texas,OH,Ohio,2024,12,721.0
+TX,Texas,OK,Oklahoma,2024,12,1398.0
+TX,Texas,OR,Oregon,2024,12,403.0
+TX,Texas,PA,Pennsylvania,2024,12,911.0
+TX,Texas,PR,Puerto Rico,2024,12,224.0
+TX,Texas,SC,South Carolina,2024,12,415.0
+TX,Texas,SD,South Dakota,2024,12,179.0
+TX,Texas,TN,Tennessee,2024,12,2258.0
+TX,Texas,TX,Texas,2024,12,18249.0
+TX,Texas,UT,Utah,2024,12,1034.0
+TX,Texas,VA,Virginia,2024,12,1393.0
+TX,Texas,VI,U.S. Virgin Islands,2024,12,13.0
+TX,Texas,WA,Washington,2024,12,985.0
+TX,Texas,WI,Wisconsin,2024,12,296.0
+TX,Texas,WV,West Virginia,2024,12,4.0
+TX,Texas,WY,Wyoming,2024,12,49.0
+UT,Utah,AL,Alabama,2024,12,1.0
+UT,Utah,AZ,Arizona,2024,12,919.0
+UT,Utah,CA,California,2024,12,2307.0
+UT,Utah,CO,Colorado,2024,12,829.0
+UT,Utah,FL,Florida,2024,12,277.0
+UT,Utah,GA,Georgia,2024,12,257.0
+UT,Utah,HI,Hawaii,2024,12,119.0
+UT,Utah,ID,Idaho,2024,12,609.0
+UT,Utah,IL,Illinois,2024,12,315.0
+UT,Utah,IN,Indiana,2024,12,49.0
+UT,Utah,KY,Kentucky,2024,12,148.0
+UT,Utah,LA,Louisiana,2024,12,39.0
+UT,Utah,MA,Massachusetts,2024,12,88.0
+UT,Utah,MD,Maryland,2024,12,58.0
+UT,Utah,ME,Maine,2024,12,1.0
+UT,Utah,MI,Michigan,2024,12,127.0
+UT,Utah,MN,Minnesota,2024,12,129.0
+UT,Utah,MO,Missouri,2024,12,157.0
+UT,Utah,MS,Mississippi,2024,12,1.0
+UT,Utah,MT,Montana,2024,12,569.0
+UT,Utah,NC,North Carolina,2024,12,104.0
+UT,Utah,ND,North Dakota,2024,12,1.0
+UT,Utah,NE,Nebraska,2024,12,60.0
+UT,Utah,NJ,New Jersey,2024,12,95.0
+UT,Utah,NM,New Mexico,2024,12,90.0
+UT,Utah,NV,Nevada,2024,12,527.0
+UT,Utah,NY,New York,2024,12,181.0
+UT,Utah,OH,Ohio,2024,12,63.0
+UT,Utah,OK,Oklahoma,2024,12,124.0
+UT,Utah,OR,Oregon,2024,12,405.0
+UT,Utah,PA,Pennsylvania,2024,12,97.0
+UT,Utah,RI,Rhode Island,2024,12,1.0
+UT,Utah,TN,Tennessee,2024,12,173.0
+UT,Utah,TX,Texas,2024,12,1010.0
+UT,Utah,UT,Utah,2024,12,325.0
+UT,Utah,VA,Virginia,2024,12,88.0
+UT,Utah,WA,Washington,2024,12,557.0
+UT,Utah,WI,Wisconsin,2024,12,32.0
+UT,Utah,WY,Wyoming,2024,12,89.0
+VA,Virginia,AL,Alabama,2024,12,349.0
+VA,Virginia,AR,Arkansas,2024,12,62.0
+VA,Virginia,AZ,Arizona,2024,12,232.0
+VA,Virginia,CA,California,2024,12,888.0
+VA,Virginia,CO,Colorado,2024,12,493.0
+VA,Virginia,CT,Connecticut,2024,12,339.0
+VA,Virginia,FL,Florida,2024,12,2837.0
+VA,Virginia,GA,Georgia,2024,12,1778.0
+VA,Virginia,HI,Hawaii,2024,12,15.0
+VA,Virginia,IA,Iowa,2024,12,74.0
+VA,Virginia,IL,Illinois,2024,12,1271.0
+VA,Virginia,IN,Indiana,2024,12,317.0
+VA,Virginia,KS,Kansas,2024,12,16.0
+VA,Virginia,KY,Kentucky,2024,12,546.0
+VA,Virginia,LA,Louisiana,2024,12,254.0
+VA,Virginia,MA,Massachusetts,2024,12,1000.0
+VA,Virginia,MD,Maryland,2024,12,188.0
+VA,Virginia,ME,Maine,2024,12,274.0
+VA,Virginia,MI,Michigan,2024,12,614.0
+VA,Virginia,MN,Minnesota,2024,12,390.0
+VA,Virginia,MO,Missouri,2024,12,441.0
+VA,Virginia,MS,Mississippi,2024,12,15.0
+VA,Virginia,MT,Montana,2024,12,2.0
+VA,Virginia,NC,North Carolina,2024,12,2412.0
+VA,Virginia,NE,Nebraska,2024,12,49.0
+VA,Virginia,NH,New Hampshire,2024,12,103.0
+VA,Virginia,NJ,New Jersey,2024,12,657.0
+VA,Virginia,NV,Nevada,2024,12,135.0
+VA,Virginia,NY,New York,2024,12,2270.0
+VA,Virginia,OH,Ohio,2024,12,751.0
+VA,Virginia,OK,Oklahoma,2024,12,88.0
+VA,Virginia,OR,Oregon,2024,12,46.0
+VA,Virginia,PA,Pennsylvania,2024,12,1106.0
+VA,Virginia,PR,Puerto Rico,2024,12,75.0
+VA,Virginia,RI,Rhode Island,2024,12,314.0
+VA,Virginia,SC,South Carolina,2024,12,628.0
+VA,Virginia,TN,Tennessee,2024,12,865.0
+VA,Virginia,TX,Texas,2024,12,1416.0
+VA,Virginia,UT,Utah,2024,12,86.0
+VA,Virginia,VA,Virginia,2024,12,1259.0
+VA,Virginia,VI,U.S. Virgin Islands,2024,12,31.0
+VA,Virginia,VT,Vermont,2024,12,223.0
+VA,Virginia,WA,Washington,2024,12,198.0
+VA,Virginia,WI,Wisconsin,2024,12,175.0
+VA,Virginia,WV,West Virginia,2024,12,64.0
+VI,U.S. Virgin Islands,FL,Florida,2024,12,239.0
+VI,U.S. Virgin Islands,GA,Georgia,2024,12,74.0
+VI,U.S. Virgin Islands,IL,Illinois,2024,12,22.0
+VI,U.S. Virgin Islands,LA,Louisiana,2024,12,1.0
+VI,U.S. Virgin Islands,MA,Massachusetts,2024,12,23.0
+VI,U.S. Virgin Islands,MN,Minnesota,2024,12,1.0
+VI,U.S. Virgin Islands,NC,North Carolina,2024,12,66.0
+VI,U.S. Virgin Islands,NJ,New Jersey,2024,12,30.0
+VI,U.S. Virgin Islands,NY,New York,2024,12,47.0
+VI,U.S. Virgin Islands,PA,Pennsylvania,2024,12,14.0
+VI,U.S. Virgin Islands,PR,Puerto Rico,2024,12,648.0
+VI,U.S. Virgin Islands,TX,Texas,2024,12,12.0
+VI,U.S. Virgin Islands,VA,Virginia,2024,12,31.0
+VI,U.S. Virgin Islands,VI,U.S. Virgin Islands,2024,12,1808.0
+VT,Vermont,CT,Connecticut,2024,12,1.0
+VT,Vermont,DE,Delaware,2024,12,1.0
+VT,Vermont,FL,Florida,2024,12,38.0
+VT,Vermont,GA,Georgia,2024,12,31.0
+VT,Vermont,IL,Illinois,2024,12,74.0
+VT,Vermont,MA,Massachusetts,2024,12,89.0
+VT,Vermont,ME,Maine,2024,12,1.0
+VT,Vermont,MI,Michigan,2024,12,63.0
+VT,Vermont,NC,North Carolina,2024,12,44.0
+VT,Vermont,NJ,New Jersey,2024,12,78.0
+VT,Vermont,NY,New York,2024,12,153.0
+VT,Vermont,PA,Pennsylvania,2024,12,83.0
+VT,Vermont,RI,Rhode Island,2024,12,3.0
+VT,Vermont,VA,Virginia,2024,12,224.0
+WA,Washington,AK,Alaska,2024,12,1038.0
+WA,Washington,AZ,Arizona,2024,12,989.0
+WA,Washington,CA,California,2024,12,4387.0
+WA,Washington,CO,Colorado,2024,12,732.0
+WA,Washington,FL,Florida,2024,12,444.0
+WA,Washington,GA,Georgia,2024,12,314.0
+WA,Washington,HI,Hawaii,2024,12,640.0
+WA,Washington,ID,Idaho,2024,12,668.0
+WA,Washington,IL,Illinois,2024,12,462.0
+WA,Washington,IN,Indiana,2024,12,46.0
+WA,Washington,KS,Kansas,2024,12,27.0
+WA,Washington,KY,Kentucky,2024,12,211.0
+WA,Washington,LA,Louisiana,2024,12,55.0
+WA,Washington,MA,Massachusetts,2024,12,184.0
+WA,Washington,MD,Maryland,2024,12,54.0
+WA,Washington,MI,Michigan,2024,12,155.0
+WA,Washington,MN,Minnesota,2024,12,347.0
+WA,Washington,MO,Missouri,2024,12,142.0
+WA,Washington,MT,Montana,2024,12,389.0
+WA,Washington,NC,North Carolina,2024,12,165.0
+WA,Washington,NE,Nebraska,2024,12,26.0
+WA,Washington,NH,New Hampshire,2024,12,1.0
+WA,Washington,NJ,New Jersey,2024,12,143.0
+WA,Washington,NM,New Mexico,2024,12,54.0
+WA,Washington,NV,Nevada,2024,12,823.0
+WA,Washington,NY,New York,2024,12,238.0
+WA,Washington,OH,Ohio,2024,12,81.0
+WA,Washington,OK,Oklahoma,2024,12,27.0
+WA,Washington,OR,Oregon,2024,12,1304.0
+WA,Washington,PA,Pennsylvania,2024,12,112.0
+WA,Washington,SC,South Carolina,2024,12,32.0
+WA,Washington,TN,Tennessee,2024,12,185.0
+WA,Washington,TX,Texas,2024,12,937.0
+WA,Washington,UT,Utah,2024,12,556.0
+WA,Washington,VA,Virginia,2024,12,199.0
+WA,Washington,WA,Washington,2024,12,3334.0
+WA,Washington,WI,Wisconsin,2024,12,31.0
+WA,Washington,WY,Wyoming,2024,12,8.0
+WI,Wisconsin,AL,Alabama,2024,12,1.0
+WI,Wisconsin,AZ,Arizona,2024,12,235.0
+WI,Wisconsin,CO,Colorado,2024,12,277.0
+WI,Wisconsin,FL,Florida,2024,12,395.0
+WI,Wisconsin,GA,Georgia,2024,12,345.0
+WI,Wisconsin,IA,Iowa,2024,12,4.0
+WI,Wisconsin,IL,Illinois,2024,12,1285.0
+WI,Wisconsin,IN,Indiana,2024,12,9.0
+WI,Wisconsin,KS,Kansas,2024,12,1.0
+WI,Wisconsin,KY,Kentucky,2024,12,50.0
+WI,Wisconsin,LA,Louisiana,2024,12,1.0
+WI,Wisconsin,MA,Massachusetts,2024,12,48.0
+WI,Wisconsin,MD,Maryland,2024,12,73.0
+WI,Wisconsin,MI,Michigan,2024,12,508.0
+WI,Wisconsin,MN,Minnesota,2024,12,542.0
+WI,Wisconsin,MO,Missouri,2024,12,87.0
+WI,Wisconsin,MS,Mississippi,2024,12,6.0
+WI,Wisconsin,NC,North Carolina,2024,12,196.0
+WI,Wisconsin,ND,North Dakota,2024,12,1.0
+WI,Wisconsin,NE,Nebraska,2024,12,2.0
+WI,Wisconsin,NJ,New Jersey,2024,12,89.0
+WI,Wisconsin,NV,Nevada,2024,12,90.0
+WI,Wisconsin,NY,New York,2024,12,195.0
+WI,Wisconsin,OH,Ohio,2024,12,4.0
+WI,Wisconsin,OK,Oklahoma,2024,12,5.0
+WI,Wisconsin,PA,Pennsylvania,2024,12,96.0
+WI,Wisconsin,RI,Rhode Island,2024,12,1.0
+WI,Wisconsin,TN,Tennessee,2024,12,121.0
+WI,Wisconsin,TX,Texas,2024,12,294.0
+WI,Wisconsin,UT,Utah,2024,12,33.0
+WI,Wisconsin,VA,Virginia,2024,12,173.0
+WI,Wisconsin,WA,Washington,2024,12,31.0
+WI,Wisconsin,WI,Wisconsin,2024,12,135.0
+WV,West Virginia,CT,Connecticut,2024,12,1.0
+WV,West Virginia,FL,Florida,2024,12,47.0
+WV,West Virginia,GA,Georgia,2024,12,96.0
+WV,West Virginia,IL,Illinois,2024,12,93.0
+WV,West Virginia,KY,Kentucky,2024,12,3.0
+WV,West Virginia,LA,Louisiana,2024,12,1.0
+WV,West Virginia,MN,Minnesota,2024,12,1.0
+WV,West Virginia,NC,North Carolina,2024,12,333.0
+WV,West Virginia,NJ,New Jersey,2024,12,11.0
+WV,West Virginia,OH,Ohio,2024,12,11.0
+WV,West Virginia,PA,Pennsylvania,2024,12,17.0
+WV,West Virginia,TN,Tennessee,2024,12,8.0
+WV,West Virginia,TX,Texas,2024,12,4.0
+WV,West Virginia,VA,Virginia,2024,12,67.0
+WV,West Virginia,WV,West Virginia,2024,12,114.0
+WY,Wyoming,CA,California,2024,12,60.0
+WY,Wyoming,CO,Colorado,2024,12,782.0
+WY,Wyoming,GA,Georgia,2024,12,11.0
+WY,Wyoming,ID,Idaho,2024,12,4.0
+WY,Wyoming,IL,Illinois,2024,12,31.0
+WY,Wyoming,MN,Minnesota,2024,12,11.0
+WY,Wyoming,NE,Nebraska,2024,12,27.0
+WY,Wyoming,NJ,New Jersey,2024,12,24.0
+WY,Wyoming,TN,Tennessee,2024,12,20.0
+WY,Wyoming,TX,Texas,2024,12,51.0
+WY,Wyoming,UT,Utah,2024,12,85.0
+WY,Wyoming,WA,Washington,2024,12,9.0
+WY,Wyoming,WY,Wyoming,2024,12,56.0
+AK,Alaska,AK,Alaska,2025,1,24898.0
+AK,Alaska,AL,Alabama,2025,1,4.0
+AK,Alaska,AZ,Arizona,2025,1,32.0
+AK,Alaska,CA,California,2025,1,194.0
+AK,Alaska,CO,Colorado,2025,1,31.0
+AK,Alaska,FL,Florida,2025,1,175.0
+AK,Alaska,GA,Georgia,2025,1,36.0
+AK,Alaska,HI,Hawaii,2025,1,71.0
+AK,Alaska,IL,Illinois,2025,1,674.0
+AK,Alaska,IN,Indiana,2025,1,41.0
+AK,Alaska,KS,Kansas,2025,1,2.0
+AK,Alaska,KY,Kentucky,2025,1,281.0
+AK,Alaska,MN,Minnesota,2025,1,19.0
+AK,Alaska,NJ,New Jersey,2025,1,24.0
+AK,Alaska,NV,Nevada,2025,1,2.0
+AK,Alaska,NY,New York,2025,1,264.0
+AK,Alaska,OH,Ohio,2025,1,4.0
+AK,Alaska,OR,Oregon,2025,1,90.0
+AK,Alaska,SC,South Carolina,2025,1,11.0
+AK,Alaska,TN,Tennessee,2025,1,112.0
+AK,Alaska,TT,U.S. Pacific Trust Territories and Possessions,2025,1,4.0
+AK,Alaska,TX,Texas,2025,1,136.0
+AK,Alaska,WA,Washington,2025,1,972.0
+AL,Alabama,AL,Alabama,2025,1,5.0
+AL,Alabama,AZ,Arizona,2025,1,10.0
+AL,Alabama,CO,Colorado,2025,1,152.0
+AL,Alabama,FL,Florida,2025,1,225.0
+AL,Alabama,GA,Georgia,2025,1,748.0
+AL,Alabama,IL,Illinois,2025,1,210.0
+AL,Alabama,KY,Kentucky,2025,1,38.0
+AL,Alabama,LA,Louisiana,2025,1,21.0
+AL,Alabama,MD,Maryland,2025,1,26.0
+AL,Alabama,MI,Michigan,2025,1,49.0
+AL,Alabama,MS,Mississippi,2025,1,1.0
+AL,Alabama,NC,North Carolina,2025,1,510.0
+AL,Alabama,NE,Nebraska,2025,1,1.0
+AL,Alabama,NV,Nevada,2025,1,39.0
+AL,Alabama,NY,New York,2025,1,76.0
+AL,Alabama,PA,Pennsylvania,2025,1,26.0
+AL,Alabama,SC,South Carolina,2025,1,1.0
+AL,Alabama,TN,Tennessee,2025,1,105.0
+AL,Alabama,TX,Texas,2025,1,898.0
+AL,Alabama,VA,Virginia,2025,1,310.0
+AR,Arkansas,AR,Arkansas,2025,1,27.0
+AR,Arkansas,AZ,Arizona,2025,1,63.0
+AR,Arkansas,CA,California,2025,1,33.0
+AR,Arkansas,CO,Colorado,2025,1,210.0
+AR,Arkansas,FL,Florida,2025,1,56.0
+AR,Arkansas,GA,Georgia,2025,1,336.0
+AR,Arkansas,IL,Illinois,2025,1,298.0
+AR,Arkansas,KY,Kentucky,2025,1,20.0
+AR,Arkansas,LA,Louisiana,2025,1,8.0
+AR,Arkansas,MA,Massachusetts,2025,1,1.0
+AR,Arkansas,MI,Michigan,2025,1,26.0
+AR,Arkansas,MN,Minnesota,2025,1,26.0
+AR,Arkansas,MO,Missouri,2025,1,80.0
+AR,Arkansas,MS,Mississippi,2025,1,3.0
+AR,Arkansas,NC,North Carolina,2025,1,253.0
+AR,Arkansas,NJ,New Jersey,2025,1,1.0
+AR,Arkansas,NV,Nevada,2025,1,37.0
+AR,Arkansas,NY,New York,2025,1,128.0
+AR,Arkansas,OH,Ohio,2025,1,1.0
+AR,Arkansas,PA,Pennsylvania,2025,1,18.0
+AR,Arkansas,TN,Tennessee,2025,1,49.0
+AR,Arkansas,TX,Texas,2025,1,1051.0
+AR,Arkansas,VA,Virginia,2025,1,56.0
+AZ,Arizona,AK,Alaska,2025,1,31.0
+AZ,Arizona,AL,Alabama,2025,1,10.0
+AZ,Arizona,AR,Arkansas,2025,1,64.0
+AZ,Arizona,AZ,Arizona,2025,1,1705.0
+AZ,Arizona,CA,California,2025,1,4619.0
+AZ,Arizona,CO,Colorado,2025,1,1486.0
+AZ,Arizona,CT,Connecticut,2025,1,13.0
+AZ,Arizona,FL,Florida,2025,1,460.0
+AZ,Arizona,GA,Georgia,2025,1,331.0
+AZ,Arizona,HI,Hawaii,2025,1,231.0
+AZ,Arizona,IA,Iowa,2025,1,202.0
+AZ,Arizona,ID,Idaho,2025,1,240.0
+AZ,Arizona,IL,Illinois,2025,1,880.0
+AZ,Arizona,IN,Indiana,2025,1,162.0
+AZ,Arizona,KS,Kansas,2025,1,67.0
+AZ,Arizona,KY,Kentucky,2025,1,199.0
+AZ,Arizona,LA,Louisiana,2025,1,72.0
+AZ,Arizona,MA,Massachusetts,2025,1,198.0
+AZ,Arizona,MD,Maryland,2025,1,92.0
+AZ,Arizona,MI,Michigan,2025,1,226.0
+AZ,Arizona,MN,Minnesota,2025,1,457.0
+AZ,Arizona,MO,Missouri,2025,1,388.0
+AZ,Arizona,MT,Montana,2025,1,99.0
+AZ,Arizona,NC,North Carolina,2025,1,296.0
+AZ,Arizona,ND,North Dakota,2025,1,128.0
+AZ,Arizona,NE,Nebraska,2025,1,178.0
+AZ,Arizona,NJ,New Jersey,2025,1,219.0
+AZ,Arizona,NM,New Mexico,2025,1,425.0
+AZ,Arizona,NV,Nevada,2025,1,1048.0
+AZ,Arizona,NY,New York,2025,1,269.0
+AZ,Arizona,OH,Ohio,2025,1,168.0
+AZ,Arizona,OK,Oklahoma,2025,1,245.0
+AZ,Arizona,OR,Oregon,2025,1,573.0
+AZ,Arizona,PA,Pennsylvania,2025,1,243.0
+AZ,Arizona,SC,South Carolina,2025,1,1.0
+AZ,Arizona,SD,South Dakota,2025,1,90.0
+AZ,Arizona,TN,Tennessee,2025,1,291.0
+AZ,Arizona,TX,Texas,2025,1,2268.0
+AZ,Arizona,UT,Utah,2025,1,862.0
+AZ,Arizona,VA,Virginia,2025,1,191.0
+AZ,Arizona,WA,Washington,2025,1,945.0
+AZ,Arizona,WI,Wisconsin,2025,1,190.0
+AZ,Arizona,WV,West Virginia,2025,1,1.0
+CA,California,AK,Alaska,2025,1,123.0
+CA,California,AL,Alabama,2025,1,1.0
+CA,California,AR,Arkansas,2025,1,33.0
+CA,California,AZ,Arizona,2025,1,4564.0
+CA,California,CA,California,2025,1,19300.0
+CA,California,CO,Colorado,2025,1,3992.0
+CA,California,CT,Connecticut,2025,1,19.0
+CA,California,FL,Florida,2025,1,1528.0
+CA,California,GA,Georgia,2025,1,1167.0
+CA,California,HI,Hawaii,2025,1,2361.0
+CA,California,IA,Iowa,2025,1,10.0
+CA,California,ID,Idaho,2025,1,778.0
+CA,California,IL,Illinois,2025,1,1883.0
+CA,California,IN,Indiana,2025,1,222.0
+CA,California,KS,Kansas,2025,1,1.0
+CA,California,KY,Kentucky,2025,1,730.0
+CA,California,LA,Louisiana,2025,1,205.0
+CA,California,MA,Massachusetts,2025,1,757.0
+CA,California,MD,Maryland,2025,1,212.0
+CA,California,MI,Michigan,2025,1,453.0
+CA,California,MN,Minnesota,2025,1,681.0
+CA,California,MO,Missouri,2025,1,396.0
+CA,California,MT,Montana,2025,1,136.0
+CA,California,NC,North Carolina,2025,1,680.0
+CA,California,NE,Nebraska,2025,1,71.0
+CA,California,NJ,New Jersey,2025,1,890.0
+CA,California,NM,New Mexico,2025,1,369.0
+CA,California,NV,Nevada,2025,1,6078.0
+CA,California,NY,New York,2025,1,1526.0
+CA,California,OH,Ohio,2025,1,152.0
+CA,California,OK,Oklahoma,2025,1,105.0
+CA,California,OR,Oregon,2025,1,2594.0
+CA,California,PA,Pennsylvania,2025,1,469.0
+CA,California,SC,South Carolina,2025,1,2.0
+CA,California,SD,South Dakota,2025,1,1.0
+CA,California,TN,Tennessee,2025,1,762.0
+CA,California,TT,U.S. Pacific Trust Territories and Possessions,2025,1,2.0
+CA,California,TX,Texas,2025,1,5354.0
+CA,California,UT,Utah,2025,1,2304.0
+CA,California,VA,Virginia,2025,1,721.0
+CA,California,WA,Washington,2025,1,4007.0
+CA,California,WI,Wisconsin,2025,1,3.0
+CA,California,WY,Wyoming,2025,1,134.0
+CO,Colorado,AK,Alaska,2025,1,31.0
+CO,Colorado,AL,Alabama,2025,1,152.0
+CO,Colorado,AR,Arkansas,2025,1,212.0
+CO,Colorado,AZ,Arizona,2025,1,1491.0
+CO,Colorado,CA,California,2025,1,4018.0
+CO,Colorado,CO,Colorado,2025,1,3739.0
+CO,Colorado,CT,Connecticut,2025,1,91.0
+CO,Colorado,FL,Florida,2025,1,1417.0
+CO,Colorado,GA,Georgia,2025,1,643.0
+CO,Colorado,HI,Hawaii,2025,1,133.0
+CO,Colorado,IA,Iowa,2025,1,254.0
+CO,Colorado,ID,Idaho,2025,1,461.0
+CO,Colorado,IL,Illinois,2025,1,1070.0
+CO,Colorado,IN,Indiana,2025,1,201.0
+CO,Colorado,KS,Kansas,2025,1,323.0
+CO,Colorado,KY,Kentucky,2025,1,291.0
+CO,Colorado,LA,Louisiana,2025,1,242.0
+CO,Colorado,MA,Massachusetts,2025,1,280.0
+CO,Colorado,MD,Maryland,2025,1,222.0
+CO,Colorado,ME,Maine,2025,1,1.0
+CO,Colorado,MI,Michigan,2025,1,304.0
+CO,Colorado,MN,Minnesota,2025,1,453.0
+CO,Colorado,MO,Missouri,2025,1,662.0
+CO,Colorado,MT,Montana,2025,1,657.0
+CO,Colorado,NC,North Carolina,2025,1,414.0
+CO,Colorado,ND,North Dakota,2025,1,516.0
+CO,Colorado,NE,Nebraska,2025,1,645.0
+CO,Colorado,NJ,New Jersey,2025,1,327.0
+CO,Colorado,NM,New Mexico,2025,1,418.0
+CO,Colorado,NV,Nevada,2025,1,916.0
+CO,Colorado,NY,New York,2025,1,570.0
+CO,Colorado,OH,Ohio,2025,1,306.0
+CO,Colorado,OK,Oklahoma,2025,1,444.0
+CO,Colorado,OR,Oregon,2025,1,494.0
+CO,Colorado,PA,Pennsylvania,2025,1,307.0
+CO,Colorado,PR,Puerto Rico,2025,1,31.0
+CO,Colorado,RI,Rhode Island,2025,1,9.0
+CO,Colorado,SC,South Carolina,2025,1,86.0
+CO,Colorado,SD,South Dakota,2025,1,420.0
+CO,Colorado,TN,Tennessee,2025,1,529.0
+CO,Colorado,TX,Texas,2025,1,3313.0
+CO,Colorado,UT,Utah,2025,1,857.0
+CO,Colorado,VA,Virginia,2025,1,465.0
+CO,Colorado,WA,Washington,2025,1,712.0
+CO,Colorado,WI,Wisconsin,2025,1,251.0
+CO,Colorado,WY,Wyoming,2025,1,749.0
+CT,Connecticut,AZ,Arizona,2025,1,13.0
+CT,Connecticut,CO,Colorado,2025,1,91.0
+CT,Connecticut,CT,Connecticut,2025,1,19.0
+CT,Connecticut,DE,Delaware,2025,1,1.0
+CT,Connecticut,FL,Florida,2025,1,882.0
+CT,Connecticut,GA,Georgia,2025,1,196.0
+CT,Connecticut,IL,Illinois,2025,1,233.0
+CT,Connecticut,IN,Indiana,2025,1,1.0
+CT,Connecticut,KY,Kentucky,2025,1,102.0
+CT,Connecticut,LA,Louisiana,2025,1,8.0
+CT,Connecticut,MA,Massachusetts,2025,1,3.0
+CT,Connecticut,MD,Maryland,2025,1,128.0
+CT,Connecticut,MI,Michigan,2025,1,87.0
+CT,Connecticut,MN,Minnesota,2025,1,58.0
+CT,Connecticut,MO,Missouri,2025,1,1.0
+CT,Connecticut,NC,North Carolina,2025,1,236.0
+CT,Connecticut,NE,Nebraska,2025,1,2.0
+CT,Connecticut,NH,New Hampshire,2025,1,3.0
+CT,Connecticut,NJ,New Jersey,2025,1,3.0
+CT,Connecticut,NV,Nevada,2025,1,13.0
+CT,Connecticut,NY,New York,2025,1,38.0
+CT,Connecticut,OH,Ohio,2025,1,23.0
+CT,Connecticut,PA,Pennsylvania,2025,1,97.0
+CT,Connecticut,PR,Puerto Rico,2025,1,110.0
+CT,Connecticut,RI,Rhode Island,2025,1,4.0
+CT,Connecticut,SC,South Carolina,2025,1,51.0
+CT,Connecticut,TN,Tennessee,2025,1,59.0
+CT,Connecticut,TX,Texas,2025,1,57.0
+CT,Connecticut,VA,Virginia,2025,1,314.0
+CT,Connecticut,VT,Vermont,2025,1,1.0
+CT,Connecticut,WI,Wisconsin,2025,1,1.0
+DE,Delaware,CT,Connecticut,2025,1,1.0
+DE,Delaware,DE,Delaware,2025,1,2.0
+DE,Delaware,FL,Florida,2025,1,75.0
+DE,Delaware,GA,Georgia,2025,1,9.0
+DE,Delaware,MA,Massachusetts,2025,1,1.0
+DE,Delaware,NC,North Carolina,2025,1,9.0
+DE,Delaware,NY,New York,2025,1,1.0
+DE,Delaware,PR,Puerto Rico,2025,1,9.0
+DE,Delaware,TX,Texas,2025,1,2.0
+DE,Delaware,VA,Virginia,2025,1,3.0
+FL,Florida,AK,Alaska,2025,1,106.0
+FL,Florida,AL,Alabama,2025,1,231.0
+FL,Florida,AR,Arkansas,2025,1,57.0
+FL,Florida,AZ,Arizona,2025,1,455.0
+FL,Florida,CA,California,2025,1,1473.0
+FL,Florida,CO,Colorado,2025,1,1419.0
+FL,Florida,CT,Connecticut,2025,1,881.0
+FL,Florida,DE,Delaware,2025,1,75.0
+FL,Florida,FL,Florida,2025,1,5275.0
+FL,Florida,GA,Georgia,2025,1,4496.0
+FL,Florida,IA,Iowa,2025,1,187.0
+FL,Florida,ID,Idaho,2025,1,12.0
+FL,Florida,IL,Illinois,2025,1,3079.0
+FL,Florida,IN,Indiana,2025,1,910.0
+FL,Florida,KS,Kansas,2025,1,3.0
+FL,Florida,KY,Kentucky,2025,1,1390.0
+FL,Florida,LA,Louisiana,2025,1,575.0
+FL,Florida,MA,Massachusetts,2025,1,2042.0
+FL,Florida,MD,Maryland,2025,1,1561.0
+FL,Florida,ME,Maine,2025,1,149.0
+FL,Florida,MI,Michigan,2025,1,1595.0
+FL,Florida,MN,Minnesota,2025,1,1018.0
+FL,Florida,MO,Missouri,2025,1,943.0
+FL,Florida,MS,Mississippi,2025,1,30.0
+FL,Florida,NC,North Carolina,2025,1,3948.0
+FL,Florida,ND,North Dakota,2025,1,46.0
+FL,Florida,NE,Nebraska,2025,1,107.0
+FL,Florida,NH,New Hampshire,2025,1,143.0
+FL,Florida,NJ,New Jersey,2025,1,2969.0
+FL,Florida,NM,New Mexico,2025,1,2.0
+FL,Florida,NV,Nevada,2025,1,512.0
+FL,Florida,NY,New York,2025,1,6294.0
+FL,Florida,OH,Ohio,2025,1,1360.0
+FL,Florida,OK,Oklahoma,2025,1,32.0
+FL,Florida,OR,Oregon,2025,1,108.0
+FL,Florida,PA,Pennsylvania,2025,1,2576.0
+FL,Florida,PR,Puerto Rico,2025,1,1431.0
+FL,Florida,RI,Rhode Island,2025,1,474.0
+FL,Florida,SC,South Carolina,2025,1,333.0
+FL,Florida,SD,South Dakota,2025,1,47.0
+FL,Florida,TN,Tennessee,2025,1,1849.0
+FL,Florida,TX,Texas,2025,1,5048.0
+FL,Florida,UT,Utah,2025,1,277.0
+FL,Florida,VA,Virginia,2025,1,2710.0
+FL,Florida,VI,U.S. Virgin Islands,2025,1,206.0
+FL,Florida,VT,Vermont,2025,1,57.0
+FL,Florida,WA,Washington,2025,1,446.0
+FL,Florida,WI,Wisconsin,2025,1,413.0
+FL,Florida,WV,West Virginia,2025,1,35.0
+GA,Georgia,AK,Alaska,2025,1,34.0
+GA,Georgia,AL,Alabama,2025,1,744.0
+GA,Georgia,AR,Arkansas,2025,1,336.0
+GA,Georgia,AZ,Arizona,2025,1,335.0
+GA,Georgia,CA,California,2025,1,1162.0
+GA,Georgia,CO,Colorado,2025,1,638.0
+GA,Georgia,CT,Connecticut,2025,1,196.0
+GA,Georgia,DE,Delaware,2025,1,9.0
+GA,Georgia,FL,Florida,2025,1,4496.0
+GA,Georgia,GA,Georgia,2025,1,1377.0
+GA,Georgia,HI,Hawaii,2025,1,53.0
+GA,Georgia,IA,Iowa,2025,1,118.0
+GA,Georgia,ID,Idaho,2025,1,32.0
+GA,Georgia,IL,Illinois,2025,1,918.0
+GA,Georgia,IN,Indiana,2025,1,524.0
+GA,Georgia,KS,Kansas,2025,1,82.0
+GA,Georgia,KY,Kentucky,2025,1,711.0
+GA,Georgia,LA,Louisiana,2025,1,820.0
+GA,Georgia,MA,Massachusetts,2025,1,413.0
+GA,Georgia,MD,Maryland,2025,1,581.0
+GA,Georgia,ME,Maine,2025,1,30.0
+GA,Georgia,MI,Michigan,2025,1,467.0
+GA,Georgia,MN,Minnesota,2025,1,315.0
+GA,Georgia,MO,Missouri,2025,1,554.0
+GA,Georgia,MS,Mississippi,2025,1,370.0
+GA,Georgia,MT,Montana,2025,1,40.0
+GA,Georgia,NC,North Carolina,2025,1,1712.0
+GA,Georgia,NE,Nebraska,2025,1,140.0
+GA,Georgia,NJ,New Jersey,2025,1,554.0
+GA,Georgia,NM,New Mexico,2025,1,71.0
+GA,Georgia,NV,Nevada,2025,1,408.0
+GA,Georgia,NY,New York,2025,1,1544.0
+GA,Georgia,OH,Ohio,2025,1,621.0
+GA,Georgia,OK,Oklahoma,2025,1,240.0
+GA,Georgia,OR,Oregon,2025,1,80.0
+GA,Georgia,PA,Pennsylvania,2025,1,858.0
+GA,Georgia,PR,Puerto Rico,2025,1,187.0
+GA,Georgia,RI,Rhode Island,2025,1,83.0
+GA,Georgia,SC,South Carolina,2025,1,719.0
+GA,Georgia,SD,South Dakota,2025,1,29.0
+GA,Georgia,TN,Tennessee,2025,1,1244.0
+GA,Georgia,TX,Texas,2025,1,2055.0
+GA,Georgia,UT,Utah,2025,1,253.0
+GA,Georgia,VA,Virginia,2025,1,1554.0
+GA,Georgia,VI,U.S. Virgin Islands,2025,1,95.0
+GA,Georgia,VT,Vermont,2025,1,30.0
+GA,Georgia,WA,Washington,2025,1,250.0
+GA,Georgia,WI,Wisconsin,2025,1,322.0
+GA,Georgia,WV,West Virginia,2025,1,86.0
+GA,Georgia,WY,Wyoming,2025,1,21.0
+HI,Hawaii,AK,Alaska,2025,1,84.0
+HI,Hawaii,AZ,Arizona,2025,1,229.0
+HI,Hawaii,CA,California,2025,1,2293.0
+HI,Hawaii,CO,Colorado,2025,1,134.0
+HI,Hawaii,GA,Georgia,2025,1,55.0
+HI,Hawaii,HI,Hawaii,2025,1,10744.0
+HI,Hawaii,IL,Illinois,2025,1,66.0
+HI,Hawaii,KY,Kentucky,2025,1,12.0
+HI,Hawaii,MA,Massachusetts,2025,1,35.0
+HI,Hawaii,MI,Michigan,2025,1,23.0
+HI,Hawaii,MN,Minnesota,2025,1,31.0
+HI,Hawaii,NJ,New Jersey,2025,1,28.0
+HI,Hawaii,NV,Nevada,2025,1,250.0
+HI,Hawaii,NY,New York,2025,1,54.0
+HI,Hawaii,OR,Oregon,2025,1,170.0
+HI,Hawaii,TN,Tennessee,2025,1,27.0
+HI,Hawaii,TT,U.S. Pacific Trust Territories and Possessions,2025,1,74.0
+HI,Hawaii,TX,Texas,2025,1,133.0
+HI,Hawaii,UT,Utah,2025,1,115.0
+HI,Hawaii,VA,Virginia,2025,1,26.0
+HI,Hawaii,WA,Washington,2025,1,677.0
+IA,Iowa,AL,Alabama,2025,1,1.0
+IA,Iowa,AZ,Arizona,2025,1,202.0
+IA,Iowa,CA,California,2025,1,9.0
+IA,Iowa,CO,Colorado,2025,1,255.0
+IA,Iowa,FL,Florida,2025,1,187.0
+IA,Iowa,GA,Georgia,2025,1,117.0
+IA,Iowa,IA,Iowa,2025,1,33.0
+IA,Iowa,IL,Illinois,2025,1,718.0
+IA,Iowa,IN,Indiana,2025,1,3.0
+IA,Iowa,KS,Kansas,2025,1,1.0
+IA,Iowa,KY,Kentucky,2025,1,55.0
+IA,Iowa,MI,Michigan,2025,1,84.0
+IA,Iowa,MN,Minnesota,2025,1,175.0
+IA,Iowa,MO,Missouri,2025,1,104.0
+IA,Iowa,MS,Mississippi,2025,1,1.0
+IA,Iowa,NC,North Carolina,2025,1,98.0
+IA,Iowa,NE,Nebraska,2025,1,2.0
+IA,Iowa,NJ,New Jersey,2025,1,2.0
+IA,Iowa,NV,Nevada,2025,1,60.0
+IA,Iowa,NY,New York,2025,1,62.0
+IA,Iowa,OH,Ohio,2025,1,1.0
+IA,Iowa,OR,Oregon,2025,1,1.0
+IA,Iowa,TN,Tennessee,2025,1,45.0
+IA,Iowa,TX,Texas,2025,1,240.0
+IA,Iowa,UT,Utah,2025,1,2.0
+IA,Iowa,VA,Virginia,2025,1,79.0
+IA,Iowa,WI,Wisconsin,2025,1,4.0
+ID,Idaho,AZ,Arizona,2025,1,236.0
+ID,Idaho,CA,California,2025,1,781.0
+ID,Idaho,CO,Colorado,2025,1,464.0
+ID,Idaho,FL,Florida,2025,1,11.0
+ID,Idaho,GA,Georgia,2025,1,33.0
+ID,Idaho,ID,Idaho,2025,1,22.0
+ID,Idaho,IL,Illinois,2025,1,82.0
+ID,Idaho,KY,Kentucky,2025,1,63.0
+ID,Idaho,MN,Minnesota,2025,1,57.0
+ID,Idaho,MT,Montana,2025,1,27.0
+ID,Idaho,NM,New Mexico,2025,1,1.0
+ID,Idaho,NV,Nevada,2025,1,149.0
+ID,Idaho,OR,Oregon,2025,1,173.0
+ID,Idaho,SD,South Dakota,2025,1,1.0
+ID,Idaho,TN,Tennessee,2025,1,2.0
+ID,Idaho,TX,Texas,2025,1,89.0
+ID,Idaho,UT,Utah,2025,1,531.0
+ID,Idaho,WA,Washington,2025,1,711.0
+ID,Idaho,WI,Wisconsin,2025,1,1.0
+ID,Idaho,WY,Wyoming,2025,1,19.0
+IL,Illinois,AK,Alaska,2025,1,240.0
+IL,Illinois,AL,Alabama,2025,1,212.0
+IL,Illinois,AR,Arkansas,2025,1,299.0
+IL,Illinois,AZ,Arizona,2025,1,893.0
+IL,Illinois,CA,California,2025,1,1967.0
+IL,Illinois,CO,Colorado,2025,1,1074.0
+IL,Illinois,CT,Connecticut,2025,1,254.0
+IL,Illinois,FL,Florida,2025,1,3060.0
+IL,Illinois,GA,Georgia,2025,1,945.0
+IL,Illinois,HI,Hawaii,2025,1,69.0
+IL,Illinois,IA,Iowa,2025,1,729.0
+IL,Illinois,ID,Idaho,2025,1,83.0
+IL,Illinois,IL,Illinois,2025,1,1438.0
+IL,Illinois,IN,Indiana,2025,1,920.0
+IL,Illinois,KS,Kansas,2025,1,196.0
+IL,Illinois,KY,Kentucky,2025,1,933.0
+IL,Illinois,LA,Louisiana,2025,1,183.0
+IL,Illinois,MA,Massachusetts,2025,1,557.0
+IL,Illinois,MD,Maryland,2025,1,330.0
+IL,Illinois,ME,Maine,2025,1,37.0
+IL,Illinois,MI,Michigan,2025,1,1708.0
+IL,Illinois,MN,Minnesota,2025,1,883.0
+IL,Illinois,MO,Missouri,2025,1,1338.0
+IL,Illinois,MS,Mississippi,2025,1,4.0
+IL,Illinois,MT,Montana,2025,1,88.0
+IL,Illinois,NC,North Carolina,2025,1,976.0
+IL,Illinois,ND,North Dakota,2025,1,157.0
+IL,Illinois,NE,Nebraska,2025,1,429.0
+IL,Illinois,NH,New Hampshire,2025,1,40.0
+IL,Illinois,NJ,New Jersey,2025,1,525.0
+IL,Illinois,NM,New Mexico,2025,1,80.0
+IL,Illinois,NV,Nevada,2025,1,639.0
+IL,Illinois,NY,New York,2025,1,2056.0
+IL,Illinois,OH,Ohio,2025,1,1138.0
+IL,Illinois,OK,Oklahoma,2025,1,307.0
+IL,Illinois,OR,Oregon,2025,1,179.0
+IL,Illinois,PA,Pennsylvania,2025,1,1198.0
+IL,Illinois,PR,Puerto Rico,2025,1,130.0
+IL,Illinois,RI,Rhode Island,2025,1,95.0
+IL,Illinois,SC,South Carolina,2025,1,269.0
+IL,Illinois,SD,South Dakota,2025,1,200.0
+IL,Illinois,TN,Tennessee,2025,1,1064.0
+IL,Illinois,TX,Texas,2025,1,2296.0
+IL,Illinois,UT,Utah,2025,1,308.0
+IL,Illinois,VA,Virginia,2025,1,1220.0
+IL,Illinois,VI,U.S. Virgin Islands,2025,1,22.0
+IL,Illinois,VT,Vermont,2025,1,67.0
+IL,Illinois,WA,Washington,2025,1,393.0
+IL,Illinois,WI,Wisconsin,2025,1,1353.0
+IL,Illinois,WV,West Virginia,2025,1,85.0
+IL,Illinois,WY,Wyoming,2025,1,56.0
+IN,Indiana,AK,Alaska,2025,1,40.0
+IN,Indiana,AZ,Arizona,2025,1,155.0
+IN,Indiana,CA,California,2025,1,229.0
+IN,Indiana,CO,Colorado,2025,1,197.0
+IN,Indiana,CT,Connecticut,2025,1,19.0
+IN,Indiana,FL,Florida,2025,1,878.0
+IN,Indiana,GA,Georgia,2025,1,521.0
+IN,Indiana,IA,Iowa,2025,1,2.0
+IN,Indiana,IL,Illinois,2025,1,901.0
+IN,Indiana,IN,Indiana,2025,1,83.0
+IN,Indiana,KS,Kansas,2025,1,2.0
+IN,Indiana,KY,Kentucky,2025,1,27.0
+IN,Indiana,LA,Louisiana,2025,1,3.0
+IN,Indiana,MA,Massachusetts,2025,1,191.0
+IN,Indiana,MD,Maryland,2025,1,105.0
+IN,Indiana,MI,Michigan,2025,1,215.0
+IN,Indiana,MN,Minnesota,2025,1,206.0
+IN,Indiana,MO,Missouri,2025,1,67.0
+IN,Indiana,MS,Mississippi,2025,1,2.0
+IN,Indiana,NC,North Carolina,2025,1,447.0
+IN,Indiana,NE,Nebraska,2025,1,3.0
+IN,Indiana,NJ,New Jersey,2025,1,222.0
+IN,Indiana,NV,Nevada,2025,1,121.0
+IN,Indiana,NY,New York,2025,1,442.0
+IN,Indiana,OH,Ohio,2025,1,37.0
+IN,Indiana,OK,Oklahoma,2025,1,1.0
+IN,Indiana,OR,Oregon,2025,1,28.0
+IN,Indiana,PA,Pennsylvania,2025,1,157.0
+IN,Indiana,PR,Puerto Rico,2025,1,1.0
+IN,Indiana,RI,Rhode Island,2025,1,1.0
+IN,Indiana,SC,South Carolina,2025,1,1.0
+IN,Indiana,TN,Tennessee,2025,1,121.0
+IN,Indiana,TX,Texas,2025,1,629.0
+IN,Indiana,UT,Utah,2025,1,30.0
+IN,Indiana,VA,Virginia,2025,1,305.0
+IN,Indiana,WA,Washington,2025,1,46.0
+IN,Indiana,WI,Wisconsin,2025,1,7.0
+KS,Kansas,AZ,Arizona,2025,1,70.0
+KS,Kansas,CA,California,2025,1,16.0
+KS,Kansas,CO,Colorado,2025,1,326.0
+KS,Kansas,FL,Florida,2025,1,6.0
+KS,Kansas,GA,Georgia,2025,1,84.0
+KS,Kansas,IA,Iowa,2025,1,1.0
+KS,Kansas,IL,Illinois,2025,1,188.0
+KS,Kansas,KS,Kansas,2025,1,41.0
+KS,Kansas,KY,Kentucky,2025,1,5.0
+KS,Kansas,LA,Louisiana,2025,1,2.0
+KS,Kansas,MN,Minnesota,2025,1,32.0
+KS,Kansas,MO,Missouri,2025,1,71.0
+KS,Kansas,NV,Nevada,2025,1,40.0
+KS,Kansas,OK,Oklahoma,2025,1,2.0
+KS,Kansas,PA,Pennsylvania,2025,1,1.0
+KS,Kansas,SC,South Carolina,2025,1,5.0
+KS,Kansas,TN,Tennessee,2025,1,22.0
+KS,Kansas,TX,Texas,2025,1,471.0
+KS,Kansas,UT,Utah,2025,1,2.0
+KS,Kansas,VA,Virginia,2025,1,20.0
+KS,Kansas,WA,Washington,2025,1,24.0
+KS,Kansas,WI,Wisconsin,2025,1,1.0
+KY,Kentucky,AK,Alaska,2025,1,177.0
+KY,Kentucky,AL,Alabama,2025,1,36.0
+KY,Kentucky,AR,Arkansas,2025,1,21.0
+KY,Kentucky,AZ,Arizona,2025,1,187.0
+KY,Kentucky,CA,California,2025,1,638.0
+KY,Kentucky,CO,Colorado,2025,1,317.0
+KY,Kentucky,CT,Connecticut,2025,1,79.0
+KY,Kentucky,DE,Delaware,2025,1,1.0
+KY,Kentucky,FL,Florida,2025,1,1424.0
+KY,Kentucky,GA,Georgia,2025,1,730.0
+KY,Kentucky,HI,Hawaii,2025,1,72.0
+KY,Kentucky,IA,Iowa,2025,1,45.0
+KY,Kentucky,ID,Idaho,2025,1,47.0
+KY,Kentucky,IL,Illinois,2025,1,967.0
+KY,Kentucky,IN,Indiana,2025,1,20.0
+KY,Kentucky,KS,Kansas,2025,1,22.0
+KY,Kentucky,KY,Kentucky,2025,1,35.0
+KY,Kentucky,LA,Louisiana,2025,1,89.0
+KY,Kentucky,MA,Massachusetts,2025,1,198.0
+KY,Kentucky,MD,Maryland,2025,1,187.0
+KY,Kentucky,MI,Michigan,2025,1,368.0
+KY,Kentucky,MN,Minnesota,2025,1,298.0
+KY,Kentucky,MO,Missouri,2025,1,146.0
+KY,Kentucky,MS,Mississippi,2025,1,26.0
+KY,Kentucky,MT,Montana,2025,1,55.0
+KY,Kentucky,NC,North Carolina,2025,1,663.0
+KY,Kentucky,ND,North Dakota,2025,1,26.0
+KY,Kentucky,NE,Nebraska,2025,1,46.0
+KY,Kentucky,NH,New Hampshire,2025,1,92.0
+KY,Kentucky,NJ,New Jersey,2025,1,362.0
+KY,Kentucky,NM,New Mexico,2025,1,58.0
+KY,Kentucky,NV,Nevada,2025,1,178.0
+KY,Kentucky,NY,New York,2025,1,764.0
+KY,Kentucky,OH,Ohio,2025,1,68.0
+KY,Kentucky,OK,Oklahoma,2025,1,80.0
+KY,Kentucky,OR,Oregon,2025,1,117.0
+KY,Kentucky,PA,Pennsylvania,2025,1,414.0
+KY,Kentucky,PR,Puerto Rico,2025,1,135.0
+KY,Kentucky,RI,Rhode Island,2025,1,18.0
+KY,Kentucky,SC,South Carolina,2025,1,60.0
+KY,Kentucky,SD,South Dakota,2025,1,34.0
+KY,Kentucky,TN,Tennessee,2025,1,173.0
+KY,Kentucky,TX,Texas,2025,1,1094.0
+KY,Kentucky,UT,Utah,2025,1,115.0
+KY,Kentucky,VA,Virginia,2025,1,520.0
+KY,Kentucky,WA,Washington,2025,1,197.0
+KY,Kentucky,WI,Wisconsin,2025,1,63.0
+KY,Kentucky,WV,West Virginia,2025,1,1.0
+LA,Louisiana,AL,Alabama,2025,1,11.0
+LA,Louisiana,AR,Arkansas,2025,1,22.0
+LA,Louisiana,AZ,Arizona,2025,1,76.0
+LA,Louisiana,CA,California,2025,1,204.0
+LA,Louisiana,CO,Colorado,2025,1,241.0
+LA,Louisiana,CT,Connecticut,2025,1,8.0
+LA,Louisiana,FL,Florida,2025,1,565.0
+LA,Louisiana,GA,Georgia,2025,1,808.0
+LA,Louisiana,IL,Illinois,2025,1,183.0
+LA,Louisiana,IN,Indiana,2025,1,3.0
+LA,Louisiana,KS,Kansas,2025,1,3.0
+LA,Louisiana,KY,Kentucky,2025,1,92.0
+LA,Louisiana,LA,Louisiana,2025,1,13.0
+LA,Louisiana,MA,Massachusetts,2025,1,76.0
+LA,Louisiana,MD,Maryland,2025,1,87.0
+LA,Louisiana,MI,Michigan,2025,1,74.0
+LA,Louisiana,MN,Minnesota,2025,1,31.0
+LA,Louisiana,MO,Missouri,2025,1,82.0
+LA,Louisiana,NC,North Carolina,2025,1,342.0
+LA,Louisiana,NJ,New Jersey,2025,1,120.0
+LA,Louisiana,NV,Nevada,2025,1,72.0
+LA,Louisiana,NY,New York,2025,1,186.0
+LA,Louisiana,OH,Ohio,2025,1,1.0
+LA,Louisiana,OK,Oklahoma,2025,1,4.0
+LA,Louisiana,OR,Oregon,2025,1,24.0
+LA,Louisiana,PA,Pennsylvania,2025,1,76.0
+LA,Louisiana,PR,Puerto Rico,2025,1,10.0
+LA,Louisiana,SC,South Carolina,2025,1,18.0
+LA,Louisiana,TN,Tennessee,2025,1,178.0
+LA,Louisiana,TX,Texas,2025,1,2119.0
+LA,Louisiana,UT,Utah,2025,1,47.0
+LA,Louisiana,VA,Virginia,2025,1,236.0
+LA,Louisiana,VI,U.S. Virgin Islands,2025,1,2.0
+LA,Louisiana,WA,Washington,2025,1,58.0
+LA,Louisiana,WI,Wisconsin,2025,1,2.0
+MA,Massachusetts,AZ,Arizona,2025,1,197.0
+MA,Massachusetts,CA,California,2025,1,743.0
+MA,Massachusetts,CO,Colorado,2025,1,277.0
+MA,Massachusetts,CT,Connecticut,2025,1,3.0
+MA,Massachusetts,FL,Florida,2025,1,2043.0
+MA,Massachusetts,GA,Georgia,2025,1,411.0
+MA,Massachusetts,HI,Hawaii,2025,1,35.0
+MA,Massachusetts,IL,Illinois,2025,1,559.0
+MA,Massachusetts,IN,Indiana,2025,1,178.0
+MA,Massachusetts,KY,Kentucky,2025,1,188.0
+MA,Massachusetts,LA,Louisiana,2025,1,77.0
+MA,Massachusetts,MA,Massachusetts,2025,1,1383.0
+MA,Massachusetts,MD,Maryland,2025,1,312.0
+MA,Massachusetts,ME,Maine,2025,1,299.0
+MA,Massachusetts,MI,Michigan,2025,1,203.0
+MA,Massachusetts,MN,Minnesota,2025,1,142.0
+MA,Massachusetts,MO,Missouri,2025,1,122.0
+MA,Massachusetts,MT,Montana,2025,1,8.0
+MA,Massachusetts,NC,North Carolina,2025,1,574.0
+MA,Massachusetts,NH,New Hampshire,2025,1,127.0
+MA,Massachusetts,NJ,New Jersey,2025,1,355.0
+MA,Massachusetts,NV,Nevada,2025,1,138.0
+MA,Massachusetts,NY,New York,2025,1,1372.0
+MA,Massachusetts,OH,Ohio,2025,1,255.0
+MA,Massachusetts,OR,Oregon,2025,1,24.0
+MA,Massachusetts,PA,Pennsylvania,2025,1,583.0
+MA,Massachusetts,PR,Puerto Rico,2025,1,179.0
+MA,Massachusetts,RI,Rhode Island,2025,1,45.0
+MA,Massachusetts,SC,South Carolina,2025,1,100.0
+MA,Massachusetts,TN,Tennessee,2025,1,235.0
+MA,Massachusetts,TX,Texas,2025,1,501.0
+MA,Massachusetts,UT,Utah,2025,1,83.0
+MA,Massachusetts,VA,Virginia,2025,1,947.0
+MA,Massachusetts,VI,U.S. Virgin Islands,2025,1,17.0
+MA,Massachusetts,VT,Vermont,2025,1,84.0
+MA,Massachusetts,WA,Washington,2025,1,151.0
+MA,Massachusetts,WI,Wisconsin,2025,1,31.0
+MD,Maryland,AL,Alabama,2025,1,26.0
+MD,Maryland,AZ,Arizona,2025,1,94.0
+MD,Maryland,CA,California,2025,1,180.0
+MD,Maryland,CO,Colorado,2025,1,212.0
+MD,Maryland,CT,Connecticut,2025,1,128.0
+MD,Maryland,FL,Florida,2025,1,1590.0
+MD,Maryland,GA,Georgia,2025,1,574.0
+MD,Maryland,IL,Illinois,2025,1,341.0
+MD,Maryland,IN,Indiana,2025,1,103.0
+MD,Maryland,KS,Kansas,2025,1,1.0
+MD,Maryland,KY,Kentucky,2025,1,190.0
+MD,Maryland,LA,Louisiana,2025,1,86.0
+MD,Maryland,MA,Massachusetts,2025,1,314.0
+MD,Maryland,MD,Maryland,2025,1,1.0
+MD,Maryland,ME,Maine,2025,1,96.0
+MD,Maryland,MI,Michigan,2025,1,195.0
+MD,Maryland,MN,Minnesota,2025,1,92.0
+MD,Maryland,MO,Missouri,2025,1,127.0
+MD,Maryland,MS,Mississippi,2025,1,28.0
+MD,Maryland,NC,North Carolina,2025,1,461.0
+MD,Maryland,NE,Nebraska,2025,1,2.0
+MD,Maryland,NH,New Hampshire,2025,1,107.0
+MD,Maryland,NJ,New Jersey,2025,1,17.0
+MD,Maryland,NM,New Mexico,2025,1,32.0
+MD,Maryland,NV,Nevada,2025,1,149.0
+MD,Maryland,NY,New York,2025,1,429.0
+MD,Maryland,OH,Ohio,2025,1,135.0
+MD,Maryland,PA,Pennsylvania,2025,1,170.0
+MD,Maryland,PR,Puerto Rico,2025,1,96.0
+MD,Maryland,RI,Rhode Island,2025,1,125.0
+MD,Maryland,SC,South Carolina,2025,1,188.0
+MD,Maryland,TN,Tennessee,2025,1,171.0
+MD,Maryland,TX,Texas,2025,1,594.0
+MD,Maryland,UT,Utah,2025,1,68.0
+MD,Maryland,VA,Virginia,2025,1,189.0
+MD,Maryland,WA,Washington,2025,1,29.0
+MD,Maryland,WI,Wisconsin,2025,1,44.0
+ME,Maine,CO,Colorado,2025,1,1.0
+ME,Maine,CT,Connecticut,2025,1,4.0
+ME,Maine,FL,Florida,2025,1,148.0
+ME,Maine,GA,Georgia,2025,1,30.0
+ME,Maine,IL,Illinois,2025,1,40.0
+ME,Maine,KY,Kentucky,2025,1,8.0
+ME,Maine,MA,Massachusetts,2025,1,302.0
+ME,Maine,MD,Maryland,2025,1,95.0
+ME,Maine,ME,Maine,2025,1,82.0
+ME,Maine,MI,Michigan,2025,1,35.0
+ME,Maine,NC,North Carolina,2025,1,40.0
+ME,Maine,NJ,New Jersey,2025,1,118.0
+ME,Maine,NY,New York,2025,1,226.0
+ME,Maine,OH,Ohio,2025,1,2.0
+ME,Maine,PA,Pennsylvania,2025,1,143.0
+ME,Maine,RI,Rhode Island,2025,1,3.0
+ME,Maine,SC,South Carolina,2025,1,9.0
+ME,Maine,TN,Tennessee,2025,1,18.0
+ME,Maine,VA,Virginia,2025,1,236.0
+MI,Michigan,AK,Alaska,2025,1,1.0
+MI,Michigan,AL,Alabama,2025,1,49.0
+MI,Michigan,AR,Arkansas,2025,1,26.0
+MI,Michigan,AZ,Arizona,2025,1,227.0
+MI,Michigan,CA,California,2025,1,447.0
+MI,Michigan,CO,Colorado,2025,1,303.0
+MI,Michigan,CT,Connecticut,2025,1,86.0
+MI,Michigan,FL,Florida,2025,1,1598.0
+MI,Michigan,GA,Georgia,2025,1,466.0
+MI,Michigan,HI,Hawaii,2025,1,23.0
+MI,Michigan,IA,Iowa,2025,1,84.0
+MI,Michigan,IL,Illinois,2025,1,1713.0
+MI,Michigan,IN,Indiana,2025,1,213.0
+MI,Michigan,KY,Kentucky,2025,1,373.0
+MI,Michigan,LA,Louisiana,2025,1,76.0
+MI,Michigan,MA,Massachusetts,2025,1,205.0
+MI,Michigan,MD,Maryland,2025,1,193.0
+MI,Michigan,ME,Maine,2025,1,34.0
+MI,Michigan,MI,Michigan,2025,1,1669.0
+MI,Michigan,MN,Minnesota,2025,1,475.0
+MI,Michigan,MO,Missouri,2025,1,218.0
+MI,Michigan,MS,Mississippi,2025,1,4.0
+MI,Michigan,NC,North Carolina,2025,1,539.0
+MI,Michigan,ND,North Dakota,2025,1,1.0
+MI,Michigan,NE,Nebraska,2025,1,85.0
+MI,Michigan,NJ,New Jersey,2025,1,292.0
+MI,Michigan,NV,Nevada,2025,1,294.0
+MI,Michigan,NY,New York,2025,1,1011.0
+MI,Michigan,OH,Ohio,2025,1,239.0
+MI,Michigan,OK,Oklahoma,2025,1,2.0
+MI,Michigan,OR,Oregon,2025,1,4.0
+MI,Michigan,PA,Pennsylvania,2025,1,425.0
+MI,Michigan,PR,Puerto Rico,2025,1,38.0
+MI,Michigan,RI,Rhode Island,2025,1,62.0
+MI,Michigan,SC,South Carolina,2025,1,130.0
+MI,Michigan,SD,South Dakota,2025,1,1.0
+MI,Michigan,TN,Tennessee,2025,1,449.0
+MI,Michigan,TX,Texas,2025,1,803.0
+MI,Michigan,UT,Utah,2025,1,122.0
+MI,Michigan,VA,Virginia,2025,1,564.0
+MI,Michigan,VT,Vermont,2025,1,60.0
+MI,Michigan,WA,Washington,2025,1,123.0
+MI,Michigan,WI,Wisconsin,2025,1,497.0
+MI,Michigan,WV,West Virginia,2025,1,1.0
+MN,Minnesota,AK,Alaska,2025,1,19.0
+MN,Minnesota,AR,Arkansas,2025,1,26.0
+MN,Minnesota,AZ,Arizona,2025,1,458.0
+MN,Minnesota,CA,California,2025,1,670.0
+MN,Minnesota,CO,Colorado,2025,1,455.0
+MN,Minnesota,CT,Connecticut,2025,1,58.0
+MN,Minnesota,FL,Florida,2025,1,1024.0
+MN,Minnesota,GA,Georgia,2025,1,320.0
+MN,Minnesota,HI,Hawaii,2025,1,31.0
+MN,Minnesota,IA,Iowa,2025,1,174.0
+MN,Minnesota,ID,Idaho,2025,1,55.0
+MN,Minnesota,IL,Illinois,2025,1,889.0
+MN,Minnesota,IN,Indiana,2025,1,209.0
+MN,Minnesota,KS,Kansas,2025,1,31.0
+MN,Minnesota,KY,Kentucky,2025,1,279.0
+MN,Minnesota,LA,Louisiana,2025,1,29.0
+MN,Minnesota,MA,Massachusetts,2025,1,141.0
+MN,Minnesota,MD,Maryland,2025,1,91.0
+MN,Minnesota,MI,Michigan,2025,1,471.0
+MN,Minnesota,MN,Minnesota,2025,1,1049.0
+MN,Minnesota,MO,Missouri,2025,1,244.0
+MN,Minnesota,MT,Montana,2025,1,174.0
+MN,Minnesota,NC,North Carolina,2025,1,290.0
+MN,Minnesota,ND,North Dakota,2025,1,585.0
+MN,Minnesota,NE,Nebraska,2025,1,123.0
+MN,Minnesota,NJ,New Jersey,2025,1,182.0
+MN,Minnesota,NM,New Mexico,2025,1,4.0
+MN,Minnesota,NV,Nevada,2025,1,247.0
+MN,Minnesota,NY,New York,2025,1,318.0
+MN,Minnesota,OH,Ohio,2025,1,181.0
+MN,Minnesota,OK,Oklahoma,2025,1,33.0
+MN,Minnesota,OR,Oregon,2025,1,83.0
+MN,Minnesota,PA,Pennsylvania,2025,1,224.0
+MN,Minnesota,PR,Puerto Rico,2025,1,60.0
+MN,Minnesota,SC,South Carolina,2025,1,28.0
+MN,Minnesota,SD,South Dakota,2025,1,291.0
+MN,Minnesota,TN,Tennessee,2025,1,310.0
+MN,Minnesota,TX,Texas,2025,1,672.0
+MN,Minnesota,UT,Utah,2025,1,131.0
+MN,Minnesota,VA,Virginia,2025,1,347.0
+MN,Minnesota,VI,U.S. Virgin Islands,2025,1,4.0
+MN,Minnesota,WA,Washington,2025,1,273.0
+MN,Minnesota,WI,Wisconsin,2025,1,546.0
+MN,Minnesota,WV,West Virginia,2025,1,1.0
+MN,Minnesota,WY,Wyoming,2025,1,12.0
+MO,Missouri,AL,Alabama,2025,1,1.0
+MO,Missouri,AR,Arkansas,2025,1,83.0
+MO,Missouri,AZ,Arizona,2025,1,393.0
+MO,Missouri,CA,California,2025,1,414.0
+MO,Missouri,CO,Colorado,2025,1,658.0
+MO,Missouri,CT,Connecticut,2025,1,2.0
+MO,Missouri,FL,Florida,2025,1,942.0
+MO,Missouri,GA,Georgia,2025,1,554.0
+MO,Missouri,IA,Iowa,2025,1,103.0
+MO,Missouri,IL,Illinois,2025,1,1311.0
+MO,Missouri,IN,Indiana,2025,1,60.0
+MO,Missouri,KS,Kansas,2025,1,58.0
+MO,Missouri,KY,Kentucky,2025,1,159.0
+MO,Missouri,LA,Louisiana,2025,1,88.0
+MO,Missouri,MA,Massachusetts,2025,1,123.0
+MO,Missouri,MD,Maryland,2025,1,129.0
+MO,Missouri,MI,Michigan,2025,1,220.0
+MO,Missouri,MN,Minnesota,2025,1,247.0
+MO,Missouri,MO,Missouri,2025,1,168.0
+MO,Missouri,MS,Mississippi,2025,1,5.0
+MO,Missouri,NC,North Carolina,2025,1,394.0
+MO,Missouri,NE,Nebraska,2025,1,78.0
+MO,Missouri,NJ,New Jersey,2025,1,80.0
+MO,Missouri,NM,New Mexico,2025,1,28.0
+MO,Missouri,NV,Nevada,2025,1,293.0
+MO,Missouri,NY,New York,2025,1,450.0
+MO,Missouri,OH,Ohio,2025,1,116.0
+MO,Missouri,OK,Oklahoma,2025,1,113.0
+MO,Missouri,OR,Oregon,2025,1,17.0
+MO,Missouri,PA,Pennsylvania,2025,1,138.0
+MO,Missouri,PR,Puerto Rico,2025,1,4.0
+MO,Missouri,TN,Tennessee,2025,1,237.0
+MO,Missouri,TX,Texas,2025,1,1612.0
+MO,Missouri,UT,Utah,2025,1,131.0
+MO,Missouri,VA,Virginia,2025,1,383.0
+MO,Missouri,WA,Washington,2025,1,98.0
+MO,Missouri,WI,Wisconsin,2025,1,83.0
+MS,Mississippi,AR,Arkansas,2025,1,2.0
+MS,Mississippi,FL,Florida,2025,1,27.0
+MS,Mississippi,GA,Georgia,2025,1,371.0
+MS,Mississippi,IA,Iowa,2025,1,1.0
+MS,Mississippi,IL,Illinois,2025,1,3.0
+MS,Mississippi,IN,Indiana,2025,1,3.0
+MS,Mississippi,KY,Kentucky,2025,1,22.0
+MS,Mississippi,LA,Louisiana,2025,1,7.0
+MS,Mississippi,MD,Maryland,2025,1,27.0
+MS,Mississippi,MI,Michigan,2025,1,3.0
+MS,Mississippi,MO,Missouri,2025,1,6.0
+MS,Mississippi,NC,North Carolina,2025,1,168.0
+MS,Mississippi,ND,North Dakota,2025,1,1.0
+MS,Mississippi,NV,Nevada,2025,1,9.0
+MS,Mississippi,OH,Ohio,2025,1,6.0
+MS,Mississippi,OK,Oklahoma,2025,1,3.0
+MS,Mississippi,SC,South Carolina,2025,1,6.0
+MS,Mississippi,TN,Tennessee,2025,1,41.0
+MS,Mississippi,TX,Texas,2025,1,632.0
+MS,Mississippi,VA,Virginia,2025,1,20.0
+MS,Mississippi,WI,Wisconsin,2025,1,3.0
+MT,Montana,AZ,Arizona,2025,1,97.0
+MT,Montana,CA,California,2025,1,124.0
+MT,Montana,CO,Colorado,2025,1,656.0
+MT,Montana,GA,Georgia,2025,1,40.0
+MT,Montana,ID,Idaho,2025,1,22.0
+MT,Montana,IL,Illinois,2025,1,90.0
+MT,Montana,KY,Kentucky,2025,1,39.0
+MT,Montana,MA,Massachusetts,2025,1,11.0
+MT,Montana,MN,Minnesota,2025,1,177.0
+MT,Montana,MO,Missouri,2025,1,1.0
+MT,Montana,MT,Montana,2025,1,1029.0
+MT,Montana,ND,North Dakota,2025,1,1.0
+MT,Montana,NJ,New Jersey,2025,1,35.0
+MT,Montana,NV,Nevada,2025,1,83.0
+MT,Montana,NY,New York,2025,1,7.0
+MT,Montana,OK,Oklahoma,2025,1,1.0
+MT,Montana,OR,Oregon,2025,1,98.0
+MT,Montana,SD,South Dakota,2025,1,1.0
+MT,Montana,TN,Tennessee,2025,1,38.0
+MT,Montana,TX,Texas,2025,1,168.0
+MT,Montana,UT,Utah,2025,1,553.0
+MT,Montana,VA,Virginia,2025,1,4.0
+MT,Montana,WA,Washington,2025,1,410.0
+MT,Montana,WY,Wyoming,2025,1,1.0
+NC,North Carolina,AL,Alabama,2025,1,511.0
+NC,North Carolina,AR,Arkansas,2025,1,255.0
+NC,North Carolina,AZ,Arizona,2025,1,299.0
+NC,North Carolina,CA,California,2025,1,659.0
+NC,North Carolina,CO,Colorado,2025,1,413.0
+NC,North Carolina,CT,Connecticut,2025,1,233.0
+NC,North Carolina,DE,Delaware,2025,1,9.0
+NC,North Carolina,FL,Florida,2025,1,3938.0
+NC,North Carolina,GA,Georgia,2025,1,1734.0
+NC,North Carolina,IA,Iowa,2025,1,97.0
+NC,North Carolina,IL,Illinois,2025,1,993.0
+NC,North Carolina,IN,Indiana,2025,1,467.0
+NC,North Carolina,KS,Kansas,2025,1,1.0
+NC,North Carolina,KY,Kentucky,2025,1,633.0
+NC,North Carolina,LA,Louisiana,2025,1,344.0
+NC,North Carolina,MA,Massachusetts,2025,1,567.0
+NC,North Carolina,MD,Maryland,2025,1,457.0
+NC,North Carolina,ME,Maine,2025,1,40.0
+NC,North Carolina,MI,Michigan,2025,1,543.0
+NC,North Carolina,MN,Minnesota,2025,1,289.0
+NC,North Carolina,MO,Missouri,2025,1,395.0
+NC,North Carolina,MS,Mississippi,2025,1,171.0
+NC,North Carolina,NC,North Carolina,2025,1,3058.0
+NC,North Carolina,NE,Nebraska,2025,1,78.0
+NC,North Carolina,NH,New Hampshire,2025,1,76.0
+NC,North Carolina,NJ,New Jersey,2025,1,711.0
+NC,North Carolina,NV,Nevada,2025,1,240.0
+NC,North Carolina,NY,New York,2025,1,2270.0
+NC,North Carolina,OH,Ohio,2025,1,569.0
+NC,North Carolina,OK,Oklahoma,2025,1,140.0
+NC,North Carolina,OR,Oregon,2025,1,7.0
+NC,North Carolina,PA,Pennsylvania,2025,1,1379.0
+NC,North Carolina,PR,Puerto Rico,2025,1,146.0
+NC,North Carolina,RI,Rhode Island,2025,1,127.0
+NC,North Carolina,SC,South Carolina,2025,1,1059.0
+NC,North Carolina,TN,Tennessee,2025,1,1284.0
+NC,North Carolina,TX,Texas,2025,1,1405.0
+NC,North Carolina,UT,Utah,2025,1,98.0
+NC,North Carolina,VA,Virginia,2025,1,2190.0
+NC,North Carolina,VI,U.S. Virgin Islands,2025,1,84.0
+NC,North Carolina,VT,Vermont,2025,1,38.0
+NC,North Carolina,WA,Washington,2025,1,145.0
+NC,North Carolina,WI,Wisconsin,2025,1,193.0
+NC,North Carolina,WV,West Virginia,2025,1,265.0
+ND,North Dakota,AZ,Arizona,2025,1,128.0
+ND,North Dakota,CA,California,2025,1,1.0
+ND,North Dakota,CO,Colorado,2025,1,517.0
+ND,North Dakota,FL,Florida,2025,1,46.0
+ND,North Dakota,IA,Iowa,2025,1,1.0
+ND,North Dakota,IL,Illinois,2025,1,155.0
+ND,North Dakota,IN,Indiana,2025,1,1.0
+ND,North Dakota,KY,Kentucky,2025,1,23.0
+ND,North Dakota,MN,Minnesota,2025,1,595.0
+ND,North Dakota,MS,Mississippi,2025,1,1.0
+ND,North Dakota,ND,North Dakota,2025,1,230.0
+ND,North Dakota,NV,Nevada,2025,1,35.0
+ND,North Dakota,OH,Ohio,2025,1,2.0
+ND,North Dakota,PA,Pennsylvania,2025,1,1.0
+ND,North Dakota,SD,South Dakota,2025,1,1.0
+ND,North Dakota,TN,Tennessee,2025,1,25.0
+ND,North Dakota,TX,Texas,2025,1,165.0
+ND,North Dakota,WI,Wisconsin,2025,1,1.0
+ND,North Dakota,WY,Wyoming,2025,1,1.0
+NE,Nebraska,AZ,Arizona,2025,1,176.0
+NE,Nebraska,CA,California,2025,1,71.0
+NE,Nebraska,CO,Colorado,2025,1,643.0
+NE,Nebraska,CT,Connecticut,2025,1,2.0
+NE,Nebraska,FL,Florida,2025,1,107.0
+NE,Nebraska,GA,Georgia,2025,1,138.0
+NE,Nebraska,IA,Iowa,2025,1,1.0
+NE,Nebraska,IL,Illinois,2025,1,415.0
+NE,Nebraska,IN,Indiana,2025,1,3.0
+NE,Nebraska,KY,Kentucky,2025,1,50.0
+NE,Nebraska,MD,Maryland,2025,1,2.0
+NE,Nebraska,MI,Michigan,2025,1,86.0
+NE,Nebraska,MN,Minnesota,2025,1,121.0
+NE,Nebraska,MO,Missouri,2025,1,80.0
+NE,Nebraska,NC,North Carolina,2025,1,77.0
+NE,Nebraska,NE,Nebraska,2025,1,181.0
+NE,Nebraska,NJ,New Jersey,2025,1,4.0
+NE,Nebraska,NV,Nevada,2025,1,107.0
+NE,Nebraska,NY,New York,2025,1,84.0
+NE,Nebraska,OH,Ohio,2025,1,1.0
+NE,Nebraska,OK,Oklahoma,2025,1,2.0
+NE,Nebraska,PA,Pennsylvania,2025,1,1.0
+NE,Nebraska,SD,South Dakota,2025,1,1.0
+NE,Nebraska,TN,Tennessee,2025,1,42.0
+NE,Nebraska,TX,Texas,2025,1,299.0
+NE,Nebraska,UT,Utah,2025,1,59.0
+NE,Nebraska,VA,Virginia,2025,1,53.0
+NE,Nebraska,WA,Washington,2025,1,27.0
+NE,Nebraska,WI,Wisconsin,2025,1,4.0
+NE,Nebraska,WY,Wyoming,2025,1,22.0
+NH,New Hampshire,FL,Florida,2025,1,141.0
+NH,New Hampshire,IL,Illinois,2025,1,43.0
+NH,New Hampshire,KY,Kentucky,2025,1,70.0
+NH,New Hampshire,MA,Massachusetts,2025,1,122.0
+NH,New Hampshire,MD,Maryland,2025,1,106.0
+NH,New Hampshire,ME,Maine,2025,1,15.0
+NH,New Hampshire,NC,North Carolina,2025,1,76.0
+NH,New Hampshire,NJ,New Jersey,2025,1,64.0
+NH,New Hampshire,NY,New York,2025,1,60.0
+NH,New Hampshire,PA,Pennsylvania,2025,1,92.0
+NH,New Hampshire,SC,South Carolina,2025,1,9.0
+NH,New Hampshire,TN,Tennessee,2025,1,17.0
+NH,New Hampshire,TX,Texas,2025,1,24.0
+NH,New Hampshire,VA,Virginia,2025,1,100.0
+NJ,New Jersey,AK,Alaska,2025,1,24.0
+NJ,New Jersey,AR,Arkansas,2025,1,2.0
+NJ,New Jersey,AZ,Arizona,2025,1,224.0
+NJ,New Jersey,CA,California,2025,1,894.0
+NJ,New Jersey,CO,Colorado,2025,1,327.0
+NJ,New Jersey,CT,Connecticut,2025,1,2.0
+NJ,New Jersey,DE,Delaware,2025,1,1.0
+NJ,New Jersey,FL,Florida,2025,1,2990.0
+NJ,New Jersey,GA,Georgia,2025,1,554.0
+NJ,New Jersey,HI,Hawaii,2025,1,29.0
+NJ,New Jersey,IA,Iowa,2025,1,2.0
+NJ,New Jersey,IL,Illinois,2025,1,569.0
+NJ,New Jersey,IN,Indiana,2025,1,224.0
+NJ,New Jersey,KY,Kentucky,2025,1,381.0
+NJ,New Jersey,LA,Louisiana,2025,1,113.0
+NJ,New Jersey,MA,Massachusetts,2025,1,354.0
+NJ,New Jersey,MD,Maryland,2025,1,33.0
+NJ,New Jersey,ME,Maine,2025,1,119.0
+NJ,New Jersey,MI,Michigan,2025,1,291.0
+NJ,New Jersey,MN,Minnesota,2025,1,182.0
+NJ,New Jersey,MO,Missouri,2025,1,81.0
+NJ,New Jersey,MT,Montana,2025,1,35.0
+NJ,New Jersey,NC,North Carolina,2025,1,716.0
+NJ,New Jersey,NE,Nebraska,2025,1,3.0
+NJ,New Jersey,NH,New Hampshire,2025,1,61.0
+NJ,New Jersey,NV,Nevada,2025,1,274.0
+NJ,New Jersey,NY,New York,2025,1,365.0
+NJ,New Jersey,OH,Ohio,2025,1,360.0
+NJ,New Jersey,OK,Oklahoma,2025,1,1.0
+NJ,New Jersey,OR,Oregon,2025,1,36.0
+NJ,New Jersey,PA,Pennsylvania,2025,1,225.0
+NJ,New Jersey,PR,Puerto Rico,2025,1,252.0
+NJ,New Jersey,RI,Rhode Island,2025,1,64.0
+NJ,New Jersey,SC,South Carolina,2025,1,225.0
+NJ,New Jersey,TN,Tennessee,2025,1,283.0
+NJ,New Jersey,TX,Texas,2025,1,825.0
+NJ,New Jersey,UT,Utah,2025,1,120.0
+NJ,New Jersey,VA,Virginia,2025,1,694.0
+NJ,New Jersey,VI,U.S. Virgin Islands,2025,1,31.0
+NJ,New Jersey,VT,Vermont,2025,1,68.0
+NJ,New Jersey,WA,Washington,2025,1,121.0
+NJ,New Jersey,WI,Wisconsin,2025,1,95.0
+NJ,New Jersey,WV,West Virginia,2025,1,8.0
+NJ,New Jersey,WY,Wyoming,2025,1,58.0
+NM,New Mexico,AZ,Arizona,2025,1,427.0
+NM,New Mexico,CA,California,2025,1,385.0
+NM,New Mexico,CO,Colorado,2025,1,431.0
+NM,New Mexico,FL,Florida,2025,1,1.0
+NM,New Mexico,GA,Georgia,2025,1,70.0
+NM,New Mexico,IL,Illinois,2025,1,80.0
+NM,New Mexico,KY,Kentucky,2025,1,31.0
+NM,New Mexico,LA,Louisiana,2025,1,1.0
+NM,New Mexico,MD,Maryland,2025,1,31.0
+NM,New Mexico,MN,Minnesota,2025,1,5.0
+NM,New Mexico,MO,Missouri,2025,1,27.0
+NM,New Mexico,NM,New Mexico,2025,1,441.0
+NM,New Mexico,NV,Nevada,2025,1,158.0
+NM,New Mexico,OK,Oklahoma,2025,1,2.0
+NM,New Mexico,OR,Oregon,2025,1,19.0
+NM,New Mexico,TN,Tennessee,2025,1,18.0
+NM,New Mexico,TX,Texas,2025,1,830.0
+NM,New Mexico,UT,Utah,2025,1,89.0
+NM,New Mexico,WA,Washington,2025,1,36.0
+NV,Nevada,AK,Alaska,2025,1,2.0
+NV,Nevada,AL,Alabama,2025,1,40.0
+NV,Nevada,AR,Arkansas,2025,1,37.0
+NV,Nevada,AZ,Arizona,2025,1,1111.0
+NV,Nevada,CA,California,2025,1,6078.0
+NV,Nevada,CO,Colorado,2025,1,910.0
+NV,Nevada,CT,Connecticut,2025,1,13.0
+NV,Nevada,FL,Florida,2025,1,511.0
+NV,Nevada,GA,Georgia,2025,1,412.0
+NV,Nevada,HI,Hawaii,2025,1,251.0
+NV,Nevada,IA,Iowa,2025,1,59.0
+NV,Nevada,ID,Idaho,2025,1,166.0
+NV,Nevada,IL,Illinois,2025,1,638.0
+NV,Nevada,IN,Indiana,2025,1,123.0
+NV,Nevada,KS,Kansas,2025,1,39.0
+NV,Nevada,KY,Kentucky,2025,1,202.0
+NV,Nevada,LA,Louisiana,2025,1,74.0
+NV,Nevada,MA,Massachusetts,2025,1,138.0
+NV,Nevada,MD,Maryland,2025,1,152.0
+NV,Nevada,MI,Michigan,2025,1,296.0
+NV,Nevada,MN,Minnesota,2025,1,255.0
+NV,Nevada,MO,Missouri,2025,1,303.0
+NV,Nevada,MS,Mississippi,2025,1,8.0
+NV,Nevada,MT,Montana,2025,1,78.0
+NV,Nevada,NC,North Carolina,2025,1,243.0
+NV,Nevada,ND,North Dakota,2025,1,35.0
+NV,Nevada,NE,Nebraska,2025,1,102.0
+NV,Nevada,NJ,New Jersey,2025,1,280.0
+NV,Nevada,NM,New Mexico,2025,1,158.0
+NV,Nevada,NV,Nevada,2025,1,665.0
+NV,Nevada,NY,New York,2025,1,417.0
+NV,Nevada,OH,Ohio,2025,1,190.0
+NV,Nevada,OK,Oklahoma,2025,1,143.0
+NV,Nevada,OR,Oregon,2025,1,405.0
+NV,Nevada,PA,Pennsylvania,2025,1,172.0
+NV,Nevada,SD,South Dakota,2025,1,27.0
+NV,Nevada,TN,Tennessee,2025,1,257.0
+NV,Nevada,TX,Texas,2025,1,1972.0
+NV,Nevada,UT,Utah,2025,1,531.0
+NV,Nevada,VA,Virginia,2025,1,139.0
+NV,Nevada,WA,Washington,2025,1,754.0
+NV,Nevada,WI,Wisconsin,2025,1,89.0
+NY,New York,AK,Alaska,2025,1,132.0
+NY,New York,AL,Alabama,2025,1,78.0
+NY,New York,AR,Arkansas,2025,1,130.0
+NY,New York,AZ,Arizona,2025,1,270.0
+NY,New York,CA,California,2025,1,1526.0
+NY,New York,CO,Colorado,2025,1,572.0
+NY,New York,CT,Connecticut,2025,1,24.0
+NY,New York,FL,Florida,2025,1,6286.0
+NY,New York,GA,Georgia,2025,1,1532.0
+NY,New York,HI,Hawaii,2025,1,59.0
+NY,New York,IA,Iowa,2025,1,62.0
+NY,New York,IL,Illinois,2025,1,2066.0
+NY,New York,IN,Indiana,2025,1,425.0
+NY,New York,KY,Kentucky,2025,1,809.0
+NY,New York,LA,Louisiana,2025,1,190.0
+NY,New York,MA,Massachusetts,2025,1,1375.0
+NY,New York,MD,Maryland,2025,1,422.0
+NY,New York,ME,Maine,2025,1,225.0
+NY,New York,MI,Michigan,2025,1,1011.0
+NY,New York,MN,Minnesota,2025,1,316.0
+NY,New York,MO,Missouri,2025,1,452.0
+NY,New York,MT,Montana,2025,1,7.0
+NY,New York,NC,North Carolina,2025,1,2270.0
+NY,New York,NE,Nebraska,2025,1,83.0
+NY,New York,NH,New Hampshire,2025,1,59.0
+NY,New York,NJ,New Jersey,2025,1,373.0
+NY,New York,NV,Nevada,2025,1,422.0
+NY,New York,NY,New York,2025,1,1999.0
+NY,New York,OH,Ohio,2025,1,844.0
+NY,New York,OK,Oklahoma,2025,1,131.0
+NY,New York,OR,Oregon,2025,1,62.0
+NY,New York,PA,Pennsylvania,2025,1,916.0
+NY,New York,PR,Puerto Rico,2025,1,434.0
+NY,New York,RI,Rhode Island,2025,1,1.0
+NY,New York,SC,South Carolina,2025,1,581.0
+NY,New York,TN,Tennessee,2025,1,963.0
+NY,New York,TX,Texas,2025,1,1473.0
+NY,New York,UT,Utah,2025,1,169.0
+NY,New York,VA,Virginia,2025,1,2237.0
+NY,New York,VI,U.S. Virgin Islands,2025,1,62.0
+NY,New York,VT,Vermont,2025,1,142.0
+NY,New York,WA,Washington,2025,1,171.0
+NY,New York,WI,Wisconsin,2025,1,189.0
+OH,Ohio,AL,Alabama,2025,1,1.0
+OH,Ohio,AZ,Arizona,2025,1,147.0
+OH,Ohio,CA,California,2025,1,174.0
+OH,Ohio,CO,Colorado,2025,1,306.0
+OH,Ohio,CT,Connecticut,2025,1,22.0
+OH,Ohio,FL,Florida,2025,1,1344.0
+OH,Ohio,GA,Georgia,2025,1,641.0
+OH,Ohio,IA,Iowa,2025,1,2.0
+OH,Ohio,IL,Illinois,2025,1,1122.0
+OH,Ohio,IN,Indiana,2025,1,37.0
+OH,Ohio,KS,Kansas,2025,1,2.0
+OH,Ohio,KY,Kentucky,2025,1,65.0
+OH,Ohio,LA,Louisiana,2025,1,2.0
+OH,Ohio,MA,Massachusetts,2025,1,256.0
+OH,Ohio,MD,Maryland,2025,1,136.0
+OH,Ohio,MI,Michigan,2025,1,242.0
+OH,Ohio,MN,Minnesota,2025,1,182.0
+OH,Ohio,MO,Missouri,2025,1,112.0
+OH,Ohio,MS,Mississippi,2025,1,7.0
+OH,Ohio,NC,North Carolina,2025,1,571.0
+OH,Ohio,NE,Nebraska,2025,1,1.0
+OH,Ohio,NJ,New Jersey,2025,1,361.0
+OH,Ohio,NV,Nevada,2025,1,191.0
+OH,Ohio,NY,New York,2025,1,847.0
+OH,Ohio,OH,Ohio,2025,1,14.0
+OH,Ohio,OK,Oklahoma,2025,1,4.0
+OH,Ohio,PA,Pennsylvania,2025,1,335.0
+OH,Ohio,PR,Puerto Rico,2025,1,6.0
+OH,Ohio,SC,South Carolina,2025,1,22.0
+OH,Ohio,TN,Tennessee,2025,1,197.0
+OH,Ohio,TX,Texas,2025,1,652.0
+OH,Ohio,UT,Utah,2025,1,61.0
+OH,Ohio,VA,Virginia,2025,1,691.0
+OH,Ohio,WA,Washington,2025,1,29.0
+OH,Ohio,WI,Wisconsin,2025,1,2.0
+OK,Oklahoma,AK,Alaska,2025,1,3.0
+OK,Oklahoma,AR,Arkansas,2025,1,3.0
+OK,Oklahoma,AZ,Arizona,2025,1,244.0
+OK,Oklahoma,CA,California,2025,1,102.0
+OK,Oklahoma,CO,Colorado,2025,1,444.0
+OK,Oklahoma,FL,Florida,2025,1,33.0
+OK,Oklahoma,GA,Georgia,2025,1,241.0
+OK,Oklahoma,ID,Idaho,2025,1,1.0
+OK,Oklahoma,IL,Illinois,2025,1,309.0
+OK,Oklahoma,KS,Kansas,2025,1,24.0
+OK,Oklahoma,KY,Kentucky,2025,1,74.0
+OK,Oklahoma,LA,Louisiana,2025,1,3.0
+OK,Oklahoma,MD,Maryland,2025,1,1.0
+OK,Oklahoma,MN,Minnesota,2025,1,35.0
+OK,Oklahoma,MO,Missouri,2025,1,110.0
+OK,Oklahoma,NC,North Carolina,2025,1,139.0
+OK,Oklahoma,NJ,New Jersey,2025,1,2.0
+OK,Oklahoma,NV,Nevada,2025,1,143.0
+OK,Oklahoma,NY,New York,2025,1,132.0
+OK,Oklahoma,OH,Ohio,2025,1,4.0
+OK,Oklahoma,OK,Oklahoma,2025,1,32.0
+OK,Oklahoma,OR,Oregon,2025,1,1.0
+OK,Oklahoma,PA,Pennsylvania,2025,1,2.0
+OK,Oklahoma,TN,Tennessee,2025,1,55.0
+OK,Oklahoma,TX,Texas,2025,1,1241.0
+OK,Oklahoma,UT,Utah,2025,1,119.0
+OK,Oklahoma,VA,Virginia,2025,1,81.0
+OK,Oklahoma,WA,Washington,2025,1,23.0
+OK,Oklahoma,WI,Wisconsin,2025,1,4.0
+OK,Oklahoma,WV,West Virginia,2025,1,1.0
+OR,Oregon,AK,Alaska,2025,1,100.0
+OR,Oregon,AR,Arkansas,2025,1,1.0
+OR,Oregon,AZ,Arizona,2025,1,575.0
+OR,Oregon,CA,California,2025,1,2585.0
+OR,Oregon,CO,Colorado,2025,1,493.0
+OR,Oregon,FL,Florida,2025,1,107.0
+OR,Oregon,GA,Georgia,2025,1,79.0
+OR,Oregon,HI,Hawaii,2025,1,171.0
+OR,Oregon,ID,Idaho,2025,1,172.0
+OR,Oregon,IL,Illinois,2025,1,161.0
+OR,Oregon,IN,Indiana,2025,1,18.0
+OR,Oregon,KY,Kentucky,2025,1,78.0
+OR,Oregon,LA,Louisiana,2025,1,24.0
+OR,Oregon,MA,Massachusetts,2025,1,22.0
+OR,Oregon,MI,Michigan,2025,1,4.0
+OR,Oregon,MN,Minnesota,2025,1,86.0
+OR,Oregon,MO,Missouri,2025,1,17.0
+OR,Oregon,MT,Montana,2025,1,99.0
+OR,Oregon,NC,North Carolina,2025,1,7.0
+OR,Oregon,NE,Nebraska,2025,1,2.0
+OR,Oregon,NJ,New Jersey,2025,1,36.0
+OR,Oregon,NM,New Mexico,2025,1,20.0
+OR,Oregon,NV,Nevada,2025,1,418.0
+OR,Oregon,NY,New York,2025,1,62.0
+OR,Oregon,OR,Oregon,2025,1,1088.0
+OR,Oregon,TN,Tennessee,2025,1,53.0
+OR,Oregon,TX,Texas,2025,1,304.0
+OR,Oregon,UT,Utah,2025,1,383.0
+OR,Oregon,VA,Virginia,2025,1,37.0
+OR,Oregon,WA,Washington,2025,1,1369.0
+PA,Pennsylvania,AL,Alabama,2025,1,27.0
+PA,Pennsylvania,AR,Arkansas,2025,1,20.0
+PA,Pennsylvania,AZ,Arizona,2025,1,244.0
+PA,Pennsylvania,CA,California,2025,1,435.0
+PA,Pennsylvania,CO,Colorado,2025,1,306.0
+PA,Pennsylvania,CT,Connecticut,2025,1,95.0
+PA,Pennsylvania,FL,Florida,2025,1,2583.0
+PA,Pennsylvania,GA,Georgia,2025,1,851.0
+PA,Pennsylvania,IA,Iowa,2025,1,2.0
+PA,Pennsylvania,IL,Illinois,2025,1,1203.0
+PA,Pennsylvania,IN,Indiana,2025,1,188.0
+PA,Pennsylvania,KS,Kansas,2025,1,1.0
+PA,Pennsylvania,KY,Kentucky,2025,1,464.0
+PA,Pennsylvania,LA,Louisiana,2025,1,78.0
+PA,Pennsylvania,MA,Massachusetts,2025,1,576.0
+PA,Pennsylvania,MD,Maryland,2025,1,152.0
+PA,Pennsylvania,ME,Maine,2025,1,142.0
+PA,Pennsylvania,MI,Michigan,2025,1,426.0
+PA,Pennsylvania,MN,Minnesota,2025,1,213.0
+PA,Pennsylvania,MO,Missouri,2025,1,139.0
+PA,Pennsylvania,MS,Mississippi,2025,1,1.0
+PA,Pennsylvania,NC,North Carolina,2025,1,1372.0
+PA,Pennsylvania,NE,Nebraska,2025,1,1.0
+PA,Pennsylvania,NH,New Hampshire,2025,1,93.0
+PA,Pennsylvania,NJ,New Jersey,2025,1,233.0
+PA,Pennsylvania,NV,Nevada,2025,1,169.0
+PA,Pennsylvania,NY,New York,2025,1,922.0
+PA,Pennsylvania,OH,Ohio,2025,1,266.0
+PA,Pennsylvania,OK,Oklahoma,2025,1,2.0
+PA,Pennsylvania,PA,Pennsylvania,2025,1,990.0
+PA,Pennsylvania,PR,Puerto Rico,2025,1,159.0
+PA,Pennsylvania,RI,Rhode Island,2025,1,92.0
+PA,Pennsylvania,SC,South Carolina,2025,1,293.0
+PA,Pennsylvania,TN,Tennessee,2025,1,511.0
+PA,Pennsylvania,TX,Texas,2025,1,763.0
+PA,Pennsylvania,UT,Utah,2025,1,81.0
+PA,Pennsylvania,VA,Virginia,2025,1,1045.0
+PA,Pennsylvania,VI,U.S. Virgin Islands,2025,1,31.0
+PA,Pennsylvania,VT,Vermont,2025,1,80.0
+PA,Pennsylvania,WA,Washington,2025,1,68.0
+PA,Pennsylvania,WI,Wisconsin,2025,1,67.0
+PR,Puerto Rico,CO,Colorado,2025,1,30.0
+PR,Puerto Rico,CT,Connecticut,2025,1,110.0
+PR,Puerto Rico,DE,Delaware,2025,1,9.0
+PR,Puerto Rico,FL,Florida,2025,1,1355.0
+PR,Puerto Rico,GA,Georgia,2025,1,187.0
+PR,Puerto Rico,IL,Illinois,2025,1,129.0
+PR,Puerto Rico,KY,Kentucky,2025,1,134.0
+PR,Puerto Rico,LA,Louisiana,2025,1,10.0
+PR,Puerto Rico,MA,Massachusetts,2025,1,175.0
+PR,Puerto Rico,MD,Maryland,2025,1,94.0
+PR,Puerto Rico,MI,Michigan,2025,1,39.0
+PR,Puerto Rico,MN,Minnesota,2025,1,60.0
+PR,Puerto Rico,MO,Missouri,2025,1,5.0
+PR,Puerto Rico,NC,North Carolina,2025,1,148.0
+PR,Puerto Rico,NJ,New Jersey,2025,1,273.0
+PR,Puerto Rico,NY,New York,2025,1,434.0
+PR,Puerto Rico,OH,Ohio,2025,1,6.0
+PR,Puerto Rico,PA,Pennsylvania,2025,1,158.0
+PR,Puerto Rico,PR,Puerto Rico,2025,1,3017.0
+PR,Puerto Rico,RI,Rhode Island,2025,1,31.0
+PR,Puerto Rico,SC,South Carolina,2025,1,2.0
+PR,Puerto Rico,TN,Tennessee,2025,1,65.0
+PR,Puerto Rico,TX,Texas,2025,1,170.0
+PR,Puerto Rico,VA,Virginia,2025,1,91.0
+PR,Puerto Rico,VI,U.S. Virgin Islands,2025,1,727.0
+RI,Rhode Island,CO,Colorado,2025,1,9.0
+RI,Rhode Island,CT,Connecticut,2025,1,5.0
+RI,Rhode Island,FL,Florida,2025,1,474.0
+RI,Rhode Island,GA,Georgia,2025,1,83.0
+RI,Rhode Island,IL,Illinois,2025,1,96.0
+RI,Rhode Island,IN,Indiana,2025,1,11.0
+RI,Rhode Island,KY,Kentucky,2025,1,15.0
+RI,Rhode Island,MA,Massachusetts,2025,1,47.0
+RI,Rhode Island,MD,Maryland,2025,1,127.0
+RI,Rhode Island,ME,Maine,2025,1,2.0
+RI,Rhode Island,MI,Michigan,2025,1,62.0
+RI,Rhode Island,NC,North Carolina,2025,1,126.0
+RI,Rhode Island,NE,Nebraska,2025,1,1.0
+RI,Rhode Island,NJ,New Jersey,2025,1,64.0
+RI,Rhode Island,NY,New York,2025,1,2.0
+RI,Rhode Island,OH,Ohio,2025,1,1.0
+RI,Rhode Island,PA,Pennsylvania,2025,1,93.0
+RI,Rhode Island,PR,Puerto Rico,2025,1,31.0
+RI,Rhode Island,RI,Rhode Island,2025,1,643.0
+RI,Rhode Island,SC,South Carolina,2025,1,38.0
+RI,Rhode Island,TN,Tennessee,2025,1,6.0
+RI,Rhode Island,VA,Virginia,2025,1,291.0
+RI,Rhode Island,WI,Wisconsin,2025,1,1.0
+SC,South Carolina,AK,Alaska,2025,1,11.0
+SC,South Carolina,CA,California,2025,1,3.0
+SC,South Carolina,CO,Colorado,2025,1,85.0
+SC,South Carolina,CT,Connecticut,2025,1,52.0
+SC,South Carolina,FL,Florida,2025,1,320.0
+SC,South Carolina,GA,Georgia,2025,1,722.0
+SC,South Carolina,IL,Illinois,2025,1,272.0
+SC,South Carolina,IN,Indiana,2025,1,1.0
+SC,South Carolina,KS,Kansas,2025,1,3.0
+SC,South Carolina,KY,Kentucky,2025,1,64.0
+SC,South Carolina,LA,Louisiana,2025,1,22.0
+SC,South Carolina,MA,Massachusetts,2025,1,101.0
+SC,South Carolina,MD,Maryland,2025,1,185.0
+SC,South Carolina,ME,Maine,2025,1,10.0
+SC,South Carolina,MI,Michigan,2025,1,118.0
+SC,South Carolina,MN,Minnesota,2025,1,28.0
+SC,South Carolina,MO,Missouri,2025,1,1.0
+SC,South Carolina,MS,Mississippi,2025,1,4.0
+SC,South Carolina,NC,North Carolina,2025,1,1059.0
+SC,South Carolina,NH,New Hampshire,2025,1,8.0
+SC,South Carolina,NJ,New Jersey,2025,1,227.0
+SC,South Carolina,NY,New York,2025,1,578.0
+SC,South Carolina,OH,Ohio,2025,1,24.0
+SC,South Carolina,PA,Pennsylvania,2025,1,279.0
+SC,South Carolina,RI,Rhode Island,2025,1,37.0
+SC,South Carolina,SC,South Carolina,2025,1,49.0
+SC,South Carolina,TN,Tennessee,2025,1,155.0
+SC,South Carolina,TX,Texas,2025,1,351.0
+SC,South Carolina,VA,Virginia,2025,1,512.0
+SC,South Carolina,WA,Washington,2025,1,24.0
+SD,South Dakota,AZ,Arizona,2025,1,90.0
+SD,South Dakota,CA,California,2025,1,1.0
+SD,South Dakota,CO,Colorado,2025,1,419.0
+SD,South Dakota,FL,Florida,2025,1,46.0
+SD,South Dakota,GA,Georgia,2025,1,28.0
+SD,South Dakota,IA,Iowa,2025,1,1.0
+SD,South Dakota,IL,Illinois,2025,1,200.0
+SD,South Dakota,KY,Kentucky,2025,1,21.0
+SD,South Dakota,MI,Michigan,2025,1,1.0
+SD,South Dakota,MN,Minnesota,2025,1,291.0
+SD,South Dakota,MT,Montana,2025,1,2.0
+SD,South Dakota,NC,North Carolina,2025,1,1.0
+SD,South Dakota,ND,North Dakota,2025,1,13.0
+SD,South Dakota,NV,Nevada,2025,1,27.0
+SD,South Dakota,OK,Oklahoma,2025,1,2.0
+SD,South Dakota,SD,South Dakota,2025,1,183.0
+SD,South Dakota,TN,Tennessee,2025,1,30.0
+SD,South Dakota,TX,Texas,2025,1,153.0
+SD,South Dakota,WI,Wisconsin,2025,1,1.0
+TN,Tennessee,AK,Alaska,2025,1,113.0
+TN,Tennessee,AL,Alabama,2025,1,101.0
+TN,Tennessee,AR,Arkansas,2025,1,49.0
+TN,Tennessee,AZ,Arizona,2025,1,293.0
+TN,Tennessee,CA,California,2025,1,660.0
+TN,Tennessee,CO,Colorado,2025,1,526.0
+TN,Tennessee,CT,Connecticut,2025,1,57.0
+TN,Tennessee,FL,Florida,2025,1,1867.0
+TN,Tennessee,GA,Georgia,2025,1,1237.0
+TN,Tennessee,HI,Hawaii,2025,1,53.0
+TN,Tennessee,IA,Iowa,2025,1,47.0
+TN,Tennessee,ID,Idaho,2025,1,17.0
+TN,Tennessee,IL,Illinois,2025,1,1045.0
+TN,Tennessee,IN,Indiana,2025,1,98.0
+TN,Tennessee,KS,Kansas,2025,1,22.0
+TN,Tennessee,KY,Kentucky,2025,1,175.0
+TN,Tennessee,LA,Louisiana,2025,1,186.0
+TN,Tennessee,MA,Massachusetts,2025,1,235.0
+TN,Tennessee,MD,Maryland,2025,1,170.0
+TN,Tennessee,ME,Maine,2025,1,20.0
+TN,Tennessee,MI,Michigan,2025,1,456.0
+TN,Tennessee,MN,Minnesota,2025,1,305.0
+TN,Tennessee,MO,Missouri,2025,1,240.0
+TN,Tennessee,MS,Mississippi,2025,1,40.0
+TN,Tennessee,MT,Montana,2025,1,39.0
+TN,Tennessee,NC,North Carolina,2025,1,1308.0
+TN,Tennessee,ND,North Dakota,2025,1,27.0
+TN,Tennessee,NE,Nebraska,2025,1,49.0
+TN,Tennessee,NH,New Hampshire,2025,1,20.0
+TN,Tennessee,NJ,New Jersey,2025,1,280.0
+TN,Tennessee,NM,New Mexico,2025,1,20.0
+TN,Tennessee,NV,Nevada,2025,1,249.0
+TN,Tennessee,NY,New York,2025,1,963.0
+TN,Tennessee,OH,Ohio,2025,1,198.0
+TN,Tennessee,OK,Oklahoma,2025,1,67.0
+TN,Tennessee,OR,Oregon,2025,1,71.0
+TN,Tennessee,PA,Pennsylvania,2025,1,504.0
+TN,Tennessee,PR,Puerto Rico,2025,1,90.0
+TN,Tennessee,RI,Rhode Island,2025,1,17.0
+TN,Tennessee,SC,South Carolina,2025,1,188.0
+TN,Tennessee,SD,South Dakota,2025,1,29.0
+TN,Tennessee,TN,Tennessee,2025,1,153.0
+TN,Tennessee,TX,Texas,2025,1,2051.0
+TN,Tennessee,UT,Utah,2025,1,145.0
+TN,Tennessee,VA,Virginia,2025,1,827.0
+TN,Tennessee,WA,Washington,2025,1,155.0
+TN,Tennessee,WI,Wisconsin,2025,1,119.0
+TN,Tennessee,WV,West Virginia,2025,1,19.0
+TN,Tennessee,WY,Wyoming,2025,1,20.0
+TT,U.S. Pacific Trust Territories and Possessions,HI,Hawaii,2025,1,56.0
+TT,U.S. Pacific Trust Territories and Possessions,TT,U.S. Pacific Trust Territories and Possessions,2025,1,2063.0
+TX,Texas,AK,Alaska,2025,1,68.0
+TX,Texas,AL,Alabama,2025,1,912.0
+TX,Texas,AR,Arkansas,2025,1,1029.0
+TX,Texas,AZ,Arizona,2025,1,2305.0
+TX,Texas,CA,California,2025,1,5370.0
+TX,Texas,CO,Colorado,2025,1,3326.0
+TX,Texas,CT,Connecticut,2025,1,53.0
+TX,Texas,FL,Florida,2025,1,5010.0
+TX,Texas,GA,Georgia,2025,1,2011.0
+TX,Texas,HI,Hawaii,2025,1,135.0
+TX,Texas,IA,Iowa,2025,1,243.0
+TX,Texas,ID,Idaho,2025,1,88.0
+TX,Texas,IL,Illinois,2025,1,2235.0
+TX,Texas,IN,Indiana,2025,1,635.0
+TX,Texas,KS,Kansas,2025,1,466.0
+TX,Texas,KY,Kentucky,2025,1,1103.0
+TX,Texas,LA,Louisiana,2025,1,2103.0
+TX,Texas,MA,Massachusetts,2025,1,504.0
+TX,Texas,MD,Maryland,2025,1,611.0
+TX,Texas,ME,Maine,2025,1,1.0
+TX,Texas,MI,Michigan,2025,1,805.0
+TX,Texas,MN,Minnesota,2025,1,670.0
+TX,Texas,MO,Missouri,2025,1,1615.0
+TX,Texas,MS,Mississippi,2025,1,631.0
+TX,Texas,MT,Montana,2025,1,170.0
+TX,Texas,NC,North Carolina,2025,1,1413.0
+TX,Texas,ND,North Dakota,2025,1,162.0
+TX,Texas,NE,Nebraska,2025,1,292.0
+TX,Texas,NH,New Hampshire,2025,1,13.0
+TX,Texas,NJ,New Jersey,2025,1,815.0
+TX,Texas,NM,New Mexico,2025,1,821.0
+TX,Texas,NV,Nevada,2025,1,1995.0
+TX,Texas,NY,New York,2025,1,1488.0
+TX,Texas,OH,Ohio,2025,1,651.0
+TX,Texas,OK,Oklahoma,2025,1,1237.0
+TX,Texas,OR,Oregon,2025,1,306.0
+TX,Texas,PA,Pennsylvania,2025,1,782.0
+TX,Texas,PR,Puerto Rico,2025,1,170.0
+TX,Texas,SC,South Carolina,2025,1,341.0
+TX,Texas,SD,South Dakota,2025,1,153.0
+TX,Texas,TN,Tennessee,2025,1,2003.0
+TX,Texas,TX,Texas,2025,1,16944.0
+TX,Texas,UT,Utah,2025,1,962.0
+TX,Texas,VA,Virginia,2025,1,1317.0
+TX,Texas,VI,U.S. Virgin Islands,2025,1,8.0
+TX,Texas,WA,Washington,2025,1,797.0
+TX,Texas,WI,Wisconsin,2025,1,286.0
+TX,Texas,WV,West Virginia,2025,1,1.0
+TX,Texas,WY,Wyoming,2025,1,69.0
+UT,Utah,AZ,Arizona,2025,1,861.0
+UT,Utah,CA,California,2025,1,2321.0
+UT,Utah,CO,Colorado,2025,1,845.0
+UT,Utah,FL,Florida,2025,1,278.0
+UT,Utah,GA,Georgia,2025,1,245.0
+UT,Utah,HI,Hawaii,2025,1,118.0
+UT,Utah,ID,Idaho,2025,1,558.0
+UT,Utah,IL,Illinois,2025,1,309.0
+UT,Utah,IN,Indiana,2025,1,29.0
+UT,Utah,KY,Kentucky,2025,1,118.0
+UT,Utah,LA,Louisiana,2025,1,49.0
+UT,Utah,MA,Massachusetts,2025,1,80.0
+UT,Utah,MD,Maryland,2025,1,69.0
+UT,Utah,MI,Michigan,2025,1,123.0
+UT,Utah,MN,Minnesota,2025,1,133.0
+UT,Utah,MO,Missouri,2025,1,128.0
+UT,Utah,MT,Montana,2025,1,528.0
+UT,Utah,NC,North Carolina,2025,1,98.0
+UT,Utah,ND,North Dakota,2025,1,1.0
+UT,Utah,NE,Nebraska,2025,1,57.0
+UT,Utah,NJ,New Jersey,2025,1,119.0
+UT,Utah,NM,New Mexico,2025,1,88.0
+UT,Utah,NV,Nevada,2025,1,543.0
+UT,Utah,NY,New York,2025,1,172.0
+UT,Utah,OH,Ohio,2025,1,61.0
+UT,Utah,OK,Oklahoma,2025,1,117.0
+UT,Utah,OR,Oregon,2025,1,390.0
+UT,Utah,PA,Pennsylvania,2025,1,83.0
+UT,Utah,TN,Tennessee,2025,1,148.0
+UT,Utah,TX,Texas,2025,1,943.0
+UT,Utah,UT,Utah,2025,1,333.0
+UT,Utah,VA,Virginia,2025,1,105.0
+UT,Utah,WA,Washington,2025,1,559.0
+UT,Utah,WI,Wisconsin,2025,1,31.0
+UT,Utah,WY,Wyoming,2025,1,90.0
+VA,Virginia,AL,Alabama,2025,1,309.0
+VA,Virginia,AR,Arkansas,2025,1,58.0
+VA,Virginia,AZ,Arizona,2025,1,188.0
+VA,Virginia,CA,California,2025,1,725.0
+VA,Virginia,CO,Colorado,2025,1,461.0
+VA,Virginia,CT,Connecticut,2025,1,319.0
+VA,Virginia,DE,Delaware,2025,1,1.0
+VA,Virginia,FL,Florida,2025,1,2705.0
+VA,Virginia,GA,Georgia,2025,1,1546.0
+VA,Virginia,HI,Hawaii,2025,1,27.0
+VA,Virginia,IA,Iowa,2025,1,80.0
+VA,Virginia,IL,Illinois,2025,1,1224.0
+VA,Virginia,IN,Indiana,2025,1,300.0
+VA,Virginia,KS,Kansas,2025,1,20.0
+VA,Virginia,KY,Kentucky,2025,1,518.0
+VA,Virginia,LA,Louisiana,2025,1,242.0
+VA,Virginia,MA,Massachusetts,2025,1,945.0
+VA,Virginia,MD,Maryland,2025,1,185.0
+VA,Virginia,ME,Maine,2025,1,233.0
+VA,Virginia,MI,Michigan,2025,1,571.0
+VA,Virginia,MN,Minnesota,2025,1,341.0
+VA,Virginia,MO,Missouri,2025,1,384.0
+VA,Virginia,MS,Mississippi,2025,1,19.0
+VA,Virginia,MT,Montana,2025,1,4.0
+VA,Virginia,NC,North Carolina,2025,1,2164.0
+VA,Virginia,NE,Nebraska,2025,1,51.0
+VA,Virginia,NH,New Hampshire,2025,1,96.0
+VA,Virginia,NJ,New Jersey,2025,1,654.0
+VA,Virginia,NV,Nevada,2025,1,144.0
+VA,Virginia,NY,New York,2025,1,2243.0
+VA,Virginia,OH,Ohio,2025,1,700.0
+VA,Virginia,OK,Oklahoma,2025,1,80.0
+VA,Virginia,OR,Oregon,2025,1,36.0
+VA,Virginia,PA,Pennsylvania,2025,1,1031.0
+VA,Virginia,PR,Puerto Rico,2025,1,89.0
+VA,Virginia,RI,Rhode Island,2025,1,300.0
+VA,Virginia,SC,South Carolina,2025,1,505.0
+VA,Virginia,TN,Tennessee,2025,1,806.0
+VA,Virginia,TX,Texas,2025,1,1311.0
+VA,Virginia,UT,Utah,2025,1,104.0
+VA,Virginia,VA,Virginia,2025,1,1101.0
+VA,Virginia,VI,U.S. Virgin Islands,2025,1,31.0
+VA,Virginia,VT,Vermont,2025,1,203.0
+VA,Virginia,WA,Washington,2025,1,161.0
+VA,Virginia,WI,Wisconsin,2025,1,173.0
+VA,Virginia,WV,West Virginia,2025,1,44.0
+VI,U.S. Virgin Islands,FL,Florida,2025,1,214.0
+VI,U.S. Virgin Islands,GA,Georgia,2025,1,90.0
+VI,U.S. Virgin Islands,IL,Illinois,2025,1,19.0
+VI,U.S. Virgin Islands,MA,Massachusetts,2025,1,18.0
+VI,U.S. Virgin Islands,NC,North Carolina,2025,1,80.0
+VI,U.S. Virgin Islands,NJ,New Jersey,2025,1,31.0
+VI,U.S. Virgin Islands,NY,New York,2025,1,61.0
+VI,U.S. Virgin Islands,PA,Pennsylvania,2025,1,31.0
+VI,U.S. Virgin Islands,PR,Puerto Rico,2025,1,698.0
+VI,U.S. Virgin Islands,TX,Texas,2025,1,8.0
+VI,U.S. Virgin Islands,VA,Virginia,2025,1,32.0
+VI,U.S. Virgin Islands,VI,U.S. Virgin Islands,2025,1,1599.0
+VT,Vermont,FL,Florida,2025,1,57.0
+VT,Vermont,GA,Georgia,2025,1,30.0
+VT,Vermont,IL,Illinois,2025,1,67.0
+VT,Vermont,MA,Massachusetts,2025,1,85.0
+VT,Vermont,ME,Maine,2025,1,1.0
+VT,Vermont,MI,Michigan,2025,1,60.0
+VT,Vermont,NC,North Carolina,2025,1,37.0
+VT,Vermont,NJ,New Jersey,2025,1,65.0
+VT,Vermont,NY,New York,2025,1,140.0
+VT,Vermont,OH,Ohio,2025,1,1.0
+VT,Vermont,PA,Pennsylvania,2025,1,82.0
+VT,Vermont,VA,Virginia,2025,1,205.0
+WA,Washington,AK,Alaska,2025,1,979.0
+WA,Washington,AZ,Arizona,2025,1,941.0
+WA,Washington,CA,California,2025,1,4064.0
+WA,Washington,CO,Colorado,2025,1,713.0
+WA,Washington,FL,Florida,2025,1,433.0
+WA,Washington,GA,Georgia,2025,1,246.0
+WA,Washington,HI,Hawaii,2025,1,664.0
+WA,Washington,IA,Iowa,2025,1,1.0
+WA,Washington,ID,Idaho,2025,1,725.0
+WA,Washington,IL,Illinois,2025,1,378.0
+WA,Washington,IN,Indiana,2025,1,29.0
+WA,Washington,KS,Kansas,2025,1,24.0
+WA,Washington,KY,Kentucky,2025,1,180.0
+WA,Washington,LA,Louisiana,2025,1,58.0
+WA,Washington,MA,Massachusetts,2025,1,150.0
+WA,Washington,MD,Maryland,2025,1,28.0
+WA,Washington,MI,Michigan,2025,1,123.0
+WA,Washington,MN,Minnesota,2025,1,272.0
+WA,Washington,MO,Missouri,2025,1,96.0
+WA,Washington,MT,Montana,2025,1,411.0
+WA,Washington,NC,North Carolina,2025,1,144.0
+WA,Washington,NE,Nebraska,2025,1,25.0
+WA,Washington,NJ,New Jersey,2025,1,116.0
+WA,Washington,NM,New Mexico,2025,1,36.0
+WA,Washington,NV,Nevada,2025,1,758.0
+WA,Washington,NY,New York,2025,1,162.0
+WA,Washington,OH,Ohio,2025,1,83.0
+WA,Washington,OK,Oklahoma,2025,1,23.0
+WA,Washington,OR,Oregon,2025,1,1317.0
+WA,Washington,PA,Pennsylvania,2025,1,42.0
+WA,Washington,SC,South Carolina,2025,1,24.0
+WA,Washington,TN,Tennessee,2025,1,155.0
+WA,Washington,TX,Texas,2025,1,744.0
+WA,Washington,UT,Utah,2025,1,544.0
+WA,Washington,VA,Virginia,2025,1,160.0
+WA,Washington,WA,Washington,2025,1,3506.0
+WA,Washington,WI,Wisconsin,2025,1,22.0
+WA,Washington,WY,Wyoming,2025,1,20.0
+WI,Wisconsin,AZ,Arizona,2025,1,192.0
+WI,Wisconsin,CA,California,2025,1,7.0
+WI,Wisconsin,CO,Colorado,2025,1,253.0
+WI,Wisconsin,FL,Florida,2025,1,411.0
+WI,Wisconsin,GA,Georgia,2025,1,319.0
+WI,Wisconsin,IA,Iowa,2025,1,2.0
+WI,Wisconsin,IL,Illinois,2025,1,1364.0
+WI,Wisconsin,IN,Indiana,2025,1,9.0
+WI,Wisconsin,KY,Kentucky,2025,1,64.0
+WI,Wisconsin,LA,Louisiana,2025,1,2.0
+WI,Wisconsin,MA,Massachusetts,2025,1,32.0
+WI,Wisconsin,MD,Maryland,2025,1,45.0
+WI,Wisconsin,MI,Michigan,2025,1,516.0
+WI,Wisconsin,MN,Minnesota,2025,1,538.0
+WI,Wisconsin,MO,Missouri,2025,1,87.0
+WI,Wisconsin,MS,Mississippi,2025,1,1.0
+WI,Wisconsin,NC,North Carolina,2025,1,191.0
+WI,Wisconsin,NE,Nebraska,2025,1,4.0
+WI,Wisconsin,NJ,New Jersey,2025,1,94.0
+WI,Wisconsin,NV,Nevada,2025,1,88.0
+WI,Wisconsin,NY,New York,2025,1,187.0
+WI,Wisconsin,OH,Ohio,2025,1,4.0
+WI,Wisconsin,OK,Oklahoma,2025,1,5.0
+WI,Wisconsin,OR,Oregon,2025,1,1.0
+WI,Wisconsin,PA,Pennsylvania,2025,1,68.0
+WI,Wisconsin,SD,South Dakota,2025,1,1.0
+WI,Wisconsin,TN,Tennessee,2025,1,114.0
+WI,Wisconsin,TX,Texas,2025,1,282.0
+WI,Wisconsin,UT,Utah,2025,1,31.0
+WI,Wisconsin,VA,Virginia,2025,1,171.0
+WI,Wisconsin,WA,Washington,2025,1,20.0
+WI,Wisconsin,WI,Wisconsin,2025,1,143.0
+WV,West Virginia,AZ,Arizona,2025,1,1.0
+WV,West Virginia,FL,Florida,2025,1,35.0
+WV,West Virginia,GA,Georgia,2025,1,86.0
+WV,West Virginia,IL,Illinois,2025,1,85.0
+WV,West Virginia,KY,Kentucky,2025,1,10.0
+WV,West Virginia,MI,Michigan,2025,1,1.0
+WV,West Virginia,MN,Minnesota,2025,1,1.0
+WV,West Virginia,NC,North Carolina,2025,1,266.0
+WV,West Virginia,NJ,New Jersey,2025,1,8.0
+WV,West Virginia,OH,Ohio,2025,1,2.0
+WV,West Virginia,TN,Tennessee,2025,1,10.0
+WV,West Virginia,TX,Texas,2025,1,1.0
+WV,West Virginia,VA,Virginia,2025,1,40.0
+WV,West Virginia,WI,Wisconsin,2025,1,1.0
+WV,West Virginia,WV,West Virginia,2025,1,97.0
+WY,Wyoming,AK,Alaska,2025,1,1.0
+WY,Wyoming,AZ,Arizona,2025,1,1.0
+WY,Wyoming,CA,California,2025,1,135.0
+WY,Wyoming,CO,Colorado,2025,1,765.0
+WY,Wyoming,FL,Florida,2025,1,1.0
+WY,Wyoming,GA,Georgia,2025,1,21.0
+WY,Wyoming,ID,Idaho,2025,1,3.0
+WY,Wyoming,IL,Illinois,2025,1,58.0
+WY,Wyoming,MN,Minnesota,2025,1,12.0
+WY,Wyoming,NE,Nebraska,2025,1,25.0
+WY,Wyoming,NJ,New Jersey,2025,1,59.0
+WY,Wyoming,TN,Tennessee,2025,1,20.0
+WY,Wyoming,TX,Texas,2025,1,71.0
+WY,Wyoming,UT,Utah,2025,1,80.0
+WY,Wyoming,WA,Washington,2025,1,22.0
+WY,Wyoming,WY,Wyoming,2025,1,63.0
+AK,Alaska,AK,Alaska,2025,2,27079.0
+AK,Alaska,AL,Alabama,2025,2,3.0
+AK,Alaska,AZ,Arizona,2025,2,29.0
+AK,Alaska,CA,California,2025,2,162.0
+AK,Alaska,CO,Colorado,2025,2,28.0
+AK,Alaska,FL,Florida,2025,2,144.0
+AK,Alaska,GA,Georgia,2025,2,44.0
+AK,Alaska,HI,Hawaii,2025,2,71.0
+AK,Alaska,IL,Illinois,2025,2,477.0
+AK,Alaska,IN,Indiana,2025,2,35.0
+AK,Alaska,KY,Kentucky,2025,2,224.0
+AK,Alaska,MN,Minnesota,2025,2,14.0
+AK,Alaska,NJ,New Jersey,2025,2,20.0
+AK,Alaska,NV,Nevada,2025,2,5.0
+AK,Alaska,NY,New York,2025,2,181.0
+AK,Alaska,OR,Oregon,2025,2,79.0
+AK,Alaska,SC,South Carolina,2025,2,3.0
+AK,Alaska,TN,Tennessee,2025,2,88.0
+AK,Alaska,TT,U.S. Pacific Trust Territories and Possessions,2025,2,4.0
+AK,Alaska,TX,Texas,2025,2,91.0
+AK,Alaska,WA,Washington,2025,2,869.0
+AL,Alabama,AL,Alabama,2025,2,3.0
+AL,Alabama,AR,Arkansas,2025,2,1.0
+AL,Alabama,AZ,Arizona,2025,2,15.0
+AL,Alabama,CA,California,2025,2,1.0
+AL,Alabama,CO,Colorado,2025,2,140.0
+AL,Alabama,FL,Florida,2025,2,203.0
+AL,Alabama,GA,Georgia,2025,2,769.0
+AL,Alabama,IL,Illinois,2025,2,202.0
+AL,Alabama,KY,Kentucky,2025,2,40.0
+AL,Alabama,LA,Louisiana,2025,2,20.0
+AL,Alabama,MD,Maryland,2025,2,24.0
+AL,Alabama,MI,Michigan,2025,2,49.0
+AL,Alabama,MO,Missouri,2025,2,1.0
+AL,Alabama,NC,North Carolina,2025,2,479.0
+AL,Alabama,NJ,New Jersey,2025,2,1.0
+AL,Alabama,NV,Nevada,2025,2,37.0
+AL,Alabama,NY,New York,2025,2,70.0
+AL,Alabama,OH,Ohio,2025,2,1.0
+AL,Alabama,PA,Pennsylvania,2025,2,25.0
+AL,Alabama,TN,Tennessee,2025,2,106.0
+AL,Alabama,TX,Texas,2025,2,905.0
+AL,Alabama,VA,Virginia,2025,2,312.0
+AL,Alabama,WA,Washington,2025,2,1.0
+AR,Arkansas,AR,Arkansas,2025,2,18.0
+AR,Arkansas,AZ,Arizona,2025,2,61.0
+AR,Arkansas,CA,California,2025,2,28.0
+AR,Arkansas,CO,Colorado,2025,2,192.0
+AR,Arkansas,FL,Florida,2025,2,47.0
+AR,Arkansas,GA,Georgia,2025,2,335.0
+AR,Arkansas,IL,Illinois,2025,2,291.0
+AR,Arkansas,IN,Indiana,2025,2,1.0
+AR,Arkansas,KY,Kentucky,2025,2,20.0
+AR,Arkansas,LA,Louisiana,2025,2,13.0
+AR,Arkansas,MI,Michigan,2025,2,23.0
+AR,Arkansas,MN,Minnesota,2025,2,22.0
+AR,Arkansas,MO,Missouri,2025,2,78.0
+AR,Arkansas,MS,Mississippi,2025,2,1.0
+AR,Arkansas,NC,North Carolina,2025,2,226.0
+AR,Arkansas,NV,Nevada,2025,2,34.0
+AR,Arkansas,NY,New York,2025,2,116.0
+AR,Arkansas,OK,Oklahoma,2025,2,1.0
+AR,Arkansas,OR,Oregon,2025,2,1.0
+AR,Arkansas,PA,Pennsylvania,2025,2,19.0
+AR,Arkansas,TN,Tennessee,2025,2,53.0
+AR,Arkansas,TX,Texas,2025,2,1019.0
+AR,Arkansas,UT,Utah,2025,2,16.0
+AR,Arkansas,VA,Virginia,2025,2,52.0
+AR,Arkansas,WI,Wisconsin,2025,2,1.0
+AZ,Arizona,AK,Alaska,2025,2,29.0
+AZ,Arizona,AL,Alabama,2025,2,15.0
+AZ,Arizona,AR,Arkansas,2025,2,61.0
+AZ,Arizona,AZ,Arizona,2025,2,1762.0
+AZ,Arizona,CA,California,2025,2,4517.0
+AZ,Arizona,CO,Colorado,2025,2,1396.0
+AZ,Arizona,CT,Connecticut,2025,2,13.0
+AZ,Arizona,FL,Florida,2025,2,460.0
+AZ,Arizona,GA,Georgia,2025,2,326.0
+AZ,Arizona,HI,Hawaii,2025,2,212.0
+AZ,Arizona,IA,Iowa,2025,2,199.0
+AZ,Arizona,ID,Idaho,2025,2,214.0
+AZ,Arizona,IL,Illinois,2025,2,816.0
+AZ,Arizona,IN,Indiana,2025,2,161.0
+AZ,Arizona,KS,Kansas,2025,2,66.0
+AZ,Arizona,KY,Kentucky,2025,2,182.0
+AZ,Arizona,LA,Louisiana,2025,2,85.0
+AZ,Arizona,MA,Massachusetts,2025,2,182.0
+AZ,Arizona,MD,Maryland,2025,2,103.0
+AZ,Arizona,MI,Michigan,2025,2,211.0
+AZ,Arizona,MN,Minnesota,2025,2,438.0
+AZ,Arizona,MO,Missouri,2025,2,388.0
+AZ,Arizona,MT,Montana,2025,2,87.0
+AZ,Arizona,NC,North Carolina,2025,2,289.0
+AZ,Arizona,ND,North Dakota,2025,2,132.0
+AZ,Arizona,NE,Nebraska,2025,2,185.0
+AZ,Arizona,NH,New Hampshire,2025,2,1.0
+AZ,Arizona,NJ,New Jersey,2025,2,195.0
+AZ,Arizona,NM,New Mexico,2025,2,401.0
+AZ,Arizona,NV,Nevada,2025,2,986.0
+AZ,Arizona,NY,New York,2025,2,247.0
+AZ,Arizona,OH,Ohio,2025,2,189.0
+AZ,Arizona,OK,Oklahoma,2025,2,240.0
+AZ,Arizona,OR,Oregon,2025,2,540.0
+AZ,Arizona,PA,Pennsylvania,2025,2,221.0
+AZ,Arizona,SC,South Carolina,2025,2,1.0
+AZ,Arizona,SD,South Dakota,2025,2,89.0
+AZ,Arizona,TN,Tennessee,2025,2,298.0
+AZ,Arizona,TX,Texas,2025,2,2215.0
+AZ,Arizona,UT,Utah,2025,2,818.0
+AZ,Arizona,VA,Virginia,2025,2,190.0
+AZ,Arizona,WA,Washington,2025,2,886.0
+AZ,Arizona,WI,Wisconsin,2025,2,205.0
+AZ,Arizona,WY,Wyoming,2025,2,2.0
+CA,California,AK,Alaska,2025,2,109.0
+CA,California,AL,Alabama,2025,2,1.0
+CA,California,AR,Arkansas,2025,2,27.0
+CA,California,AZ,Arizona,2025,2,4455.0
+CA,California,CA,California,2025,2,18189.0
+CA,California,CO,Colorado,2025,2,3709.0
+CA,California,CT,Connecticut,2025,2,20.0
+CA,California,FL,Florida,2025,2,1343.0
+CA,California,GA,Georgia,2025,2,1115.0
+CA,California,HI,Hawaii,2025,2,2052.0
+CA,California,IA,Iowa,2025,2,10.0
+CA,California,ID,Idaho,2025,2,729.0
+CA,California,IL,Illinois,2025,2,1663.0
+CA,California,IN,Indiana,2025,2,217.0
+CA,California,KS,Kansas,2025,2,4.0
+CA,California,KY,Kentucky,2025,2,679.0
+CA,California,LA,Louisiana,2025,2,245.0
+CA,California,MA,Massachusetts,2025,2,671.0
+CA,California,MD,Maryland,2025,2,206.0
+CA,California,ME,Maine,2025,2,1.0
+CA,California,MI,Michigan,2025,2,375.0
+CA,California,MN,Minnesota,2025,2,606.0
+CA,California,MO,Missouri,2025,2,418.0
+CA,California,MS,Mississippi,2025,2,3.0
+CA,California,MT,Montana,2025,2,132.0
+CA,California,NC,North Carolina,2025,2,633.0
+CA,California,NE,Nebraska,2025,2,57.0
+CA,California,NJ,New Jersey,2025,2,822.0
+CA,California,NM,New Mexico,2025,2,368.0
+CA,California,NV,Nevada,2025,2,5554.0
+CA,California,NY,New York,2025,2,1382.0
+CA,California,OH,Ohio,2025,2,136.0
+CA,California,OK,Oklahoma,2025,2,95.0
+CA,California,OR,Oregon,2025,2,2255.0
+CA,California,PA,Pennsylvania,2025,2,401.0
+CA,California,PR,Puerto Rico,2025,2,1.0
+CA,California,SC,South Carolina,2025,2,1.0
+CA,California,SD,South Dakota,2025,2,1.0
+CA,California,TN,Tennessee,2025,2,714.0
+CA,California,TX,Texas,2025,2,5185.0
+CA,California,UT,Utah,2025,2,2171.0
+CA,California,VA,Virginia,2025,2,670.0
+CA,California,VI,U.S. Virgin Islands,2025,2,1.0
+CA,California,WA,Washington,2025,2,3566.0
+CA,California,WI,Wisconsin,2025,2,1.0
+CA,California,WV,West Virginia,2025,2,2.0
+CA,California,WY,Wyoming,2025,2,129.0
+CO,Colorado,AK,Alaska,2025,2,28.0
+CO,Colorado,AL,Alabama,2025,2,140.0
+CO,Colorado,AR,Arkansas,2025,2,191.0
+CO,Colorado,AZ,Arizona,2025,2,1388.0
+CO,Colorado,CA,California,2025,2,3718.0
+CO,Colorado,CO,Colorado,2025,2,3413.0
+CO,Colorado,CT,Connecticut,2025,2,84.0
+CO,Colorado,FL,Florida,2025,2,1389.0
+CO,Colorado,GA,Georgia,2025,2,606.0
+CO,Colorado,HI,Hawaii,2025,2,118.0
+CO,Colorado,IA,Iowa,2025,2,234.0
+CO,Colorado,ID,Idaho,2025,2,390.0
+CO,Colorado,IL,Illinois,2025,2,1005.0
+CO,Colorado,IN,Indiana,2025,2,187.0
+CO,Colorado,KS,Kansas,2025,2,307.0
+CO,Colorado,KY,Kentucky,2025,2,275.0
+CO,Colorado,LA,Louisiana,2025,2,241.0
+CO,Colorado,MA,Massachusetts,2025,2,264.0
+CO,Colorado,MD,Maryland,2025,2,199.0
+CO,Colorado,MI,Michigan,2025,2,284.0
+CO,Colorado,MN,Minnesota,2025,2,421.0
+CO,Colorado,MO,Missouri,2025,2,665.0
+CO,Colorado,MT,Montana,2025,2,613.0
+CO,Colorado,NC,North Carolina,2025,2,377.0
+CO,Colorado,ND,North Dakota,2025,2,462.0
+CO,Colorado,NE,Nebraska,2025,2,596.0
+CO,Colorado,NH,New Hampshire,2025,2,1.0
+CO,Colorado,NJ,New Jersey,2025,2,299.0
+CO,Colorado,NM,New Mexico,2025,2,388.0
+CO,Colorado,NV,Nevada,2025,2,882.0
+CO,Colorado,NY,New York,2025,2,517.0
+CO,Colorado,OH,Ohio,2025,2,277.0
+CO,Colorado,OK,Oklahoma,2025,2,401.0
+CO,Colorado,OR,Oregon,2025,2,447.0
+CO,Colorado,PA,Pennsylvania,2025,2,277.0
+CO,Colorado,PR,Puerto Rico,2025,2,28.0
+CO,Colorado,RI,Rhode Island,2025,2,16.0
+CO,Colorado,SC,South Carolina,2025,2,84.0
+CO,Colorado,SD,South Dakota,2025,2,375.0
+CO,Colorado,TN,Tennessee,2025,2,492.0
+CO,Colorado,TX,Texas,2025,2,3147.0
+CO,Colorado,UT,Utah,2025,2,795.0
+CO,Colorado,VA,Virginia,2025,2,443.0
+CO,Colorado,WA,Washington,2025,2,649.0
+CO,Colorado,WI,Wisconsin,2025,2,227.0
+CO,Colorado,WY,Wyoming,2025,2,679.0
+CT,Connecticut,AZ,Arizona,2025,2,12.0
+CT,Connecticut,CO,Colorado,2025,2,84.0
+CT,Connecticut,CT,Connecticut,2025,2,7.0
+CT,Connecticut,DE,Delaware,2025,2,2.0
+CT,Connecticut,FL,Florida,2025,2,907.0
+CT,Connecticut,GA,Georgia,2025,2,183.0
+CT,Connecticut,IL,Illinois,2025,2,223.0
+CT,Connecticut,IN,Indiana,2025,2,2.0
+CT,Connecticut,KY,Kentucky,2025,2,103.0
+CT,Connecticut,LA,Louisiana,2025,2,7.0
+CT,Connecticut,MA,Massachusetts,2025,2,1.0
+CT,Connecticut,MD,Maryland,2025,2,130.0
+CT,Connecticut,MI,Michigan,2025,2,79.0
+CT,Connecticut,MN,Minnesota,2025,2,50.0
+CT,Connecticut,MS,Mississippi,2025,2,1.0
+CT,Connecticut,NC,North Carolina,2025,2,249.0
+CT,Connecticut,NE,Nebraska,2025,2,1.0
+CT,Connecticut,NH,New Hampshire,2025,2,4.0
+CT,Connecticut,NJ,New Jersey,2025,2,2.0
+CT,Connecticut,NV,Nevada,2025,2,12.0
+CT,Connecticut,NY,New York,2025,2,41.0
+CT,Connecticut,OH,Ohio,2025,2,27.0
+CT,Connecticut,PA,Pennsylvania,2025,2,85.0
+CT,Connecticut,PR,Puerto Rico,2025,2,96.0
+CT,Connecticut,RI,Rhode Island,2025,2,5.0
+CT,Connecticut,SC,South Carolina,2025,2,91.0
+CT,Connecticut,TN,Tennessee,2025,2,53.0
+CT,Connecticut,TX,Texas,2025,2,38.0
+CT,Connecticut,VA,Virginia,2025,2,301.0
+CT,Connecticut,WI,Wisconsin,2025,2,1.0
+DE,Delaware,CT,Connecticut,2025,2,1.0
+DE,Delaware,FL,Florida,2025,2,71.0
+DE,Delaware,GA,Georgia,2025,2,6.0
+DE,Delaware,LA,Louisiana,2025,2,2.0
+DE,Delaware,NC,North Carolina,2025,2,10.0
+DE,Delaware,PR,Puerto Rico,2025,2,8.0
+DE,Delaware,TX,Texas,2025,2,2.0
+DE,Delaware,VA,Virginia,2025,2,1.0
+FL,Florida,AK,Alaska,2025,2,79.0
+FL,Florida,AL,Alabama,2025,2,206.0
+FL,Florida,AR,Arkansas,2025,2,47.0
+FL,Florida,AZ,Arizona,2025,2,449.0
+FL,Florida,CA,California,2025,2,1308.0
+FL,Florida,CO,Colorado,2025,2,1381.0
+FL,Florida,CT,Connecticut,2025,2,910.0
+FL,Florida,DE,Delaware,2025,2,74.0
+FL,Florida,FL,Florida,2025,2,4756.0
+FL,Florida,GA,Georgia,2025,2,4509.0
+FL,Florida,IA,Iowa,2025,2,197.0
+FL,Florida,ID,Idaho,2025,2,13.0
+FL,Florida,IL,Illinois,2025,2,2859.0
+FL,Florida,IN,Indiana,2025,2,908.0
+FL,Florida,KS,Kansas,2025,2,4.0
+FL,Florida,KY,Kentucky,2025,2,1412.0
+FL,Florida,LA,Louisiana,2025,2,612.0
+FL,Florida,MA,Massachusetts,2025,2,2145.0
+FL,Florida,MD,Maryland,2025,2,1489.0
+FL,Florida,ME,Maine,2025,2,167.0
+FL,Florida,MI,Michigan,2025,2,1745.0
+FL,Florida,MN,Minnesota,2025,2,1057.0
+FL,Florida,MO,Missouri,2025,2,956.0
+FL,Florida,MS,Mississippi,2025,2,35.0
+FL,Florida,NC,North Carolina,2025,2,3775.0
+FL,Florida,ND,North Dakota,2025,2,50.0
+FL,Florida,NE,Nebraska,2025,2,103.0
+FL,Florida,NH,New Hampshire,2025,2,192.0
+FL,Florida,NJ,New Jersey,2025,2,2738.0
+FL,Florida,NM,New Mexico,2025,2,3.0
+FL,Florida,NV,Nevada,2025,2,460.0
+FL,Florida,NY,New York,2025,2,6162.0
+FL,Florida,OH,Ohio,2025,2,1363.0
+FL,Florida,OK,Oklahoma,2025,2,39.0
+FL,Florida,OR,Oregon,2025,2,95.0
+FL,Florida,PA,Pennsylvania,2025,2,2536.0
+FL,Florida,PR,Puerto Rico,2025,2,1274.0
+FL,Florida,RI,Rhode Island,2025,2,527.0
+FL,Florida,SC,South Carolina,2025,2,307.0
+FL,Florida,SD,South Dakota,2025,2,51.0
+FL,Florida,TN,Tennessee,2025,2,1735.0
+FL,Florida,TX,Texas,2025,2,4906.0
+FL,Florida,UT,Utah,2025,2,272.0
+FL,Florida,VA,Virginia,2025,2,2630.0
+FL,Florida,VI,U.S. Virgin Islands,2025,2,170.0
+FL,Florida,VT,Vermont,2025,2,52.0
+FL,Florida,WA,Washington,2025,2,409.0
+FL,Florida,WI,Wisconsin,2025,2,432.0
+FL,Florida,WV,West Virginia,2025,2,38.0
+FL,Florida,WY,Wyoming,2025,2,1.0
+GA,Georgia,AK,Alaska,2025,2,24.0
+GA,Georgia,AL,Alabama,2025,2,767.0
+GA,Georgia,AR,Arkansas,2025,2,335.0
+GA,Georgia,AZ,Arizona,2025,2,327.0
+GA,Georgia,CA,California,2025,2,1117.0
+GA,Georgia,CO,Colorado,2025,2,604.0
+GA,Georgia,CT,Connecticut,2025,2,187.0
+GA,Georgia,DE,Delaware,2025,2,7.0
+GA,Georgia,FL,Florida,2025,2,4490.0
+GA,Georgia,GA,Georgia,2025,2,1401.0
+GA,Georgia,HI,Hawaii,2025,2,48.0
+GA,Georgia,IA,Iowa,2025,2,112.0
+GA,Georgia,ID,Idaho,2025,2,28.0
+GA,Georgia,IL,Illinois,2025,2,871.0
+GA,Georgia,IN,Indiana,2025,2,488.0
+GA,Georgia,KS,Kansas,2025,2,78.0
+GA,Georgia,KY,Kentucky,2025,2,734.0
+GA,Georgia,LA,Louisiana,2025,2,920.0
+GA,Georgia,MA,Massachusetts,2025,2,378.0
+GA,Georgia,MD,Maryland,2025,2,563.0
+GA,Georgia,ME,Maine,2025,2,28.0
+GA,Georgia,MI,Michigan,2025,2,473.0
+GA,Georgia,MN,Minnesota,2025,2,291.0
+GA,Georgia,MO,Missouri,2025,2,555.0
+GA,Georgia,MS,Mississippi,2025,2,371.0
+GA,Georgia,MT,Montana,2025,2,36.0
+GA,Georgia,NC,North Carolina,2025,2,1695.0
+GA,Georgia,NE,Nebraska,2025,2,142.0
+GA,Georgia,NJ,New Jersey,2025,2,539.0
+GA,Georgia,NM,New Mexico,2025,2,69.0
+GA,Georgia,NV,Nevada,2025,2,388.0
+GA,Georgia,NY,New York,2025,2,1507.0
+GA,Georgia,OH,Ohio,2025,2,583.0
+GA,Georgia,OK,Oklahoma,2025,2,240.0
+GA,Georgia,OR,Oregon,2025,2,69.0
+GA,Georgia,PA,Pennsylvania,2025,2,879.0
+GA,Georgia,PR,Puerto Rico,2025,2,170.0
+GA,Georgia,RI,Rhode Island,2025,2,85.0
+GA,Georgia,SC,South Carolina,2025,2,736.0
+GA,Georgia,SD,South Dakota,2025,2,28.0
+GA,Georgia,TN,Tennessee,2025,2,1173.0
+GA,Georgia,TX,Texas,2025,2,2060.0
+GA,Georgia,UT,Utah,2025,2,234.0
+GA,Georgia,VA,Virginia,2025,2,1560.0
+GA,Georgia,VI,U.S. Virgin Islands,2025,2,82.0
+GA,Georgia,VT,Vermont,2025,2,28.0
+GA,Georgia,WA,Washington,2025,2,223.0
+GA,Georgia,WI,Wisconsin,2025,2,310.0
+GA,Georgia,WV,West Virginia,2025,2,105.0
+GA,Georgia,WY,Wyoming,2025,2,22.0
+HI,Hawaii,AK,Alaska,2025,2,91.0
+HI,Hawaii,AZ,Arizona,2025,2,213.0
+HI,Hawaii,CA,California,2025,2,1993.0
+HI,Hawaii,CO,Colorado,2025,2,119.0
+HI,Hawaii,FL,Florida,2025,2,1.0
+HI,Hawaii,GA,Georgia,2025,2,48.0
+HI,Hawaii,HI,Hawaii,2025,2,10493.0
+HI,Hawaii,IL,Illinois,2025,2,67.0
+HI,Hawaii,KY,Kentucky,2025,2,6.0
+HI,Hawaii,MA,Massachusetts,2025,2,32.0
+HI,Hawaii,MI,Michigan,2025,2,20.0
+HI,Hawaii,MN,Minnesota,2025,2,28.0
+HI,Hawaii,NJ,New Jersey,2025,2,25.0
+HI,Hawaii,NV,Nevada,2025,2,222.0
+HI,Hawaii,NY,New York,2025,2,50.0
+HI,Hawaii,OR,Oregon,2025,2,159.0
+HI,Hawaii,TN,Tennessee,2025,2,28.0
+HI,Hawaii,TT,U.S. Pacific Trust Territories and Possessions,2025,2,73.0
+HI,Hawaii,TX,Texas,2025,2,121.0
+HI,Hawaii,UT,Utah,2025,2,105.0
+HI,Hawaii,VA,Virginia,2025,2,24.0
+HI,Hawaii,WA,Washington,2025,2,621.0
+IA,Iowa,AZ,Arizona,2025,2,197.0
+IA,Iowa,CA,California,2025,2,9.0
+IA,Iowa,CO,Colorado,2025,2,234.0
+IA,Iowa,FL,Florida,2025,2,198.0
+IA,Iowa,GA,Georgia,2025,2,112.0
+IA,Iowa,IA,Iowa,2025,2,33.0
+IA,Iowa,IL,Illinois,2025,2,644.0
+IA,Iowa,IN,Indiana,2025,2,4.0
+IA,Iowa,KS,Kansas,2025,2,1.0
+IA,Iowa,KY,Kentucky,2025,2,54.0
+IA,Iowa,LA,Louisiana,2025,2,1.0
+IA,Iowa,MD,Maryland,2025,2,1.0
+IA,Iowa,MI,Michigan,2025,2,79.0
+IA,Iowa,MN,Minnesota,2025,2,161.0
+IA,Iowa,MO,Missouri,2025,2,99.0
+IA,Iowa,NC,North Carolina,2025,2,84.0
+IA,Iowa,NE,Nebraska,2025,2,1.0
+IA,Iowa,NJ,New Jersey,2025,2,2.0
+IA,Iowa,NV,Nevada,2025,2,56.0
+IA,Iowa,NY,New York,2025,2,56.0
+IA,Iowa,OH,Ohio,2025,2,2.0
+IA,Iowa,SD,South Dakota,2025,2,1.0
+IA,Iowa,TN,Tennessee,2025,2,40.0
+IA,Iowa,TX,Texas,2025,2,243.0
+IA,Iowa,UT,Utah,2025,2,2.0
+IA,Iowa,VA,Virginia,2025,2,69.0
+IA,Iowa,WI,Wisconsin,2025,2,3.0
+IA,Iowa,WV,West Virginia,2025,2,1.0
+ID,Idaho,AZ,Arizona,2025,2,217.0
+ID,Idaho,CA,California,2025,2,725.0
+ID,Idaho,CO,Colorado,2025,2,389.0
+ID,Idaho,FL,Florida,2025,2,12.0
+ID,Idaho,GA,Georgia,2025,2,28.0
+ID,Idaho,ID,Idaho,2025,2,19.0
+ID,Idaho,IL,Illinois,2025,2,78.0
+ID,Idaho,KY,Kentucky,2025,2,68.0
+ID,Idaho,MN,Minnesota,2025,2,51.0
+ID,Idaho,MT,Montana,2025,2,26.0
+ID,Idaho,NV,Nevada,2025,2,127.0
+ID,Idaho,OR,Oregon,2025,2,150.0
+ID,Idaho,TX,Texas,2025,2,84.0
+ID,Idaho,UT,Utah,2025,2,476.0
+ID,Idaho,WA,Washington,2025,2,649.0
+ID,Idaho,WY,Wyoming,2025,2,20.0
+IL,Illinois,AK,Alaska,2025,2,158.0
+IL,Illinois,AL,Alabama,2025,2,204.0
+IL,Illinois,AR,Arkansas,2025,2,294.0
+IL,Illinois,AZ,Arizona,2025,2,823.0
+IL,Illinois,CA,California,2025,2,1756.0
+IL,Illinois,CO,Colorado,2025,2,986.0
+IL,Illinois,CT,Connecticut,2025,2,240.0
+IL,Illinois,FL,Florida,2025,2,2851.0
+IL,Illinois,GA,Georgia,2025,2,882.0
+IL,Illinois,HI,Hawaii,2025,2,72.0
+IL,Illinois,IA,Iowa,2025,2,655.0
+IL,Illinois,ID,Idaho,2025,2,77.0
+IL,Illinois,IL,Illinois,2025,2,1396.0
+IL,Illinois,IN,Indiana,2025,2,878.0
+IL,Illinois,KS,Kansas,2025,2,197.0
+IL,Illinois,KY,Kentucky,2025,2,884.0
+IL,Illinois,LA,Louisiana,2025,2,209.0
+IL,Illinois,MA,Massachusetts,2025,2,527.0
+IL,Illinois,MD,Maryland,2025,2,311.0
+IL,Illinois,ME,Maine,2025,2,27.0
+IL,Illinois,MI,Michigan,2025,2,1551.0
+IL,Illinois,MN,Minnesota,2025,2,823.0
+IL,Illinois,MO,Missouri,2025,2,1246.0
+IL,Illinois,MS,Mississippi,2025,2,3.0
+IL,Illinois,MT,Montana,2025,2,74.0
+IL,Illinois,NC,North Carolina,2025,2,930.0
+IL,Illinois,ND,North Dakota,2025,2,149.0
+IL,Illinois,NE,Nebraska,2025,2,383.0
+IL,Illinois,NH,New Hampshire,2025,2,52.0
+IL,Illinois,NJ,New Jersey,2025,2,499.0
+IL,Illinois,NM,New Mexico,2025,2,72.0
+IL,Illinois,NV,Nevada,2025,2,628.0
+IL,Illinois,NY,New York,2025,2,1930.0
+IL,Illinois,OH,Ohio,2025,2,1092.0
+IL,Illinois,OK,Oklahoma,2025,2,282.0
+IL,Illinois,OR,Oregon,2025,2,159.0
+IL,Illinois,PA,Pennsylvania,2025,2,1114.0
+IL,Illinois,PR,Puerto Rico,2025,2,103.0
+IL,Illinois,RI,Rhode Island,2025,2,82.0
+IL,Illinois,SC,South Carolina,2025,2,293.0
+IL,Illinois,SD,South Dakota,2025,2,193.0
+IL,Illinois,TN,Tennessee,2025,2,1043.0
+IL,Illinois,TX,Texas,2025,2,2137.0
+IL,Illinois,UT,Utah,2025,2,306.0
+IL,Illinois,VA,Virginia,2025,2,1136.0
+IL,Illinois,VI,U.S. Virgin Islands,2025,2,16.0
+IL,Illinois,VT,Vermont,2025,2,56.0
+IL,Illinois,WA,Washington,2025,2,352.0
+IL,Illinois,WI,Wisconsin,2025,2,1254.0
+IL,Illinois,WV,West Virginia,2025,2,86.0
+IL,Illinois,WY,Wyoming,2025,2,58.0
+IN,Indiana,AK,Alaska,2025,2,35.0
+IN,Indiana,AL,Alabama,2025,2,1.0
+IN,Indiana,AR,Arkansas,2025,2,2.0
+IN,Indiana,AZ,Arizona,2025,2,155.0
+IN,Indiana,CA,California,2025,2,222.0
+IN,Indiana,CO,Colorado,2025,2,184.0
+IN,Indiana,CT,Connecticut,2025,2,17.0
+IN,Indiana,FL,Florida,2025,2,877.0
+IN,Indiana,GA,Georgia,2025,2,495.0
+IN,Indiana,IA,Iowa,2025,2,6.0
+IN,Indiana,IL,Illinois,2025,2,860.0
+IN,Indiana,IN,Indiana,2025,2,77.0
+IN,Indiana,KS,Kansas,2025,2,3.0
+IN,Indiana,KY,Kentucky,2025,2,35.0
+IN,Indiana,LA,Louisiana,2025,2,12.0
+IN,Indiana,MA,Massachusetts,2025,2,174.0
+IN,Indiana,MD,Maryland,2025,2,103.0
+IN,Indiana,MI,Michigan,2025,2,204.0
+IN,Indiana,MN,Minnesota,2025,2,194.0
+IN,Indiana,MO,Missouri,2025,2,61.0
+IN,Indiana,MS,Mississippi,2025,2,2.0
+IN,Indiana,NC,North Carolina,2025,2,412.0
+IN,Indiana,NJ,New Jersey,2025,2,216.0
+IN,Indiana,NV,Nevada,2025,2,113.0
+IN,Indiana,NY,New York,2025,2,430.0
+IN,Indiana,OH,Ohio,2025,2,40.0
+IN,Indiana,OK,Oklahoma,2025,2,3.0
+IN,Indiana,OR,Oregon,2025,2,24.0
+IN,Indiana,PA,Pennsylvania,2025,2,154.0
+IN,Indiana,RI,Rhode Island,2025,2,1.0
+IN,Indiana,SC,South Carolina,2025,2,3.0
+IN,Indiana,TN,Tennessee,2025,2,108.0
+IN,Indiana,TX,Texas,2025,2,636.0
+IN,Indiana,UT,Utah,2025,2,29.0
+IN,Indiana,VA,Virginia,2025,2,292.0
+IN,Indiana,WA,Washington,2025,2,41.0
+IN,Indiana,WI,Wisconsin,2025,2,6.0
+KS,Kansas,AR,Arkansas,2025,2,1.0
+KS,Kansas,AZ,Arizona,2025,2,66.0
+KS,Kansas,CA,California,2025,2,3.0
+KS,Kansas,CO,Colorado,2025,2,308.0
+KS,Kansas,FL,Florida,2025,2,6.0
+KS,Kansas,GA,Georgia,2025,2,78.0
+KS,Kansas,IL,Illinois,2025,2,194.0
+KS,Kansas,IN,Indiana,2025,2,1.0
+KS,Kansas,KS,Kansas,2025,2,39.0
+KS,Kansas,KY,Kentucky,2025,2,5.0
+KS,Kansas,LA,Louisiana,2025,2,3.0
+KS,Kansas,MN,Minnesota,2025,2,27.0
+KS,Kansas,MO,Missouri,2025,2,68.0
+KS,Kansas,NJ,New Jersey,2025,2,1.0
+KS,Kansas,NV,Nevada,2025,2,36.0
+KS,Kansas,OH,Ohio,2025,2,2.0
+KS,Kansas,OK,Oklahoma,2025,2,1.0
+KS,Kansas,SC,South Carolina,2025,2,1.0
+KS,Kansas,TN,Tennessee,2025,2,19.0
+KS,Kansas,TX,Texas,2025,2,429.0
+KS,Kansas,UT,Utah,2025,2,4.0
+KS,Kansas,VA,Virginia,2025,2,17.0
+KS,Kansas,WA,Washington,2025,2,23.0
+KS,Kansas,WI,Wisconsin,2025,2,2.0
+KS,Kansas,WV,West Virginia,2025,2,1.0
+KY,Kentucky,AK,Alaska,2025,2,142.0
+KY,Kentucky,AL,Alabama,2025,2,39.0
+KY,Kentucky,AR,Arkansas,2025,2,21.0
+KY,Kentucky,AZ,Arizona,2025,2,182.0
+KY,Kentucky,CA,California,2025,2,613.0
+KY,Kentucky,CO,Colorado,2025,2,304.0
+KY,Kentucky,CT,Connecticut,2025,2,85.0
+KY,Kentucky,DE,Delaware,2025,2,1.0
+KY,Kentucky,FL,Florida,2025,2,1433.0
+KY,Kentucky,GA,Georgia,2025,2,731.0
+KY,Kentucky,HI,Hawaii,2025,2,68.0
+KY,Kentucky,IA,Iowa,2025,2,47.0
+KY,Kentucky,ID,Idaho,2025,2,48.0
+KY,Kentucky,IL,Illinois,2025,2,893.0
+KY,Kentucky,IN,Indiana,2025,2,25.0
+KY,Kentucky,KS,Kansas,2025,2,23.0
+KY,Kentucky,KY,Kentucky,2025,2,29.0
+KY,Kentucky,LA,Louisiana,2025,2,112.0
+KY,Kentucky,MA,Massachusetts,2025,2,192.0
+KY,Kentucky,MD,Maryland,2025,2,191.0
+KY,Kentucky,MI,Michigan,2025,2,350.0
+KY,Kentucky,MN,Minnesota,2025,2,309.0
+KY,Kentucky,MO,Missouri,2025,2,137.0
+KY,Kentucky,MS,Mississippi,2025,2,29.0
+KY,Kentucky,MT,Montana,2025,2,55.0
+KY,Kentucky,NC,North Carolina,2025,2,654.0
+KY,Kentucky,ND,North Dakota,2025,2,25.0
+KY,Kentucky,NE,Nebraska,2025,2,45.0
+KY,Kentucky,NH,New Hampshire,2025,2,94.0
+KY,Kentucky,NJ,New Jersey,2025,2,370.0
+KY,Kentucky,NM,New Mexico,2025,2,44.0
+KY,Kentucky,NV,Nevada,2025,2,161.0
+KY,Kentucky,NY,New York,2025,2,742.0
+KY,Kentucky,OH,Ohio,2025,2,62.0
+KY,Kentucky,OK,Oklahoma,2025,2,80.0
+KY,Kentucky,OR,Oregon,2025,2,120.0
+KY,Kentucky,PA,Pennsylvania,2025,2,379.0
+KY,Kentucky,PR,Puerto Rico,2025,2,134.0
+KY,Kentucky,RI,Rhode Island,2025,2,18.0
+KY,Kentucky,SC,South Carolina,2025,2,55.0
+KY,Kentucky,SD,South Dakota,2025,2,32.0
+KY,Kentucky,TN,Tennessee,2025,2,169.0
+KY,Kentucky,TX,Texas,2025,2,1094.0
+KY,Kentucky,UT,Utah,2025,2,107.0
+KY,Kentucky,VA,Virginia,2025,2,518.0
+KY,Kentucky,WA,Washington,2025,2,208.0
+KY,Kentucky,WI,Wisconsin,2025,2,62.0
+KY,Kentucky,WV,West Virginia,2025,2,2.0
+LA,Louisiana,AL,Alabama,2025,2,12.0
+LA,Louisiana,AR,Arkansas,2025,2,23.0
+LA,Louisiana,AZ,Arizona,2025,2,88.0
+LA,Louisiana,CA,California,2025,2,251.0
+LA,Louisiana,CO,Colorado,2025,2,244.0
+LA,Louisiana,CT,Connecticut,2025,2,9.0
+LA,Louisiana,DE,Delaware,2025,2,2.0
+LA,Louisiana,FL,Florida,2025,2,613.0
+LA,Louisiana,GA,Georgia,2025,2,913.0
+LA,Louisiana,IA,Iowa,2025,2,1.0
+LA,Louisiana,IL,Illinois,2025,2,207.0
+LA,Louisiana,IN,Indiana,2025,2,9.0
+LA,Louisiana,KS,Kansas,2025,2,2.0
+LA,Louisiana,KY,Kentucky,2025,2,104.0
+LA,Louisiana,LA,Louisiana,2025,2,9.0
+LA,Louisiana,MA,Massachusetts,2025,2,97.0
+LA,Louisiana,MD,Maryland,2025,2,102.0
+LA,Louisiana,MI,Michigan,2025,2,91.0
+LA,Louisiana,MN,Minnesota,2025,2,36.0
+LA,Louisiana,MO,Missouri,2025,2,138.0
+LA,Louisiana,MS,Mississippi,2025,2,6.0
+LA,Louisiana,NC,North Carolina,2025,2,347.0
+LA,Louisiana,NE,Nebraska,2025,2,2.0
+LA,Louisiana,NJ,New Jersey,2025,2,140.0
+LA,Louisiana,NM,New Mexico,2025,2,2.0
+LA,Louisiana,NV,Nevada,2025,2,94.0
+LA,Louisiana,NY,New York,2025,2,227.0
+LA,Louisiana,OH,Ohio,2025,2,10.0
+LA,Louisiana,OK,Oklahoma,2025,2,5.0
+LA,Louisiana,OR,Oregon,2025,2,27.0
+LA,Louisiana,PA,Pennsylvania,2025,2,118.0
+LA,Louisiana,PR,Puerto Rico,2025,2,9.0
+LA,Louisiana,SC,South Carolina,2025,2,23.0
+LA,Louisiana,TN,Tennessee,2025,2,198.0
+LA,Louisiana,TX,Texas,2025,2,2270.0
+LA,Louisiana,UT,Utah,2025,2,43.0
+LA,Louisiana,VA,Virginia,2025,2,252.0
+LA,Louisiana,WA,Washington,2025,2,45.0
+MA,Massachusetts,AZ,Arizona,2025,2,183.0
+MA,Massachusetts,CA,California,2025,2,655.0
+MA,Massachusetts,CO,Colorado,2025,2,267.0
+MA,Massachusetts,CT,Connecticut,2025,2,2.0
+MA,Massachusetts,FL,Florida,2025,2,2149.0
+MA,Massachusetts,GA,Georgia,2025,2,374.0
+MA,Massachusetts,HI,Hawaii,2025,2,31.0
+MA,Massachusetts,IL,Illinois,2025,2,529.0
+MA,Massachusetts,IN,Indiana,2025,2,161.0
+MA,Massachusetts,KY,Kentucky,2025,2,179.0
+MA,Massachusetts,LA,Louisiana,2025,2,98.0
+MA,Massachusetts,MA,Massachusetts,2025,2,1116.0
+MA,Massachusetts,MD,Maryland,2025,2,314.0
+MA,Massachusetts,ME,Maine,2025,2,223.0
+MA,Massachusetts,MI,Michigan,2025,2,186.0
+MA,Massachusetts,MN,Minnesota,2025,2,125.0
+MA,Massachusetts,MO,Missouri,2025,2,115.0
+MA,Massachusetts,MT,Montana,2025,2,16.0
+MA,Massachusetts,NC,North Carolina,2025,2,524.0
+MA,Massachusetts,NH,New Hampshire,2025,2,90.0
+MA,Massachusetts,NJ,New Jersey,2025,2,342.0
+MA,Massachusetts,NV,Nevada,2025,2,138.0
+MA,Massachusetts,NY,New York,2025,2,1256.0
+MA,Massachusetts,OH,Ohio,2025,2,234.0
+MA,Massachusetts,OR,Oregon,2025,2,16.0
+MA,Massachusetts,PA,Pennsylvania,2025,2,548.0
+MA,Massachusetts,PR,Puerto Rico,2025,2,185.0
+MA,Massachusetts,RI,Rhode Island,2025,2,37.0
+MA,Massachusetts,SC,South Carolina,2025,2,116.0
+MA,Massachusetts,TN,Tennessee,2025,2,215.0
+MA,Massachusetts,TX,Texas,2025,2,488.0
+MA,Massachusetts,UT,Utah,2025,2,95.0
+MA,Massachusetts,VA,Virginia,2025,2,925.0
+MA,Massachusetts,VI,U.S. Virgin Islands,2025,2,14.0
+MA,Massachusetts,VT,Vermont,2025,2,68.0
+MA,Massachusetts,WA,Washington,2025,2,139.0
+MA,Massachusetts,WI,Wisconsin,2025,2,27.0
+MD,Maryland,AL,Alabama,2025,2,24.0
+MD,Maryland,AZ,Arizona,2025,2,100.0
+MD,Maryland,CA,California,2025,2,176.0
+MD,Maryland,CO,Colorado,2025,2,204.0
+MD,Maryland,CT,Connecticut,2025,2,132.0
+MD,Maryland,FL,Florida,2025,2,1522.0
+MD,Maryland,GA,Georgia,2025,2,555.0
+MD,Maryland,IA,Iowa,2025,2,1.0
+MD,Maryland,IL,Illinois,2025,2,328.0
+MD,Maryland,IN,Indiana,2025,2,102.0
+MD,Maryland,KY,Kentucky,2025,2,189.0
+MD,Maryland,LA,Louisiana,2025,2,101.0
+MD,Maryland,MA,Massachusetts,2025,2,316.0
+MD,Maryland,MD,Maryland,2025,2,1.0
+MD,Maryland,ME,Maine,2025,2,88.0
+MD,Maryland,MI,Michigan,2025,2,174.0
+MD,Maryland,MN,Minnesota,2025,2,78.0
+MD,Maryland,MO,Missouri,2025,2,126.0
+MD,Maryland,MS,Mississippi,2025,2,25.0
+MD,Maryland,NC,North Carolina,2025,2,424.0
+MD,Maryland,NH,New Hampshire,2025,2,100.0
+MD,Maryland,NJ,New Jersey,2025,2,12.0
+MD,Maryland,NM,New Mexico,2025,2,28.0
+MD,Maryland,NV,Nevada,2025,2,166.0
+MD,Maryland,NY,New York,2025,2,407.0
+MD,Maryland,OH,Ohio,2025,2,127.0
+MD,Maryland,OK,Oklahoma,2025,2,1.0
+MD,Maryland,OR,Oregon,2025,2,1.0
+MD,Maryland,PA,Pennsylvania,2025,2,159.0
+MD,Maryland,PR,Puerto Rico,2025,2,89.0
+MD,Maryland,RI,Rhode Island,2025,2,116.0
+MD,Maryland,SC,South Carolina,2025,2,189.0
+MD,Maryland,TN,Tennessee,2025,2,188.0
+MD,Maryland,TX,Texas,2025,2,548.0
+MD,Maryland,UT,Utah,2025,2,75.0
+MD,Maryland,VA,Virginia,2025,2,177.0
+MD,Maryland,WA,Washington,2025,2,23.0
+MD,Maryland,WI,Wisconsin,2025,2,43.0
+ME,Maine,CT,Connecticut,2025,2,5.0
+ME,Maine,FL,Florida,2025,2,168.0
+ME,Maine,GA,Georgia,2025,2,29.0
+ME,Maine,IL,Illinois,2025,2,31.0
+ME,Maine,KY,Kentucky,2025,2,5.0
+ME,Maine,MA,Massachusetts,2025,2,228.0
+ME,Maine,MD,Maryland,2025,2,89.0
+ME,Maine,ME,Maine,2025,2,72.0
+ME,Maine,MI,Michigan,2025,2,27.0
+ME,Maine,MN,Minnesota,2025,2,1.0
+ME,Maine,NC,North Carolina,2025,2,36.0
+ME,Maine,NJ,New Jersey,2025,2,118.0
+ME,Maine,NY,New York,2025,2,207.0
+ME,Maine,PA,Pennsylvania,2025,2,139.0
+ME,Maine,SC,South Carolina,2025,2,11.0
+ME,Maine,TN,Tennessee,2025,2,18.0
+ME,Maine,VA,Virginia,2025,2,207.0
+ME,Maine,VT,Vermont,2025,2,1.0
+MI,Michigan,AL,Alabama,2025,2,48.0
+MI,Michigan,AR,Arkansas,2025,2,22.0
+MI,Michigan,AZ,Arizona,2025,2,210.0
+MI,Michigan,CA,California,2025,2,372.0
+MI,Michigan,CO,Colorado,2025,2,283.0
+MI,Michigan,CT,Connecticut,2025,2,79.0
+MI,Michigan,FL,Florida,2025,2,1740.0
+MI,Michigan,GA,Georgia,2025,2,476.0
+MI,Michigan,HI,Hawaii,2025,2,20.0
+MI,Michigan,IA,Iowa,2025,2,79.0
+MI,Michigan,IL,Illinois,2025,2,1491.0
+MI,Michigan,IN,Indiana,2025,2,202.0
+MI,Michigan,KS,Kansas,2025,2,1.0
+MI,Michigan,KY,Kentucky,2025,2,348.0
+MI,Michigan,LA,Louisiana,2025,2,92.0
+MI,Michigan,MA,Massachusetts,2025,2,186.0
+MI,Michigan,MD,Maryland,2025,2,175.0
+MI,Michigan,ME,Maine,2025,2,28.0
+MI,Michigan,MI,Michigan,2025,2,1495.0
+MI,Michigan,MN,Minnesota,2025,2,413.0
+MI,Michigan,MO,Missouri,2025,2,212.0
+MI,Michigan,MS,Mississippi,2025,2,8.0
+MI,Michigan,NC,North Carolina,2025,2,519.0
+MI,Michigan,NE,Nebraska,2025,2,78.0
+MI,Michigan,NH,New Hampshire,2025,2,2.0
+MI,Michigan,NJ,New Jersey,2025,2,290.0
+MI,Michigan,NV,Nevada,2025,2,280.0
+MI,Michigan,NY,New York,2025,2,901.0
+MI,Michigan,OH,Ohio,2025,2,220.0
+MI,Michigan,OK,Oklahoma,2025,2,1.0
+MI,Michigan,PA,Pennsylvania,2025,2,375.0
+MI,Michigan,PR,Puerto Rico,2025,2,32.0
+MI,Michigan,RI,Rhode Island,2025,2,56.0
+MI,Michigan,SC,South Carolina,2025,2,111.0
+MI,Michigan,TN,Tennessee,2025,2,428.0
+MI,Michigan,TX,Texas,2025,2,780.0
+MI,Michigan,UT,Utah,2025,2,110.0
+MI,Michigan,VA,Virginia,2025,2,515.0
+MI,Michigan,VT,Vermont,2025,2,55.0
+MI,Michigan,WA,Washington,2025,2,107.0
+MI,Michigan,WI,Wisconsin,2025,2,446.0
+MN,Minnesota,AK,Alaska,2025,2,14.0
+MN,Minnesota,AR,Arkansas,2025,2,22.0
+MN,Minnesota,AZ,Arizona,2025,2,438.0
+MN,Minnesota,CA,California,2025,2,613.0
+MN,Minnesota,CO,Colorado,2025,2,417.0
+MN,Minnesota,CT,Connecticut,2025,2,50.0
+MN,Minnesota,FL,Florida,2025,2,1060.0
+MN,Minnesota,GA,Georgia,2025,2,290.0
+MN,Minnesota,HI,Hawaii,2025,2,28.0
+MN,Minnesota,IA,Iowa,2025,2,161.0
+MN,Minnesota,ID,Idaho,2025,2,51.0
+MN,Minnesota,IL,Illinois,2025,2,817.0
+MN,Minnesota,IN,Indiana,2025,2,194.0
+MN,Minnesota,KS,Kansas,2025,2,27.0
+MN,Minnesota,KY,Kentucky,2025,2,290.0
+MN,Minnesota,LA,Louisiana,2025,2,34.0
+MN,Minnesota,MA,Massachusetts,2025,2,120.0
+MN,Minnesota,MD,Maryland,2025,2,79.0
+MN,Minnesota,MI,Michigan,2025,2,410.0
+MN,Minnesota,MN,Minnesota,2025,2,942.0
+MN,Minnesota,MO,Missouri,2025,2,253.0
+MN,Minnesota,MS,Mississippi,2025,2,1.0
+MN,Minnesota,MT,Montana,2025,2,163.0
+MN,Minnesota,NC,North Carolina,2025,2,266.0
+MN,Minnesota,ND,North Dakota,2025,2,526.0
+MN,Minnesota,NE,Nebraska,2025,2,109.0
+MN,Minnesota,NJ,New Jersey,2025,2,162.0
+MN,Minnesota,NV,Nevada,2025,2,238.0
+MN,Minnesota,NY,New York,2025,2,260.0
+MN,Minnesota,OH,Ohio,2025,2,159.0
+MN,Minnesota,OK,Oklahoma,2025,2,30.0
+MN,Minnesota,OR,Oregon,2025,2,73.0
+MN,Minnesota,PA,Pennsylvania,2025,2,213.0
+MN,Minnesota,PR,Puerto Rico,2025,2,61.0
+MN,Minnesota,SC,South Carolina,2025,2,29.0
+MN,Minnesota,SD,South Dakota,2025,2,273.0
+MN,Minnesota,TN,Tennessee,2025,2,281.0
+MN,Minnesota,TX,Texas,2025,2,622.0
+MN,Minnesota,UT,Utah,2025,2,116.0
+MN,Minnesota,VA,Virginia,2025,2,318.0
+MN,Minnesota,VI,U.S. Virgin Islands,2025,2,6.0
+MN,Minnesota,WA,Washington,2025,2,250.0
+MN,Minnesota,WI,Wisconsin,2025,2,496.0
+MN,Minnesota,WV,West Virginia,2025,2,1.0
+MN,Minnesota,WY,Wyoming,2025,2,8.0
+MO,Missouri,AR,Arkansas,2025,2,76.0
+MO,Missouri,AZ,Arizona,2025,2,390.0
+MO,Missouri,CA,California,2025,2,433.0
+MO,Missouri,CO,Colorado,2025,2,656.0
+MO,Missouri,FL,Florida,2025,2,955.0
+MO,Missouri,GA,Georgia,2025,2,558.0
+MO,Missouri,IA,Iowa,2025,2,99.0
+MO,Missouri,ID,Idaho,2025,2,1.0
+MO,Missouri,IL,Illinois,2025,2,1243.0
+MO,Missouri,IN,Indiana,2025,2,59.0
+MO,Missouri,KS,Kansas,2025,2,52.0
+MO,Missouri,KY,Kentucky,2025,2,148.0
+MO,Missouri,LA,Louisiana,2025,2,141.0
+MO,Missouri,MA,Massachusetts,2025,2,119.0
+MO,Missouri,MD,Maryland,2025,2,126.0
+MO,Missouri,MI,Michigan,2025,2,212.0
+MO,Missouri,MN,Minnesota,2025,2,252.0
+MO,Missouri,MO,Missouri,2025,2,157.0
+MO,Missouri,MS,Mississippi,2025,2,7.0
+MO,Missouri,NC,North Carolina,2025,2,377.0
+MO,Missouri,NE,Nebraska,2025,2,76.0
+MO,Missouri,NJ,New Jersey,2025,2,82.0
+MO,Missouri,NM,New Mexico,2025,2,24.0
+MO,Missouri,NV,Nevada,2025,2,308.0
+MO,Missouri,NY,New York,2025,2,421.0
+MO,Missouri,OH,Ohio,2025,2,102.0
+MO,Missouri,OK,Oklahoma,2025,2,103.0
+MO,Missouri,OR,Oregon,2025,2,6.0
+MO,Missouri,PA,Pennsylvania,2025,2,129.0
+MO,Missouri,PR,Puerto Rico,2025,2,4.0
+MO,Missouri,TN,Tennessee,2025,2,231.0
+MO,Missouri,TX,Texas,2025,2,1645.0
+MO,Missouri,UT,Utah,2025,2,130.0
+MO,Missouri,VA,Virginia,2025,2,381.0
+MO,Missouri,WA,Washington,2025,2,103.0
+MO,Missouri,WI,Wisconsin,2025,2,80.0
+MO,Missouri,WV,West Virginia,2025,2,1.0
+MS,Mississippi,AL,Alabama,2025,2,1.0
+MS,Mississippi,AR,Arkansas,2025,2,1.0
+MS,Mississippi,CA,California,2025,2,3.0
+MS,Mississippi,FL,Florida,2025,2,34.0
+MS,Mississippi,GA,Georgia,2025,2,371.0
+MS,Mississippi,IL,Illinois,2025,2,4.0
+MS,Mississippi,IN,Indiana,2025,2,3.0
+MS,Mississippi,KY,Kentucky,2025,2,21.0
+MS,Mississippi,LA,Louisiana,2025,2,7.0
+MS,Mississippi,MD,Maryland,2025,2,25.0
+MS,Mississippi,MI,Michigan,2025,2,7.0
+MS,Mississippi,MN,Minnesota,2025,2,1.0
+MS,Mississippi,MO,Missouri,2025,2,7.0
+MS,Mississippi,MS,Mississippi,2025,2,3.0
+MS,Mississippi,NC,North Carolina,2025,2,172.0
+MS,Mississippi,NV,Nevada,2025,2,9.0
+MS,Mississippi,OH,Ohio,2025,2,7.0
+MS,Mississippi,OK,Oklahoma,2025,2,1.0
+MS,Mississippi,PA,Pennsylvania,2025,2,3.0
+MS,Mississippi,SC,South Carolina,2025,2,6.0
+MS,Mississippi,TN,Tennessee,2025,2,40.0
+MS,Mississippi,TX,Texas,2025,2,594.0
+MS,Mississippi,VA,Virginia,2025,2,23.0
+MS,Mississippi,WI,Wisconsin,2025,2,4.0
+MT,Montana,AZ,Arizona,2025,2,89.0
+MT,Montana,CA,California,2025,2,115.0
+MT,Montana,CO,Colorado,2025,2,610.0
+MT,Montana,GA,Georgia,2025,2,36.0
+MT,Montana,ID,Idaho,2025,2,20.0
+MT,Montana,IL,Illinois,2025,2,75.0
+MT,Montana,KY,Kentucky,2025,2,39.0
+MT,Montana,MA,Massachusetts,2025,2,15.0
+MT,Montana,MN,Minnesota,2025,2,163.0
+MT,Montana,MT,Montana,2025,2,885.0
+MT,Montana,ND,North Dakota,2025,2,2.0
+MT,Montana,NJ,New Jersey,2025,2,32.0
+MT,Montana,NV,Nevada,2025,2,79.0
+MT,Montana,NY,New York,2025,2,17.0
+MT,Montana,OR,Oregon,2025,2,85.0
+MT,Montana,TN,Tennessee,2025,2,38.0
+MT,Montana,TX,Texas,2025,2,140.0
+MT,Montana,UT,Utah,2025,2,502.0
+MT,Montana,VA,Virginia,2025,2,5.0
+MT,Montana,WA,Washington,2025,2,362.0
+MT,Montana,WY,Wyoming,2025,2,1.0
+NC,North Carolina,AL,Alabama,2025,2,475.0
+NC,North Carolina,AR,Arkansas,2025,2,226.0
+NC,North Carolina,AZ,Arizona,2025,2,288.0
+NC,North Carolina,CA,California,2025,2,617.0
+NC,North Carolina,CO,Colorado,2025,2,385.0
+NC,North Carolina,CT,Connecticut,2025,2,248.0
+NC,North Carolina,DE,Delaware,2025,2,8.0
+NC,North Carolina,FL,Florida,2025,2,3753.0
+NC,North Carolina,GA,Georgia,2025,2,1713.0
+NC,North Carolina,IA,Iowa,2025,2,84.0
+NC,North Carolina,IL,Illinois,2025,2,933.0
+NC,North Carolina,IN,Indiana,2025,2,427.0
+NC,North Carolina,KS,Kansas,2025,2,2.0
+NC,North Carolina,KY,Kentucky,2025,2,607.0
+NC,North Carolina,LA,Louisiana,2025,2,351.0
+NC,North Carolina,MA,Massachusetts,2025,2,520.0
+NC,North Carolina,MD,Maryland,2025,2,432.0
+NC,North Carolina,ME,Maine,2025,2,37.0
+NC,North Carolina,MI,Michigan,2025,2,523.0
+NC,North Carolina,MN,Minnesota,2025,2,267.0
+NC,North Carolina,MO,Missouri,2025,2,373.0
+NC,North Carolina,MS,Mississippi,2025,2,176.0
+NC,North Carolina,NC,North Carolina,2025,2,2794.0
+NC,North Carolina,NE,Nebraska,2025,2,73.0
+NC,North Carolina,NH,New Hampshire,2025,2,67.0
+NC,North Carolina,NJ,New Jersey,2025,2,653.0
+NC,North Carolina,NV,Nevada,2025,2,242.0
+NC,North Carolina,NY,New York,2025,2,2060.0
+NC,North Carolina,OH,Ohio,2025,2,531.0
+NC,North Carolina,OK,Oklahoma,2025,2,120.0
+NC,North Carolina,OR,Oregon,2025,2,16.0
+NC,North Carolina,PA,Pennsylvania,2025,2,1279.0
+NC,North Carolina,PR,Puerto Rico,2025,2,138.0
+NC,North Carolina,RI,Rhode Island,2025,2,120.0
+NC,North Carolina,SC,South Carolina,2025,2,1014.0
+NC,North Carolina,TN,Tennessee,2025,2,1187.0
+NC,North Carolina,TX,Texas,2025,2,1354.0
+NC,North Carolina,UT,Utah,2025,2,94.0
+NC,North Carolina,VA,Virginia,2025,2,2027.0
+NC,North Carolina,VI,U.S. Virgin Islands,2025,2,79.0
+NC,North Carolina,VT,Vermont,2025,2,35.0
+NC,North Carolina,WA,Washington,2025,2,126.0
+NC,North Carolina,WI,Wisconsin,2025,2,184.0
+NC,North Carolina,WV,West Virginia,2025,2,269.0
+ND,North Dakota,AZ,Arizona,2025,2,132.0
+ND,North Dakota,CA,California,2025,2,1.0
+ND,North Dakota,CO,Colorado,2025,2,463.0
+ND,North Dakota,FL,Florida,2025,2,50.0
+ND,North Dakota,IL,Illinois,2025,2,150.0
+ND,North Dakota,KY,Kentucky,2025,2,22.0
+ND,North Dakota,MI,Michigan,2025,2,1.0
+ND,North Dakota,MN,Minnesota,2025,2,535.0
+ND,North Dakota,ND,North Dakota,2025,2,211.0
+ND,North Dakota,NE,Nebraska,2025,2,1.0
+ND,North Dakota,NV,Nevada,2025,2,45.0
+ND,North Dakota,OK,Oklahoma,2025,2,1.0
+ND,North Dakota,SD,South Dakota,2025,2,1.0
+ND,North Dakota,TN,Tennessee,2025,2,26.0
+ND,North Dakota,TX,Texas,2025,2,144.0
+ND,North Dakota,WY,Wyoming,2025,2,1.0
+NE,Nebraska,AZ,Arizona,2025,2,183.0
+NE,Nebraska,CA,California,2025,2,56.0
+NE,Nebraska,CO,Colorado,2025,2,599.0
+NE,Nebraska,CT,Connecticut,2025,2,1.0
+NE,Nebraska,FL,Florida,2025,2,103.0
+NE,Nebraska,GA,Georgia,2025,2,141.0
+NE,Nebraska,IA,Iowa,2025,2,1.0
+NE,Nebraska,ID,Idaho,2025,2,1.0
+NE,Nebraska,IL,Illinois,2025,2,365.0
+NE,Nebraska,IN,Indiana,2025,2,1.0
+NE,Nebraska,KS,Kansas,2025,2,1.0
+NE,Nebraska,KY,Kentucky,2025,2,48.0
+NE,Nebraska,LA,Louisiana,2025,2,2.0
+NE,Nebraska,MA,Massachusetts,2025,2,1.0
+NE,Nebraska,MI,Michigan,2025,2,79.0
+NE,Nebraska,MN,Minnesota,2025,2,107.0
+NE,Nebraska,MO,Missouri,2025,2,78.0
+NE,Nebraska,MT,Montana,2025,2,1.0
+NE,Nebraska,NC,North Carolina,2025,2,73.0
+NE,Nebraska,NE,Nebraska,2025,2,165.0
+NE,Nebraska,NJ,New Jersey,2025,2,1.0
+NE,Nebraska,NV,Nevada,2025,2,97.0
+NE,Nebraska,NY,New York,2025,2,79.0
+NE,Nebraska,OH,Ohio,2025,2,1.0
+NE,Nebraska,OK,Oklahoma,2025,2,1.0
+NE,Nebraska,OR,Oregon,2025,2,2.0
+NE,Nebraska,RI,Rhode Island,2025,2,1.0
+NE,Nebraska,TN,Tennessee,2025,2,47.0
+NE,Nebraska,TX,Texas,2025,2,282.0
+NE,Nebraska,UT,Utah,2025,2,50.0
+NE,Nebraska,VA,Virginia,2025,2,48.0
+NE,Nebraska,WA,Washington,2025,2,24.0
+NE,Nebraska,WI,Wisconsin,2025,2,1.0
+NE,Nebraska,WY,Wyoming,2025,2,19.0
+NH,New Hampshire,FL,Florida,2025,2,193.0
+NH,New Hampshire,IL,Illinois,2025,2,42.0
+NH,New Hampshire,KY,Kentucky,2025,2,66.0
+NH,New Hampshire,MA,Massachusetts,2025,2,91.0
+NH,New Hampshire,MD,Maryland,2025,2,100.0
+NH,New Hampshire,ME,Maine,2025,2,16.0
+NH,New Hampshire,MI,Michigan,2025,2,2.0
+NH,New Hampshire,NC,North Carolina,2025,2,65.0
+NH,New Hampshire,NH,New Hampshire,2025,2,3.0
+NH,New Hampshire,NJ,New Jersey,2025,2,58.0
+NH,New Hampshire,NY,New York,2025,2,47.0
+NH,New Hampshire,PA,Pennsylvania,2025,2,88.0
+NH,New Hampshire,SC,South Carolina,2025,2,8.0
+NH,New Hampshire,TN,Tennessee,2025,2,15.0
+NH,New Hampshire,TX,Texas,2025,2,27.0
+NH,New Hampshire,VA,Virginia,2025,2,85.0
+NJ,New Jersey,AK,Alaska,2025,2,20.0
+NJ,New Jersey,AL,Alabama,2025,2,1.0
+NJ,New Jersey,AZ,Arizona,2025,2,195.0
+NJ,New Jersey,CA,California,2025,2,824.0
+NJ,New Jersey,CO,Colorado,2025,2,301.0
+NJ,New Jersey,CT,Connecticut,2025,2,1.0
+NJ,New Jersey,FL,Florida,2025,2,2758.0
+NJ,New Jersey,GA,Georgia,2025,2,544.0
+NJ,New Jersey,HI,Hawaii,2025,2,25.0
+NJ,New Jersey,IA,Iowa,2025,2,2.0
+NJ,New Jersey,ID,Idaho,2025,2,1.0
+NJ,New Jersey,IL,Illinois,2025,2,550.0
+NJ,New Jersey,IN,Indiana,2025,2,221.0
+NJ,New Jersey,KS,Kansas,2025,2,1.0
+NJ,New Jersey,KY,Kentucky,2025,2,378.0
+NJ,New Jersey,LA,Louisiana,2025,2,138.0
+NJ,New Jersey,MA,Massachusetts,2025,2,341.0
+NJ,New Jersey,MD,Maryland,2025,2,29.0
+NJ,New Jersey,ME,Maine,2025,2,118.0
+NJ,New Jersey,MI,Michigan,2025,2,290.0
+NJ,New Jersey,MN,Minnesota,2025,2,163.0
+NJ,New Jersey,MO,Missouri,2025,2,83.0
+NJ,New Jersey,MS,Mississippi,2025,2,1.0
+NJ,New Jersey,MT,Montana,2025,2,32.0
+NJ,New Jersey,NC,North Carolina,2025,2,645.0
+NJ,New Jersey,NE,Nebraska,2025,2,1.0
+NJ,New Jersey,NH,New Hampshire,2025,2,55.0
+NJ,New Jersey,NJ,New Jersey,2025,2,1.0
+NJ,New Jersey,NV,Nevada,2025,2,272.0
+NJ,New Jersey,NY,New York,2025,2,342.0
+NJ,New Jersey,OH,Ohio,2025,2,317.0
+NJ,New Jersey,OR,Oregon,2025,2,43.0
+NJ,New Jersey,PA,Pennsylvania,2025,2,206.0
+NJ,New Jersey,PR,Puerto Rico,2025,2,220.0
+NJ,New Jersey,RI,Rhode Island,2025,2,53.0
+NJ,New Jersey,SC,South Carolina,2025,2,222.0
+NJ,New Jersey,TN,Tennessee,2025,2,246.0
+NJ,New Jersey,TX,Texas,2025,2,753.0
+NJ,New Jersey,UT,Utah,2025,2,129.0
+NJ,New Jersey,VA,Virginia,2025,2,628.0
+NJ,New Jersey,VI,U.S. Virgin Islands,2025,2,28.0
+NJ,New Jersey,VT,Vermont,2025,2,70.0
+NJ,New Jersey,WA,Washington,2025,2,104.0
+NJ,New Jersey,WI,Wisconsin,2025,2,82.0
+NJ,New Jersey,WV,West Virginia,2025,2,8.0
+NJ,New Jersey,WY,Wyoming,2025,2,52.0
+NM,New Mexico,AZ,Arizona,2025,2,405.0
+NM,New Mexico,CA,California,2025,2,368.0
+NM,New Mexico,CO,Colorado,2025,2,404.0
+NM,New Mexico,FL,Florida,2025,2,3.0
+NM,New Mexico,GA,Georgia,2025,2,70.0
+NM,New Mexico,IL,Illinois,2025,2,72.0
+NM,New Mexico,KY,Kentucky,2025,2,33.0
+NM,New Mexico,MD,Maryland,2025,2,28.0
+NM,New Mexico,MO,Missouri,2025,2,24.0
+NM,New Mexico,NM,New Mexico,2025,2,404.0
+NM,New Mexico,NV,Nevada,2025,2,155.0
+NM,New Mexico,OR,Oregon,2025,2,15.0
+NM,New Mexico,TN,Tennessee,2025,2,16.0
+NM,New Mexico,TX,Texas,2025,2,824.0
+NM,New Mexico,UT,Utah,2025,2,78.0
+NM,New Mexico,WA,Washington,2025,2,29.0
+NV,Nevada,AK,Alaska,2025,2,5.0
+NV,Nevada,AL,Alabama,2025,2,36.0
+NV,Nevada,AR,Arkansas,2025,2,34.0
+NV,Nevada,AZ,Arizona,2025,2,1043.0
+NV,Nevada,CA,California,2025,2,5575.0
+NV,Nevada,CO,Colorado,2025,2,877.0
+NV,Nevada,CT,Connecticut,2025,2,12.0
+NV,Nevada,FL,Florida,2025,2,459.0
+NV,Nevada,GA,Georgia,2025,2,388.0
+NV,Nevada,HI,Hawaii,2025,2,217.0
+NV,Nevada,IA,Iowa,2025,2,55.0
+NV,Nevada,ID,Idaho,2025,2,141.0
+NV,Nevada,IL,Illinois,2025,2,616.0
+NV,Nevada,IN,Indiana,2025,2,122.0
+NV,Nevada,KS,Kansas,2025,2,36.0
+NV,Nevada,KY,Kentucky,2025,2,187.0
+NV,Nevada,LA,Louisiana,2025,2,97.0
+NV,Nevada,MA,Massachusetts,2025,2,139.0
+NV,Nevada,MD,Maryland,2025,2,167.0
+NV,Nevada,MI,Michigan,2025,2,277.0
+NV,Nevada,MN,Minnesota,2025,2,235.0
+NV,Nevada,MO,Missouri,2025,2,305.0
+NV,Nevada,MS,Mississippi,2025,2,9.0
+NV,Nevada,MT,Montana,2025,2,76.0
+NV,Nevada,NC,North Carolina,2025,2,244.0
+NV,Nevada,ND,North Dakota,2025,2,44.0
+NV,Nevada,NE,Nebraska,2025,2,90.0
+NV,Nevada,NJ,New Jersey,2025,2,270.0
+NV,Nevada,NM,New Mexico,2025,2,153.0
+NV,Nevada,NV,Nevada,2025,2,596.0
+NV,Nevada,NY,New York,2025,2,410.0
+NV,Nevada,OH,Ohio,2025,2,183.0
+NV,Nevada,OK,Oklahoma,2025,2,133.0
+NV,Nevada,OR,Oregon,2025,2,358.0
+NV,Nevada,PA,Pennsylvania,2025,2,163.0
+NV,Nevada,SD,South Dakota,2025,2,22.0
+NV,Nevada,TN,Tennessee,2025,2,258.0
+NV,Nevada,TX,Texas,2025,2,1906.0
+NV,Nevada,UT,Utah,2025,2,487.0
+NV,Nevada,VA,Virginia,2025,2,156.0
+NV,Nevada,WA,Washington,2025,2,662.0
+NV,Nevada,WI,Wisconsin,2025,2,88.0
+NY,New York,AK,Alaska,2025,2,94.0
+NY,New York,AL,Alabama,2025,2,73.0
+NY,New York,AR,Arkansas,2025,2,116.0
+NY,New York,AZ,Arizona,2025,2,248.0
+NY,New York,CA,California,2025,2,1386.0
+NY,New York,CO,Colorado,2025,2,522.0
+NY,New York,CT,Connecticut,2025,2,21.0
+NY,New York,FL,Florida,2025,2,6152.0
+NY,New York,GA,Georgia,2025,2,1499.0
+NY,New York,HI,Hawaii,2025,2,53.0
+NY,New York,IA,Iowa,2025,2,56.0
+NY,New York,IL,Illinois,2025,2,1955.0
+NY,New York,IN,Indiana,2025,2,421.0
+NY,New York,KY,Kentucky,2025,2,777.0
+NY,New York,LA,Louisiana,2025,2,229.0
+NY,New York,MA,Massachusetts,2025,2,1256.0
+NY,New York,MD,Maryland,2025,2,396.0
+NY,New York,ME,Maine,2025,2,208.0
+NY,New York,MI,Michigan,2025,2,901.0
+NY,New York,MN,Minnesota,2025,2,260.0
+NY,New York,MO,Missouri,2025,2,426.0
+NY,New York,MT,Montana,2025,2,16.0
+NY,New York,NC,North Carolina,2025,2,2059.0
+NY,New York,NE,Nebraska,2025,2,80.0
+NY,New York,NH,New Hampshire,2025,2,49.0
+NY,New York,NJ,New Jersey,2025,2,336.0
+NY,New York,NV,Nevada,2025,2,410.0
+NY,New York,NY,New York,2025,2,1866.0
+NY,New York,OH,Ohio,2025,2,803.0
+NY,New York,OK,Oklahoma,2025,2,112.0
+NY,New York,OR,Oregon,2025,2,55.0
+NY,New York,PA,Pennsylvania,2025,2,845.0
+NY,New York,PR,Puerto Rico,2025,2,398.0
+NY,New York,RI,Rhode Island,2025,2,2.0
+NY,New York,SC,South Carolina,2025,2,565.0
+NY,New York,TN,Tennessee,2025,2,909.0
+NY,New York,TX,Texas,2025,2,1395.0
+NY,New York,UT,Utah,2025,2,176.0
+NY,New York,VA,Virginia,2025,2,2038.0
+NY,New York,VI,U.S. Virgin Islands,2025,2,55.0
+NY,New York,VT,Vermont,2025,2,125.0
+NY,New York,WA,Washington,2025,2,166.0
+NY,New York,WI,Wisconsin,2025,2,180.0
+OH,Ohio,AK,Alaska,2025,2,1.0
+OH,Ohio,AL,Alabama,2025,2,4.0
+OH,Ohio,AR,Arkansas,2025,2,2.0
+OH,Ohio,AZ,Arizona,2025,2,160.0
+OH,Ohio,CA,California,2025,2,163.0
+OH,Ohio,CO,Colorado,2025,2,277.0
+OH,Ohio,CT,Connecticut,2025,2,27.0
+OH,Ohio,FL,Florida,2025,2,1359.0
+OH,Ohio,GA,Georgia,2025,2,604.0
+OH,Ohio,IA,Iowa,2025,2,3.0
+OH,Ohio,IL,Illinois,2025,2,1076.0
+OH,Ohio,IN,Indiana,2025,2,37.0
+OH,Ohio,KS,Kansas,2025,2,2.0
+OH,Ohio,KY,Kentucky,2025,2,66.0
+OH,Ohio,LA,Louisiana,2025,2,11.0
+OH,Ohio,MA,Massachusetts,2025,2,241.0
+OH,Ohio,MD,Maryland,2025,2,131.0
+OH,Ohio,MI,Michigan,2025,2,220.0
+OH,Ohio,MN,Minnesota,2025,2,162.0
+OH,Ohio,MO,Missouri,2025,2,104.0
+OH,Ohio,MS,Mississippi,2025,2,8.0
+OH,Ohio,NC,North Carolina,2025,2,529.0
+OH,Ohio,NJ,New Jersey,2025,2,313.0
+OH,Ohio,NV,Nevada,2025,2,184.0
+OH,Ohio,NY,New York,2025,2,799.0
+OH,Ohio,OH,Ohio,2025,2,7.0
+OH,Ohio,OK,Oklahoma,2025,2,2.0
+OH,Ohio,PA,Pennsylvania,2025,2,335.0
+OH,Ohio,PR,Puerto Rico,2025,2,17.0
+OH,Ohio,RI,Rhode Island,2025,2,2.0
+OH,Ohio,SC,South Carolina,2025,2,24.0
+OH,Ohio,TN,Tennessee,2025,2,187.0
+OH,Ohio,TX,Texas,2025,2,618.0
+OH,Ohio,UT,Utah,2025,2,56.0
+OH,Ohio,VA,Virginia,2025,2,630.0
+OH,Ohio,WA,Washington,2025,2,34.0
+OH,Ohio,WI,Wisconsin,2025,2,2.0
+OH,Ohio,WV,West Virginia,2025,2,1.0
+OK,Oklahoma,AZ,Arizona,2025,2,240.0
+OK,Oklahoma,CA,California,2025,2,95.0
+OK,Oklahoma,CO,Colorado,2025,2,403.0
+OK,Oklahoma,FL,Florida,2025,2,39.0
+OK,Oklahoma,GA,Georgia,2025,2,238.0
+OK,Oklahoma,IL,Illinois,2025,2,284.0
+OK,Oklahoma,IN,Indiana,2025,2,1.0
+OK,Oklahoma,KS,Kansas,2025,2,14.0
+OK,Oklahoma,KY,Kentucky,2025,2,75.0
+OK,Oklahoma,LA,Louisiana,2025,2,5.0
+OK,Oklahoma,MI,Michigan,2025,2,1.0
+OK,Oklahoma,MN,Minnesota,2025,2,30.0
+OK,Oklahoma,MO,Missouri,2025,2,105.0
+OK,Oklahoma,MS,Mississippi,2025,2,1.0
+OK,Oklahoma,NC,North Carolina,2025,2,120.0
+OK,Oklahoma,NJ,New Jersey,2025,2,1.0
+OK,Oklahoma,NV,Nevada,2025,2,134.0
+OK,Oklahoma,NY,New York,2025,2,117.0
+OK,Oklahoma,OK,Oklahoma,2025,2,38.0
+OK,Oklahoma,PA,Pennsylvania,2025,2,2.0
+OK,Oklahoma,TN,Tennessee,2025,2,57.0
+OK,Oklahoma,TX,Texas,2025,2,1170.0
+OK,Oklahoma,UT,Utah,2025,2,98.0
+OK,Oklahoma,VA,Virginia,2025,2,63.0
+OK,Oklahoma,WA,Washington,2025,2,19.0
+OK,Oklahoma,WI,Wisconsin,2025,2,2.0
+OR,Oregon,AK,Alaska,2025,2,91.0
+OR,Oregon,AZ,Arizona,2025,2,539.0
+OR,Oregon,CA,California,2025,2,2253.0
+OR,Oregon,CO,Colorado,2025,2,446.0
+OR,Oregon,FL,Florida,2025,2,98.0
+OR,Oregon,GA,Georgia,2025,2,70.0
+OR,Oregon,HI,Hawaii,2025,2,158.0
+OR,Oregon,ID,Idaho,2025,2,148.0
+OR,Oregon,IL,Illinois,2025,2,144.0
+OR,Oregon,IN,Indiana,2025,2,16.0
+OR,Oregon,KY,Kentucky,2025,2,65.0
+OR,Oregon,LA,Louisiana,2025,2,27.0
+OR,Oregon,MA,Massachusetts,2025,2,17.0
+OR,Oregon,MN,Minnesota,2025,2,72.0
+OR,Oregon,MO,Missouri,2025,2,6.0
+OR,Oregon,MT,Montana,2025,2,86.0
+OR,Oregon,NC,North Carolina,2025,2,16.0
+OR,Oregon,NJ,New Jersey,2025,2,44.0
+OR,Oregon,NM,New Mexico,2025,2,15.0
+OR,Oregon,NV,Nevada,2025,2,387.0
+OR,Oregon,NY,New York,2025,2,56.0
+OR,Oregon,OK,Oklahoma,2025,2,1.0
+OR,Oregon,OR,Oregon,2025,2,937.0
+OR,Oregon,TN,Tennessee,2025,2,47.0
+OR,Oregon,TX,Texas,2025,2,280.0
+OR,Oregon,UT,Utah,2025,2,344.0
+OR,Oregon,VA,Virginia,2025,2,28.0
+OR,Oregon,WA,Washington,2025,2,1249.0
+PA,Pennsylvania,AL,Alabama,2025,2,27.0
+PA,Pennsylvania,AR,Arkansas,2025,2,18.0
+PA,Pennsylvania,AZ,Arizona,2025,2,219.0
+PA,Pennsylvania,CA,California,2025,2,375.0
+PA,Pennsylvania,CO,Colorado,2025,2,275.0
+PA,Pennsylvania,CT,Connecticut,2025,2,85.0
+PA,Pennsylvania,FL,Florida,2025,2,2535.0
+PA,Pennsylvania,GA,Georgia,2025,2,878.0
+PA,Pennsylvania,IL,Illinois,2025,2,1100.0
+PA,Pennsylvania,IN,Indiana,2025,2,176.0
+PA,Pennsylvania,KY,Kentucky,2025,2,467.0
+PA,Pennsylvania,LA,Louisiana,2025,2,129.0
+PA,Pennsylvania,MA,Massachusetts,2025,2,527.0
+PA,Pennsylvania,MD,Maryland,2025,2,139.0
+PA,Pennsylvania,ME,Maine,2025,2,140.0
+PA,Pennsylvania,MI,Michigan,2025,2,381.0
+PA,Pennsylvania,MN,Minnesota,2025,2,198.0
+PA,Pennsylvania,MO,Missouri,2025,2,130.0
+PA,Pennsylvania,MS,Mississippi,2025,2,2.0
+PA,Pennsylvania,NC,North Carolina,2025,2,1275.0
+PA,Pennsylvania,NE,Nebraska,2025,2,1.0
+PA,Pennsylvania,NH,New Hampshire,2025,2,89.0
+PA,Pennsylvania,NJ,New Jersey,2025,2,212.0
+PA,Pennsylvania,NV,Nevada,2025,2,152.0
+PA,Pennsylvania,NY,New York,2025,2,884.0
+PA,Pennsylvania,OH,Ohio,2025,2,265.0
+PA,Pennsylvania,OK,Oklahoma,2025,2,1.0
+PA,Pennsylvania,PA,Pennsylvania,2025,2,1025.0
+PA,Pennsylvania,PR,Puerto Rico,2025,2,148.0
+PA,Pennsylvania,RI,Rhode Island,2025,2,89.0
+PA,Pennsylvania,SC,South Carolina,2025,2,311.0
+PA,Pennsylvania,TN,Tennessee,2025,2,494.0
+PA,Pennsylvania,TX,Texas,2025,2,728.0
+PA,Pennsylvania,UT,Utah,2025,2,69.0
+PA,Pennsylvania,VA,Virginia,2025,2,985.0
+PA,Pennsylvania,VI,U.S. Virgin Islands,2025,2,27.0
+PA,Pennsylvania,VT,Vermont,2025,2,59.0
+PA,Pennsylvania,WA,Washington,2025,2,60.0
+PA,Pennsylvania,WI,Wisconsin,2025,2,51.0
+PA,Pennsylvania,WV,West Virginia,2025,2,1.0
+PR,Puerto Rico,CO,Colorado,2025,2,28.0
+PR,Puerto Rico,CT,Connecticut,2025,2,97.0
+PR,Puerto Rico,DE,Delaware,2025,2,8.0
+PR,Puerto Rico,FL,Florida,2025,2,1157.0
+PR,Puerto Rico,GA,Georgia,2025,2,157.0
+PR,Puerto Rico,IL,Illinois,2025,2,103.0
+PR,Puerto Rico,IN,Indiana,2025,2,1.0
+PR,Puerto Rico,KY,Kentucky,2025,2,79.0
+PR,Puerto Rico,LA,Louisiana,2025,2,9.0
+PR,Puerto Rico,MA,Massachusetts,2025,2,188.0
+PR,Puerto Rico,MD,Maryland,2025,2,89.0
+PR,Puerto Rico,MI,Michigan,2025,2,32.0
+PR,Puerto Rico,MN,Minnesota,2025,2,67.0
+PR,Puerto Rico,MO,Missouri,2025,2,4.0
+PR,Puerto Rico,NC,North Carolina,2025,2,137.0
+PR,Puerto Rico,NJ,New Jersey,2025,2,238.0
+PR,Puerto Rico,NY,New York,2025,2,395.0
+PR,Puerto Rico,OH,Ohio,2025,2,17.0
+PR,Puerto Rico,PA,Pennsylvania,2025,2,148.0
+PR,Puerto Rico,PR,Puerto Rico,2025,2,2902.0
+PR,Puerto Rico,RI,Rhode Island,2025,2,27.0
+PR,Puerto Rico,TN,Tennessee,2025,2,67.0
+PR,Puerto Rico,TX,Texas,2025,2,156.0
+PR,Puerto Rico,VA,Virginia,2025,2,81.0
+PR,Puerto Rico,VI,U.S. Virgin Islands,2025,2,662.0
+RI,Rhode Island,CO,Colorado,2025,2,17.0
+RI,Rhode Island,CT,Connecticut,2025,2,4.0
+RI,Rhode Island,FL,Florida,2025,2,525.0
+RI,Rhode Island,GA,Georgia,2025,2,86.0
+RI,Rhode Island,IL,Illinois,2025,2,79.0
+RI,Rhode Island,IN,Indiana,2025,2,11.0
+RI,Rhode Island,KY,Kentucky,2025,2,14.0
+RI,Rhode Island,MA,Massachusetts,2025,2,38.0
+RI,Rhode Island,MD,Maryland,2025,2,116.0
+RI,Rhode Island,MI,Michigan,2025,2,56.0
+RI,Rhode Island,NC,North Carolina,2025,2,118.0
+RI,Rhode Island,NE,Nebraska,2025,2,1.0
+RI,Rhode Island,NJ,New Jersey,2025,2,55.0
+RI,Rhode Island,NY,New York,2025,2,7.0
+RI,Rhode Island,OH,Ohio,2025,2,3.0
+RI,Rhode Island,PA,Pennsylvania,2025,2,93.0
+RI,Rhode Island,PR,Puerto Rico,2025,2,28.0
+RI,Rhode Island,RI,Rhode Island,2025,2,562.0
+RI,Rhode Island,SC,South Carolina,2025,2,49.0
+RI,Rhode Island,TN,Tennessee,2025,2,2.0
+RI,Rhode Island,VA,Virginia,2025,2,261.0
+RI,Rhode Island,WI,Wisconsin,2025,2,3.0
+SC,South Carolina,AK,Alaska,2025,2,4.0
+SC,South Carolina,AL,Alabama,2025,2,1.0
+SC,South Carolina,AZ,Arizona,2025,2,1.0
+SC,South Carolina,CA,California,2025,2,2.0
+SC,South Carolina,CO,Colorado,2025,2,84.0
+SC,South Carolina,CT,Connecticut,2025,2,87.0
+SC,South Carolina,FL,Florida,2025,2,311.0
+SC,South Carolina,GA,Georgia,2025,2,744.0
+SC,South Carolina,IL,Illinois,2025,2,291.0
+SC,South Carolina,IN,Indiana,2025,2,2.0
+SC,South Carolina,KS,Kansas,2025,2,3.0
+SC,South Carolina,KY,Kentucky,2025,2,62.0
+SC,South Carolina,LA,Louisiana,2025,2,27.0
+SC,South Carolina,MA,Massachusetts,2025,2,115.0
+SC,South Carolina,MD,Maryland,2025,2,192.0
+SC,South Carolina,ME,Maine,2025,2,11.0
+SC,South Carolina,MI,Michigan,2025,2,106.0
+SC,South Carolina,MN,Minnesota,2025,2,29.0
+SC,South Carolina,MS,Mississippi,2025,2,5.0
+SC,South Carolina,NC,North Carolina,2025,2,1006.0
+SC,South Carolina,NH,New Hampshire,2025,2,8.0
+SC,South Carolina,NJ,New Jersey,2025,2,222.0
+SC,South Carolina,NY,New York,2025,2,568.0
+SC,South Carolina,OH,Ohio,2025,2,21.0
+SC,South Carolina,OK,Oklahoma,2025,2,1.0
+SC,South Carolina,PA,Pennsylvania,2025,2,293.0
+SC,South Carolina,RI,Rhode Island,2025,2,50.0
+SC,South Carolina,SC,South Carolina,2025,2,46.0
+SC,South Carolina,TN,Tennessee,2025,2,154.0
+SC,South Carolina,TX,Texas,2025,2,379.0
+SC,South Carolina,VA,Virginia,2025,2,501.0
+SC,South Carolina,WA,Washington,2025,2,24.0
+SD,South Dakota,AZ,Arizona,2025,2,91.0
+SD,South Dakota,CA,California,2025,2,1.0
+SD,South Dakota,CO,Colorado,2025,2,372.0
+SD,South Dakota,FL,Florida,2025,2,51.0
+SD,South Dakota,GA,Georgia,2025,2,28.0
+SD,South Dakota,ID,Idaho,2025,2,1.0
+SD,South Dakota,IL,Illinois,2025,2,195.0
+SD,South Dakota,KY,Kentucky,2025,2,20.0
+SD,South Dakota,MN,Minnesota,2025,2,272.0
+SD,South Dakota,ND,North Dakota,2025,2,16.0
+SD,South Dakota,NV,Nevada,2025,2,22.0
+SD,South Dakota,SD,South Dakota,2025,2,156.0
+SD,South Dakota,TN,Tennessee,2025,2,26.0
+SD,South Dakota,TX,Texas,2025,2,136.0
+TN,Tennessee,AK,Alaska,2025,2,88.0
+TN,Tennessee,AL,Alabama,2025,2,104.0
+TN,Tennessee,AR,Arkansas,2025,2,52.0
+TN,Tennessee,AZ,Arizona,2025,2,308.0
+TN,Tennessee,CA,California,2025,2,621.0
+TN,Tennessee,CO,Colorado,2025,2,478.0
+TN,Tennessee,CT,Connecticut,2025,2,55.0
+TN,Tennessee,FL,Florida,2025,2,1784.0
+TN,Tennessee,GA,Georgia,2025,2,1192.0
+TN,Tennessee,HI,Hawaii,2025,2,52.0
+TN,Tennessee,IA,Iowa,2025,2,41.0
+TN,Tennessee,ID,Idaho,2025,2,14.0
+TN,Tennessee,IL,Illinois,2025,2,1043.0
+TN,Tennessee,IN,Indiana,2025,2,89.0
+TN,Tennessee,KS,Kansas,2025,2,19.0
+TN,Tennessee,KY,Kentucky,2025,2,186.0
+TN,Tennessee,LA,Louisiana,2025,2,208.0
+TN,Tennessee,MA,Massachusetts,2025,2,211.0
+TN,Tennessee,MD,Maryland,2025,2,185.0
+TN,Tennessee,ME,Maine,2025,2,18.0
+TN,Tennessee,MI,Michigan,2025,2,438.0
+TN,Tennessee,MN,Minnesota,2025,2,276.0
+TN,Tennessee,MO,Missouri,2025,2,239.0
+TN,Tennessee,MS,Mississippi,2025,2,38.0
+TN,Tennessee,MT,Montana,2025,2,39.0
+TN,Tennessee,NC,North Carolina,2025,2,1212.0
+TN,Tennessee,ND,North Dakota,2025,2,22.0
+TN,Tennessee,NE,Nebraska,2025,2,53.0
+TN,Tennessee,NH,New Hampshire,2025,2,19.0
+TN,Tennessee,NJ,New Jersey,2025,2,242.0
+TN,Tennessee,NM,New Mexico,2025,2,15.0
+TN,Tennessee,NV,Nevada,2025,2,244.0
+TN,Tennessee,NY,New York,2025,2,909.0
+TN,Tennessee,OH,Ohio,2025,2,183.0
+TN,Tennessee,OK,Oklahoma,2025,2,69.0
+TN,Tennessee,OR,Oregon,2025,2,67.0
+TN,Tennessee,PA,Pennsylvania,2025,2,489.0
+TN,Tennessee,PR,Puerto Rico,2025,2,88.0
+TN,Tennessee,RI,Rhode Island,2025,2,14.0
+TN,Tennessee,SC,South Carolina,2025,2,185.0
+TN,Tennessee,SD,South Dakota,2025,2,26.0
+TN,Tennessee,TN,Tennessee,2025,2,139.0
+TN,Tennessee,TX,Texas,2025,2,1946.0
+TN,Tennessee,UT,Utah,2025,2,138.0
+TN,Tennessee,VA,Virginia,2025,2,762.0
+TN,Tennessee,WA,Washington,2025,2,146.0
+TN,Tennessee,WI,Wisconsin,2025,2,101.0
+TN,Tennessee,WV,West Virginia,2025,2,19.0
+TN,Tennessee,WY,Wyoming,2025,2,18.0
+TT,U.S. Pacific Trust Territories and Possessions,CA,California,2025,2,2.0
+TT,U.S. Pacific Trust Territories and Possessions,HI,Hawaii,2025,2,54.0
+TT,U.S. Pacific Trust Territories and Possessions,TT,U.S. Pacific Trust Territories and Possessions,2025,2,1977.0
+TX,Texas,AK,Alaska,2025,2,59.0
+TX,Texas,AL,Alabama,2025,2,905.0
+TX,Texas,AR,Arkansas,2025,2,1002.0
+TX,Texas,AZ,Arizona,2025,2,2272.0
+TX,Texas,CA,California,2025,2,5172.0
+TX,Texas,CO,Colorado,2025,2,3150.0
+TX,Texas,CT,Connecticut,2025,2,39.0
+TX,Texas,DE,Delaware,2025,2,1.0
+TX,Texas,FL,Florida,2025,2,4870.0
+TX,Texas,GA,Georgia,2025,2,2007.0
+TX,Texas,HI,Hawaii,2025,2,125.0
+TX,Texas,IA,Iowa,2025,2,244.0
+TX,Texas,ID,Idaho,2025,2,85.0
+TX,Texas,IL,Illinois,2025,2,2070.0
+TX,Texas,IN,Indiana,2025,2,644.0
+TX,Texas,KS,Kansas,2025,2,428.0
+TX,Texas,KY,Kentucky,2025,2,1084.0
+TX,Texas,LA,Louisiana,2025,2,2241.0
+TX,Texas,MA,Massachusetts,2025,2,492.0
+TX,Texas,MD,Maryland,2025,2,570.0
+TX,Texas,MI,Michigan,2025,2,765.0
+TX,Texas,MN,Minnesota,2025,2,621.0
+TX,Texas,MO,Missouri,2025,2,1648.0
+TX,Texas,MS,Mississippi,2025,2,592.0
+TX,Texas,MT,Montana,2025,2,139.0
+TX,Texas,NC,North Carolina,2025,2,1333.0
+TX,Texas,ND,North Dakota,2025,2,145.0
+TX,Texas,NE,Nebraska,2025,2,269.0
+TX,Texas,NH,New Hampshire,2025,2,1.0
+TX,Texas,NJ,New Jersey,2025,2,759.0
+TX,Texas,NM,New Mexico,2025,2,822.0
+TX,Texas,NV,Nevada,2025,2,1901.0
+TX,Texas,NY,New York,2025,2,1396.0
+TX,Texas,OH,Ohio,2025,2,622.0
+TX,Texas,OK,Oklahoma,2025,2,1173.0
+TX,Texas,OR,Oregon,2025,2,281.0
+TX,Texas,PA,Pennsylvania,2025,2,772.0
+TX,Texas,PR,Puerto Rico,2025,2,157.0
+TX,Texas,RI,Rhode Island,2025,2,1.0
+TX,Texas,SC,South Carolina,2025,2,370.0
+TX,Texas,SD,South Dakota,2025,2,137.0
+TX,Texas,TN,Tennessee,2025,2,1950.0
+TX,Texas,TX,Texas,2025,2,16169.0
+TX,Texas,UT,Utah,2025,2,935.0
+TX,Texas,VA,Virginia,2025,2,1284.0
+TX,Texas,VI,U.S. Virgin Islands,2025,2,8.0
+TX,Texas,WA,Washington,2025,2,739.0
+TX,Texas,WI,Wisconsin,2025,2,259.0
+TX,Texas,WV,West Virginia,2025,2,1.0
+TX,Texas,WY,Wyoming,2025,2,61.0
+UT,Utah,AR,Arkansas,2025,2,15.0
+UT,Utah,AZ,Arizona,2025,2,821.0
+UT,Utah,CA,California,2025,2,2174.0
+UT,Utah,CO,Colorado,2025,2,791.0
+UT,Utah,CT,Connecticut,2025,2,1.0
+UT,Utah,FL,Florida,2025,2,271.0
+UT,Utah,GA,Georgia,2025,2,231.0
+UT,Utah,HI,Hawaii,2025,2,104.0
+UT,Utah,ID,Idaho,2025,2,493.0
+UT,Utah,IL,Illinois,2025,2,312.0
+UT,Utah,IN,Indiana,2025,2,29.0
+UT,Utah,KS,Kansas,2025,2,4.0
+UT,Utah,KY,Kentucky,2025,2,108.0
+UT,Utah,LA,Louisiana,2025,2,43.0
+UT,Utah,MA,Massachusetts,2025,2,96.0
+UT,Utah,MD,Maryland,2025,2,75.0
+UT,Utah,MI,Michigan,2025,2,113.0
+UT,Utah,MN,Minnesota,2025,2,118.0
+UT,Utah,MO,Missouri,2025,2,132.0
+UT,Utah,MT,Montana,2025,2,475.0
+UT,Utah,NC,North Carolina,2025,2,94.0
+UT,Utah,NE,Nebraska,2025,2,50.0
+UT,Utah,NJ,New Jersey,2025,2,128.0
+UT,Utah,NM,New Mexico,2025,2,80.0
+UT,Utah,NV,Nevada,2025,2,499.0
+UT,Utah,NY,New York,2025,2,177.0
+UT,Utah,OH,Ohio,2025,2,58.0
+UT,Utah,OK,Oklahoma,2025,2,96.0
+UT,Utah,OR,Oregon,2025,2,343.0
+UT,Utah,PA,Pennsylvania,2025,2,71.0
+UT,Utah,TN,Tennessee,2025,2,137.0
+UT,Utah,TX,Texas,2025,2,921.0
+UT,Utah,UT,Utah,2025,2,352.0
+UT,Utah,VA,Virginia,2025,2,97.0
+UT,Utah,WA,Washington,2025,2,489.0
+UT,Utah,WI,Wisconsin,2025,2,31.0
+UT,Utah,WY,Wyoming,2025,2,80.0
+VA,Virginia,AL,Alabama,2025,2,315.0
+VA,Virginia,AR,Arkansas,2025,2,51.0
+VA,Virginia,AZ,Arizona,2025,2,191.0
+VA,Virginia,CA,California,2025,2,668.0
+VA,Virginia,CO,Colorado,2025,2,440.0
+VA,Virginia,CT,Connecticut,2025,2,303.0
+VA,Virginia,FL,Florida,2025,2,2620.0
+VA,Virginia,GA,Georgia,2025,2,1552.0
+VA,Virginia,HI,Hawaii,2025,2,24.0
+VA,Virginia,IA,Iowa,2025,2,68.0
+VA,Virginia,IL,Illinois,2025,2,1141.0
+VA,Virginia,IN,Indiana,2025,2,301.0
+VA,Virginia,KS,Kansas,2025,2,21.0
+VA,Virginia,KY,Kentucky,2025,2,506.0
+VA,Virginia,LA,Louisiana,2025,2,261.0
+VA,Virginia,MA,Massachusetts,2025,2,921.0
+VA,Virginia,MD,Maryland,2025,2,174.0
+VA,Virginia,ME,Maine,2025,2,212.0
+VA,Virginia,MI,Michigan,2025,2,511.0
+VA,Virginia,MN,Minnesota,2025,2,319.0
+VA,Virginia,MO,Missouri,2025,2,381.0
+VA,Virginia,MS,Mississippi,2025,2,20.0
+VA,Virginia,MT,Montana,2025,2,4.0
+VA,Virginia,NC,North Carolina,2025,2,2008.0
+VA,Virginia,NE,Nebraska,2025,2,48.0
+VA,Virginia,NH,New Hampshire,2025,2,86.0
+VA,Virginia,NJ,New Jersey,2025,2,600.0
+VA,Virginia,NV,Nevada,2025,2,158.0
+VA,Virginia,NY,New York,2025,2,2061.0
+VA,Virginia,OH,Ohio,2025,2,643.0
+VA,Virginia,OK,Oklahoma,2025,2,70.0
+VA,Virginia,OR,Oregon,2025,2,28.0
+VA,Virginia,PA,Pennsylvania,2025,2,966.0
+VA,Virginia,PR,Puerto Rico,2025,2,81.0
+VA,Virginia,RI,Rhode Island,2025,2,263.0
+VA,Virginia,SC,South Carolina,2025,2,495.0
+VA,Virginia,TN,Tennessee,2025,2,757.0
+VA,Virginia,TX,Texas,2025,2,1274.0
+VA,Virginia,UT,Utah,2025,2,97.0
+VA,Virginia,VA,Virginia,2025,2,977.0
+VA,Virginia,VI,U.S. Virgin Islands,2025,2,28.0
+VA,Virginia,VT,Vermont,2025,2,175.0
+VA,Virginia,WA,Washington,2025,2,145.0
+VA,Virginia,WI,Wisconsin,2025,2,164.0
+VA,Virginia,WV,West Virginia,2025,2,47.0
+VI,U.S. Virgin Islands,CA,California,2025,2,1.0
+VI,U.S. Virgin Islands,FL,Florida,2025,2,175.0
+VI,U.S. Virgin Islands,GA,Georgia,2025,2,83.0
+VI,U.S. Virgin Islands,IL,Illinois,2025,2,16.0
+VI,U.S. Virgin Islands,MA,Massachusetts,2025,2,13.0
+VI,U.S. Virgin Islands,MD,Maryland,2025,2,1.0
+VI,U.S. Virgin Islands,NC,North Carolina,2025,2,77.0
+VI,U.S. Virgin Islands,NJ,New Jersey,2025,2,28.0
+VI,U.S. Virgin Islands,NY,New York,2025,2,58.0
+VI,U.S. Virgin Islands,PA,Pennsylvania,2025,2,27.0
+VI,U.S. Virgin Islands,PR,Puerto Rico,2025,2,623.0
+VI,U.S. Virgin Islands,TX,Texas,2025,2,8.0
+VI,U.S. Virgin Islands,VA,Virginia,2025,2,28.0
+VI,U.S. Virgin Islands,VI,U.S. Virgin Islands,2025,2,1778.0
+VT,Vermont,FL,Florida,2025,2,51.0
+VT,Vermont,GA,Georgia,2025,2,28.0
+VT,Vermont,IL,Illinois,2025,2,56.0
+VT,Vermont,MA,Massachusetts,2025,2,69.0
+VT,Vermont,MI,Michigan,2025,2,54.0
+VT,Vermont,NC,North Carolina,2025,2,35.0
+VT,Vermont,NJ,New Jersey,2025,2,72.0
+VT,Vermont,NY,New York,2025,2,124.0
+VT,Vermont,PA,Pennsylvania,2025,2,57.0
+VT,Vermont,VA,Virginia,2025,2,170.0
+WA,Washington,AK,Alaska,2025,2,869.0
+WA,Washington,AL,Alabama,2025,2,1.0
+WA,Washington,AZ,Arizona,2025,2,884.0
+WA,Washington,CA,California,2025,2,3644.0
+WA,Washington,CO,Colorado,2025,2,652.0
+WA,Washington,FL,Florida,2025,2,400.0
+WA,Washington,GA,Georgia,2025,2,213.0
+WA,Washington,HI,Hawaii,2025,2,604.0
+WA,Washington,ID,Idaho,2025,2,664.0
+WA,Washington,IL,Illinois,2025,2,342.0
+WA,Washington,IN,Indiana,2025,2,24.0
+WA,Washington,KS,Kansas,2025,2,20.0
+WA,Washington,KY,Kentucky,2025,2,173.0
+WA,Washington,LA,Louisiana,2025,2,44.0
+WA,Washington,MA,Massachusetts,2025,2,141.0
+WA,Washington,MD,Maryland,2025,2,25.0
+WA,Washington,MI,Michigan,2025,2,107.0
+WA,Washington,MN,Minnesota,2025,2,245.0
+WA,Washington,MO,Missouri,2025,2,100.0
+WA,Washington,MT,Montana,2025,2,361.0
+WA,Washington,NC,North Carolina,2025,2,129.0
+WA,Washington,NE,Nebraska,2025,2,25.0
+WA,Washington,NJ,New Jersey,2025,2,103.0
+WA,Washington,NM,New Mexico,2025,2,29.0
+WA,Washington,NV,Nevada,2025,2,661.0
+WA,Washington,NY,New York,2025,2,161.0
+WA,Washington,OH,Ohio,2025,2,74.0
+WA,Washington,OK,Oklahoma,2025,2,19.0
+WA,Washington,OR,Oregon,2025,2,1187.0
+WA,Washington,PA,Pennsylvania,2025,2,52.0
+WA,Washington,SC,South Carolina,2025,2,26.0
+WA,Washington,TN,Tennessee,2025,2,146.0
+WA,Washington,TX,Texas,2025,2,666.0
+WA,Washington,UT,Utah,2025,2,472.0
+WA,Washington,VA,Virginia,2025,2,145.0
+WA,Washington,WA,Washington,2025,2,3146.0
+WA,Washington,WI,Wisconsin,2025,2,17.0
+WA,Washington,WY,Wyoming,2025,2,17.0
+WI,Wisconsin,AZ,Arizona,2025,2,203.0
+WI,Wisconsin,CA,California,2025,2,1.0
+WI,Wisconsin,CO,Colorado,2025,2,230.0
+WI,Wisconsin,CT,Connecticut,2025,2,2.0
+WI,Wisconsin,FL,Florida,2025,2,430.0
+WI,Wisconsin,GA,Georgia,2025,2,311.0
+WI,Wisconsin,IA,Iowa,2025,2,1.0
+WI,Wisconsin,IL,Illinois,2025,2,1249.0
+WI,Wisconsin,IN,Indiana,2025,2,14.0
+WI,Wisconsin,KS,Kansas,2025,2,1.0
+WI,Wisconsin,KY,Kentucky,2025,2,62.0
+WI,Wisconsin,MA,Massachusetts,2025,2,28.0
+WI,Wisconsin,MD,Maryland,2025,2,43.0
+WI,Wisconsin,MI,Michigan,2025,2,464.0
+WI,Wisconsin,MN,Minnesota,2025,2,492.0
+WI,Wisconsin,MO,Missouri,2025,2,80.0
+WI,Wisconsin,MS,Mississippi,2025,2,2.0
+WI,Wisconsin,NC,North Carolina,2025,2,186.0
+WI,Wisconsin,NE,Nebraska,2025,2,5.0
+WI,Wisconsin,NJ,New Jersey,2025,2,81.0
+WI,Wisconsin,NV,Nevada,2025,2,88.0
+WI,Wisconsin,NY,New York,2025,2,179.0
+WI,Wisconsin,OH,Ohio,2025,2,7.0
+WI,Wisconsin,OK,Oklahoma,2025,2,3.0
+WI,Wisconsin,PA,Pennsylvania,2025,2,54.0
+WI,Wisconsin,RI,Rhode Island,2025,2,2.0
+WI,Wisconsin,TN,Tennessee,2025,2,98.0
+WI,Wisconsin,TX,Texas,2025,2,260.0
+WI,Wisconsin,UT,Utah,2025,2,30.0
+WI,Wisconsin,VA,Virginia,2025,2,160.0
+WI,Wisconsin,WA,Washington,2025,2,17.0
+WI,Wisconsin,WI,Wisconsin,2025,2,121.0
+WI,Wisconsin,WV,West Virginia,2025,2,1.0
+WV,West Virginia,AZ,Arizona,2025,2,1.0
+WV,West Virginia,FL,Florida,2025,2,38.0
+WV,West Virginia,GA,Georgia,2025,2,106.0
+WV,West Virginia,IL,Illinois,2025,2,85.0
+WV,West Virginia,KY,Kentucky,2025,2,12.0
+WV,West Virginia,NC,North Carolina,2025,2,272.0
+WV,West Virginia,NJ,New Jersey,2025,2,8.0
+WV,West Virginia,OH,Ohio,2025,2,5.0
+WV,West Virginia,OK,Oklahoma,2025,2,1.0
+WV,West Virginia,TN,Tennessee,2025,2,6.0
+WV,West Virginia,TX,Texas,2025,2,1.0
+WV,West Virginia,UT,Utah,2025,2,2.0
+WV,West Virginia,VA,Virginia,2025,2,50.0
+WV,West Virginia,WV,West Virginia,2025,2,98.0
+WY,Wyoming,AZ,Arizona,2025,2,2.0
+WY,Wyoming,CA,California,2025,2,134.0
+WY,Wyoming,CO,Colorado,2025,2,681.0
+WY,Wyoming,GA,Georgia,2025,2,23.0
+WY,Wyoming,ID,Idaho,2025,2,5.0
+WY,Wyoming,IL,Illinois,2025,2,57.0
+WY,Wyoming,MN,Minnesota,2025,2,8.0
+WY,Wyoming,ND,North Dakota,2025,2,1.0
+WY,Wyoming,NE,Nebraska,2025,2,24.0
+WY,Wyoming,NJ,New Jersey,2025,2,56.0
+WY,Wyoming,SD,South Dakota,2025,2,1.0
+WY,Wyoming,TN,Tennessee,2025,2,18.0
+WY,Wyoming,TX,Texas,2025,2,60.0
+WY,Wyoming,UT,Utah,2025,2,77.0
+WY,Wyoming,WA,Washington,2025,2,18.0
+WY,Wyoming,WY,Wyoming,2025,2,60.0
