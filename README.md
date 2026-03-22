@@ -2,11 +2,6 @@
 
 This repository contains cleaned state-level inputs for influenza modelling from December 2024 to February 2025.
 
-## Cleaned outputs
-
-- `state_month_weather.csv`: monthly weather covariates for the 48 contiguous U.S. states, with `avg_temp_f` and `precip_in`.
-- `state_month_vaccination.csv`: monthly state-level influenza vaccination outcome table for the same 48-state cohort, using `States/Local Areas` + `Age` + `>=6 Months`.
-
 ## Variable summary
 
 | Variable | Description | Unit | Mean | Min | Max |
