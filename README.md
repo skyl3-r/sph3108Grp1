@@ -47,9 +47,28 @@ The stored transmission score follows this relationship:
 - Population uses the normalized values in `US_pop_with_geo.csv`.
 - Distance, vaccination, temperature, and precipitation enter as inverse terms.
 - Self-loops are removed before scoring so zero-distance origin-destination pairs are never modeled.
-- Final probabilities are clamped to `[0, 1]`.
+- Final probabilities are forced into the valid probability range `[0, 1]` by setting any value above `1` to `1`.
 
-The lecture-style `beta = 0.1` yields near-zero transmission probabilities on this dataset over only three months, so the current demo workflow uses `beta = 300000` to produce visible but still bounded spread in the saved outputs.
+### Explain beta used 
+
+Using the lecture value `beta = 0.1` yields near-zero transmission probabilities on this dataset over three months, so the current demo workflow uses `beta = 300000` to produce visible but still bounded spread in the saved outputs.
+
+In this implementation, `beta` is best interpreted as a calibration constant for the current normalized scoring formula rather than as a directly estimated biological influenza transmission rate. The model multiplies several small normalized or inverse terms together, so the unscaled edge scores are extremely small on this dataset. A much smaller `beta` makes the simulation effectively inert, while a much larger `beta` pushes more edges toward the probability cap of `1.0` and makes the spread less informative.
+
+Across the current contiguous-48 inter-state monthly edge set:
+
+- with `beta = 0.1`, infection probabilities range from `1.05e-15` to `1.19e-06`
+- with `beta = 300000`, unclamped infection probabilities range from `3.16e-09` to `3.56`
+- after clamping to `[0, 1]`, the stored `beta = 300000` probabilities range from `3.16e-09` to `1.0`
+
+Under the default seed state (`TX`) and random seed (`42`), the final number of infected states by February 2025 changes as follows:
+
+- with `beta = 30000`, the infection remains at `1` state
+- with `beta = 100000`, the infection reaches `2` states
+- with `beta = 300000`, the infection reaches `6` states
+- with `beta = 3000000`, the infection reaches `11` states
+
+So the justification for `beta = 300000` is that it is a middle-ground scenario value for this specific dataset and three-month time window: large enough to generate visible spread beyond the seed state, but not so large that the network becomes dominated by saturated probabilities.
 
 ## Alignment rules
 
