@@ -11,7 +11,11 @@ geo <- geo %>%
 
 # Join on state name
 df <- pop %>%
-  inner_join(geo, by = c("name" = "Name"))
+  inner_join(geo, by = c("name" = "Name")) %>%
+  mutate(
+    population_normalized = population / max(population, na.rm = TRUE)
+  ) %>%
+  select(name, population, population_normalized, abbrev, latitude, longitude)
 
 # Save result
 write_csv(df, "US_pop_with_geo.csv")
