@@ -1,82 +1,289 @@
+from __future__ import annotations
+
+import csv
+import struct
 import zipfile
 from pathlib import Path
 
-import geopandas as gpd
-import matplotlib.pyplot as plt
+from PIL import Image, ImageDraw, ImageFont
 
-# ----------------------------
-# 1. Unzip and read shapefile
-# ----------------------------
-zip_path = Path("cb_2024_us_state_500k.zip")
-extract_dir = Path("us_state_shapefile_insets")
-extract_dir.mkdir(parents=True, exist_ok=True)
 
-with zipfile.ZipFile(zip_path, "r") as zf:
-    zf.extractall(extract_dir)
+ROOT = Path(__file__).resolve().parent
+ZIP_PATH = ROOT / "cb_2024_us_state_500k.zip"
+STATUS_CSV = ROOT / "outputs" / "state_infection_status.csv"
+OUTPUT_DIR = ROOT / "outputs" / "maps"
 
-shp_path = next(extract_dir.glob("*.shp"))
-gdf = gpd.read_file(shp_path)
+EXCLUDED_STATES = {"AK", "HI", "DC", "PR", "VI", "GU", "MP", "AS"}
+IMAGE_SIZE = (1800, 1100)
+BACKGROUND_COLOR = "#f7f5f0"
+STATE_OUTLINE_COLOR = "#ffffff"
+SUSCEPTIBLE_COLOR = "#d9d9d9"
+INFECTED_COLOR = "#c62828"
+TEXT_COLOR = "#1f1f1f"
+LEGEND_OUTLINE_COLOR = "#5f5f5f"
 
-# ----------------------------
-# 2. Split data into main map and inset groups
-# ----------------------------
-exclude_main = {"AK", "HI", "DC", "PR", "VI", "GU", "MP", "AS"}
-gdf_main = gdf[~gdf["STUSPS"].isin(exclude_main)].copy()
 
-regions = {
-    "Alaska": gdf[gdf["STUSPS"] == "AK"].copy(),
-    "Hawaii": gdf[gdf["STUSPS"] == "HI"].copy(),
-    "District of Columbia": gdf[gdf["STUSPS"] == "DC"].copy(),
-    "Puerto Rico": gdf[gdf["STUSPS"] == "PR"].copy(),
-}
+def read_dbf_records(dbf_bytes: bytes) -> list[dict[str, str]]:
+    record_count = struct.unpack_from("<I", dbf_bytes, 4)[0]
+    header_length = struct.unpack_from("<H", dbf_bytes, 8)[0]
+    record_length = struct.unpack_from("<H", dbf_bytes, 10)[0]
 
-# ----------------------------
-# 3. Helper for inset boxes
-# ----------------------------
-def draw_inset(fig, ax_pos, title, geodf):
-    ax = fig.add_axes(ax_pos)
-    geodf.plot(ax=ax)
+    fields: list[tuple[str, str, int]] = []
+    offset = 32
+    while dbf_bytes[offset] != 0x0D:
+        descriptor = dbf_bytes[offset : offset + 32]
+        name = descriptor[:11].split(b"\x00", 1)[0].decode("ascii")
+        field_type = chr(descriptor[11])
+        field_length = descriptor[16]
+        fields.append((name, field_type, field_length))
+        offset += 32
 
-    minx, miny, maxx, maxy = geodf.total_bounds
-    xpad = max((maxx - minx) * 0.08, 0.5)
-    ypad = max((maxy - miny) * 0.10, 0.5)
+    records: list[dict[str, str]] = []
+    data_offset = header_length
+    for index in range(record_count):
+        start = data_offset + index * record_length
+        end = start + record_length
+        record_bytes = dbf_bytes[start:end]
+        if record_bytes[:1] == b"*":
+            continue
 
-    ax.set_xlim(minx - xpad, maxx + xpad)
-    ax.set_ylim(miny - ypad, maxy + ypad)
-    ax.set_xticks([])
-    ax.set_yticks([])
+        field_offset = 1
+        row: dict[str, str] = {}
+        for name, _field_type, field_length in fields:
+            value = record_bytes[field_offset : field_offset + field_length]
+            row[name] = value.decode("utf-8", errors="ignore").strip()
+            field_offset += field_length
+        records.append(row)
 
-    for spine in ax.spines.values():
-        spine.set_visible(True)
-        spine.set_linewidth(1.2)
+    return records
 
-    ax.set_title(title, fontsize=10, pad=4)
-    return ax
 
-# ----------------------------
-# 4. Plot
-# ----------------------------
-fig = plt.figure(figsize=(16, 10))
+def read_polygon_records(shp_bytes: bytes) -> list[list[list[tuple[float, float]]]]:
+    records: list[list[list[tuple[float, float]]]] = []
+    offset = 100
 
-# Main contiguous U.S.
-ax_main = fig.add_axes([0.05, 0.16, 0.72, 0.76])
-gdf_main.plot(ax=ax_main)
+    while offset < len(shp_bytes):
+        if offset + 8 > len(shp_bytes):
+            break
 
-minx, miny, maxx, maxy = gdf_main.total_bounds
-xpad = (maxx - minx) * 0.02
-ypad = (maxy - miny) * 0.03
+        _record_number, content_length_words = struct.unpack_from(">2i", shp_bytes, offset)
+        offset += 8
+        content_length = content_length_words * 2
+        record_end = offset + content_length
+        shape_type = struct.unpack_from("<i", shp_bytes, offset)[0]
 
-ax_main.set_xlim(minx - xpad, maxx + xpad)
-ax_main.set_ylim(miny - ypad, maxy + ypad)
-ax_main.set_axis_off()
-ax_main.set_title("United States Map with Insets", pad=12)
+        if shape_type == 0:
+            records.append([])
+            offset = record_end
+            continue
 
-# Insets
-draw_inset(fig, [0.05, 0.03, 0.22, 0.18], "Alaska", regions["Alaska"])
-draw_inset(fig, [0.28, 0.03, 0.16, 0.12], "Hawaii", regions["Hawaii"])
+        if shape_type != 5:
+            raise ValueError(f"Unsupported shapefile shape type: {shape_type}")
 
-draw_inset(fig, [0.79, 0.61, 0.17, 0.12], "District of Columbia", regions["District of Columbia"])
-draw_inset(fig, [0.79, 0.46, 0.17, 0.12], "Puerto Rico", regions["Puerto Rico"])
+        num_parts = struct.unpack_from("<i", shp_bytes, offset + 36)[0]
+        num_points = struct.unpack_from("<i", shp_bytes, offset + 40)[0]
+        parts_offset = offset + 44
+        points_offset = parts_offset + num_parts * 4
 
-plt.savefig("us_map_with_insets.png", dpi=200, bbox_inches="tight")
-plt.show()
+        part_starts = list(struct.unpack_from(f"<{num_parts}i", shp_bytes, parts_offset))
+        points = [
+            struct.unpack_from("<2d", shp_bytes, points_offset + point_index * 16)
+            for point_index in range(num_points)
+        ]
+
+        rings: list[list[tuple[float, float]]] = []
+        for part_index, start_index in enumerate(part_starts):
+            end_index = part_starts[part_index + 1] if part_index + 1 < num_parts else num_points
+            rings.append(points[start_index:end_index])
+
+        records.append(rings)
+        offset = record_end
+
+    return records
+
+
+def load_contiguous_state_shapes(zip_path: Path = ZIP_PATH) -> list[dict[str, object]]:
+    with zipfile.ZipFile(zip_path) as archive:
+        shp_name = next(name for name in archive.namelist() if name.endswith(".shp"))
+        dbf_name = next(name for name in archive.namelist() if name.endswith(".dbf"))
+        shp_bytes = archive.read(shp_name)
+        dbf_bytes = archive.read(dbf_name)
+
+    shape_records = read_polygon_records(shp_bytes)
+    dbf_records = read_dbf_records(dbf_bytes)
+
+    if len(shape_records) != len(dbf_records):
+        raise ValueError("Shapefile geometry and attribute record counts do not match")
+
+    state_shapes: list[dict[str, object]] = []
+    for attrs, rings in zip(dbf_records, shape_records):
+        abbrev = attrs["STUSPS"]
+        if abbrev in EXCLUDED_STATES:
+            continue
+        state_shapes.append(
+            {
+                "state": attrs["NAME"],
+                "abbrev": abbrev,
+                "rings": rings,
+            }
+        )
+
+    if len(state_shapes) != 48:
+        raise ValueError(f"Expected 48 contiguous states, found {len(state_shapes)}")
+
+    state_shapes.sort(key=lambda row: row["abbrev"])
+    return state_shapes
+
+
+def load_status_rows(status_csv_path: Path = STATUS_CSV) -> list[dict[str, str]]:
+    with status_csv_path.open(newline="", encoding="utf-8") as handle:
+        return list(csv.DictReader(handle))
+
+
+def build_status_index(rows: list[dict[str, str]]) -> dict[tuple[str, str], dict[str, str]]:
+    status_index: dict[tuple[str, str], dict[str, str]] = {}
+    for row in rows:
+        key = (row["year_month"], row["abbrev"])
+        if key in status_index:
+            raise ValueError(f"Duplicate status row for {row['year_month']} / {row['abbrev']}")
+        status_index[key] = row
+    return status_index
+
+
+def get_bounds(state_shapes: list[dict[str, object]]) -> tuple[float, float, float, float]:
+    min_x = min(point[0] for state in state_shapes for ring in state["rings"] for point in ring)
+    min_y = min(point[1] for state in state_shapes for ring in state["rings"] for point in ring)
+    max_x = max(point[0] for state in state_shapes for ring in state["rings"] for point in ring)
+    max_y = max(point[1] for state in state_shapes for ring in state["rings"] for point in ring)
+    return min_x, min_y, max_x, max_y
+
+
+def build_transform(
+    bounds: tuple[float, float, float, float],
+    image_size: tuple[int, int] = IMAGE_SIZE,
+) -> tuple[float, float, float, float]:
+    width, height = image_size
+    left_margin = 70
+    right_margin = 70
+    top_margin = 130
+    bottom_margin = 80
+
+    min_x, min_y, max_x, max_y = bounds
+    usable_width = width - left_margin - right_margin
+    usable_height = height - top_margin - bottom_margin
+    scale = min(usable_width / (max_x - min_x), usable_height / (max_y - min_y))
+
+    x_offset = left_margin + (usable_width - (max_x - min_x) * scale) / 2 - min_x * scale
+    y_offset = top_margin + (usable_height - (max_y - min_y) * scale) / 2
+    return scale, x_offset, y_offset, max_y
+
+
+def transform_ring(
+    ring: list[tuple[float, float]],
+    scale: float,
+    x_offset: float,
+    y_offset: float,
+    max_y: float,
+) -> list[tuple[int, int]]:
+    transformed: list[tuple[int, int]] = []
+    for x_value, y_value in ring:
+        x_px = int(round(x_offset + x_value * scale))
+        y_px = int(round(y_offset + (max_y - y_value) * scale))
+        transformed.append((x_px, y_px))
+    return transformed
+
+
+def draw_legend(draw: ImageDraw.ImageDraw, font: ImageFont.ImageFont, image_size: tuple[int, int]) -> None:
+    width, _height = image_size
+    box_size = 28
+    start_x = width - 320
+    start_y = 55
+
+    draw.rectangle(
+        [start_x, start_y, start_x + box_size, start_y + box_size],
+        fill=SUSCEPTIBLE_COLOR,
+        outline=LEGEND_OUTLINE_COLOR,
+        width=1,
+    )
+    draw.text((start_x + 40, start_y + 3), "Susceptible", fill=TEXT_COLOR, font=font)
+
+    second_y = start_y + 42
+    draw.rectangle(
+        [start_x, second_y, start_x + box_size, second_y + box_size],
+        fill=INFECTED_COLOR,
+        outline=LEGEND_OUTLINE_COLOR,
+        width=1,
+    )
+    draw.text((start_x + 40, second_y + 3), "Infected", fill=TEXT_COLOR, font=font)
+
+
+def render_month_map(
+    state_shapes: list[dict[str, object]],
+    status_index: dict[tuple[str, str], dict[str, str]],
+    year_month: str,
+    seed_state: str,
+    output_path: Path,
+) -> None:
+    image = Image.new("RGB", IMAGE_SIZE, BACKGROUND_COLOR)
+    draw = ImageDraw.Draw(image)
+    title_font = ImageFont.load_default()
+    body_font = ImageFont.load_default()
+
+    bounds = get_bounds(state_shapes)
+    scale, x_offset, y_offset, max_y = build_transform(bounds)
+
+    for state in state_shapes:
+        row = status_index.get((year_month, state["abbrev"]))
+        if row is None:
+            raise ValueError(f"Missing status for {state['abbrev']} in {year_month}")
+
+        is_infected = row["infected"] == "1"
+        fill_color = INFECTED_COLOR if is_infected else SUSCEPTIBLE_COLOR
+
+        for ring in state["rings"]:
+            if len(ring) < 3:
+                continue
+            transformed_ring = transform_ring(ring, scale, x_offset, y_offset, max_y)
+            draw.polygon(transformed_ring, fill=fill_color, outline=STATE_OUTLINE_COLOR)
+
+    title = f"Influenza Spread Simulation - {year_month} - Seed: {seed_state}"
+    subtitle = "Contiguous 48-state cohort"
+    draw.text((70, 45), title, fill=TEXT_COLOR, font=title_font)
+    draw.text((70, 78), subtitle, fill=TEXT_COLOR, font=body_font)
+    draw_legend(draw, body_font, IMAGE_SIZE)
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    image.save(output_path)
+
+
+def generate_infection_maps(
+    status_csv_path: Path = STATUS_CSV,
+    zip_path: Path = ZIP_PATH,
+    output_dir: Path = OUTPUT_DIR,
+) -> list[Path]:
+    rows = load_status_rows(status_csv_path)
+    if not rows:
+        raise ValueError("Status CSV is empty")
+
+    state_shapes = load_contiguous_state_shapes(zip_path)
+    status_index = build_status_index(rows)
+    year_months = sorted({row["year_month"] for row in rows})
+    seed_state = rows[0]["seed_state"]
+
+    output_paths: list[Path] = []
+    for year_month in year_months:
+        output_path = output_dir / f"infection_map_{year_month}.png"
+        render_month_map(state_shapes, status_index, year_month, seed_state, output_path)
+        output_paths.append(output_path)
+
+    return output_paths
+
+
+def main() -> None:
+    output_paths = generate_infection_maps()
+    for path in output_paths:
+        print(f"Saved map to {path}")
+
+
+if __name__ == "__main__":
+    main()
