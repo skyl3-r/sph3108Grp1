@@ -140,7 +140,25 @@ python US_plot.py
 
 Actual influenza data for every state is loaded to compare against our predicted infection spread. The raw data consists of the influenza activity level (`Minimal`, `Low`, `Moderate`, `High`, `Very High`) of every state during every week of the flu season. We processed this by extracting the average activity level of every state for each month, and treating the `Very High` activity level as infected states.
 
-Validation maps can be plotted with:
+We then compared the predicted infection status of a state with the actual infection status by calculating the accuracy, recall and precision of our predictions. This was done for individual months and the overall results for all 3 months.
+
+Our results are:
+
+| Month       | N States | Accuracy  | Recall    | Precision | TP     | TN     | FP     | FN     |
+| ----------- | -------- | --------- | --------- | --------- | ------ | ------ | ------ | ------ |
+| 2024-12     | 48       | 0.875     | 0.4       | 0.4       | 2      | 40     | 3      | 3      |
+| 2025-01     | 48       | 0.604     | 0.52      | 0.65      | 13     | 16     | 7      | 12     |
+| 2025-02     | 48       | 0.625     | 0.676     | 0.767     | 23     | 7      | 7      | 11     |
+| **Overall** | **144**  | **0.701** | **0.594** | **0.691** | **38** | **63** | **17** | **26** |
+
+**Metrics:**
+
+- **Accuracy**: Proportion of correctly predicted infected/susceptible states
+- **Recall**: Proportion of actual infected states correctly identified (true positive rate)
+- **Precision**: Proportion of predicted infected states that were actually infected
+- **TP/TN/FP/FN**: Confusion matrix components (True Positives, True Negatives, False Positives, False Negatives)
+
+Additionally, maps of the actual infected states can be plotted with:
 
 ```powershell
 python US_plot.py --mode validate
