@@ -138,7 +138,7 @@ python US_plot.py
 
 ## Validation
 
-Actual influenza data for every state is loaded to compare against our predicted infection spread. The raw data consists of the influenza activity level (`Minimal`, `Low`, `Moderate`, `High`, `Very High`) of every state during every week of the flu season. We processed this by extracting the average activity level of every state for each month, and treating the `Very High` activity level as infected states.
+Actual influenza data (from CDC FluView) for every state is loaded to compare against our predicted infection spread. The raw data consists of the influenza activity level (`Minimal`, `Low`, `Moderate`, `High`, `Very High`) of every state during every week of the flu season. We processed this by extracting the average activity level of every state for each month, and treating the `Very High` activity level as infected states.
 
 We then compared the predicted infection status of a state with the actual infection status by calculating the accuracy, recall and precision of our predictions. This was done for individual months and the overall results for all 3 months.
 
