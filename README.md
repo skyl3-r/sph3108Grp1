@@ -28,12 +28,12 @@ It then:
 
 ## Default model settings
 
-- `SEED_STATE = "TX"`
-- `BETA = 300000`
-- `RANDOM_SEED = 42`
+- `SEED_STATE = "LA"`
+- `BETA = 15000000`
+- `RANDOM_SEED = 3780`
 - `MONTHS = ["2024-12", "2025-01", "2025-02"]`
 
-Texas is the default seed because, within the contiguous-48 cohort in the current flight dataset, it has the highest total departure volume and is therefore the strongest single-state default for a first spread scenario.
+The default seed state used is Louisiana because that was the only state with 'High' level of influneza infection at that start of December. The checked-in CSV outputs and map PNGs correspond to this default run, which is tuned to end with 30 infected states by February 2025 without changing the fixed `python run_model.py` entrypoint. This tuning is done to match the 30+ states that had High(?) level of influenza infection at the end of February 2025.
 
 The simulation uses an SI-persistent model. This means once a state becomes infected in a month, it stays infected for the remaining months in the run.
 
@@ -51,24 +51,23 @@ The stored transmission score follows this relationship:
 
 ### Explain beta used 
 
-Using the lecture value `beta = 0.1` yields near-zero transmission probabilities on this dataset over three months, so the current demo workflow uses `beta = 300000` to produce visible but still bounded spread in the saved outputs.
+Using the lecture value `beta = 0.1` yields near-zero transmission probabilities on this dataset over three months, so the default demo workflow uses `beta = 15000000` for the saved Louisiana scenario.
 
 In this implementation, `beta` is best interpreted as a calibration constant for the current normalized scoring formula rather than as a directly estimated biological influenza transmission rate. The model multiplies several small normalized or inverse terms together, so the unscaled edge scores are extremely small on this dataset. A much smaller `beta` makes the simulation effectively inert, while a much larger `beta` pushes more edges toward the probability cap of `1.0` and makes the spread less informative.
 
 Across the current contiguous-48 inter-state monthly edge set:
 
-- with `beta = 0.1`, infection probabilities range from `1.05e-15` to `1.19e-06`
-- with `beta = 300000`, unclamped infection probabilities range from `3.16e-09` to `3.56`
-- after clamping to `[0, 1]`, the stored `beta = 300000` probabilities range from `3.16e-09` to `1.0`
+- raw transmission scores range from `1.05e-14` to `1.19e-05`
+- with `beta = 15000000`, unclamped infection probabilities range from `1.58e-07` to `178.20`
+- probabilities are then clamped to the valid range `[0, 1]` before transmission is sampled
 
-Under the default seed state (`TX`) and random seed (`42`), the final number of infected states by February 2025 changes as follows:
+Under the default seed state (`LA`) and random seed (`3780`), the observed infection totals are:
 
-- with `beta = 30000`, the infection remains at `1` state
-- with `beta = 100000`, the infection reaches `2` states
-- with `beta = 300000`, the infection reaches `6` states
-- with `beta = 3000000`, the infection reaches `11` states
+- December 2024: `5` infected states
+- January 2025: `20` infected states
+- February 2025: `30` infected states
 
-So the justification for `beta = 300000` is that it is a middle-ground scenario value for this specific dataset and three-month time window: large enough to generate visible spread beyond the seed state, but not so large that the network becomes dominated by saturated probabilities.
+So the justification for `beta = 15000000` is that it serves as the documented default calibration for this specific dataset and three-month time window: large enough to produce a visible Louisiana-seeded spread and tuned so the saved default run reaches 30 infected states by February 2025. The runtime validation remains a generic sanity check that the default run spreads beyond the seed state; it does not enforce the 30-state endpoint as a hard invariant.
 
 ## Alignment rules
 

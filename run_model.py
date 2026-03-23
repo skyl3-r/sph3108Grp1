@@ -10,9 +10,9 @@ from US_plot import generate_infection_maps
 
 
 ROOT = Path(__file__).resolve().parent
-SEED_STATE = "TX"
-BETA = 300000
-RANDOM_SEED = 42
+SEED_STATE = "LA"
+BETA = 15000000
+RANDOM_SEED = 3780
 MONTHS = ["2024-12", "2025-01", "2025-02"]
 OUTPUT_DIR = ROOT / "outputs"
 
@@ -313,7 +313,7 @@ def validate_outputs(
         if row["year_month"] == final_month and int(row["infected"]) == 1
     ]
     if len(final_infected) <= 1:
-        raise ValueError("Default Texas-seeded run did not spread beyond the seed state")
+        raise ValueError("Default seeded run did not spread beyond the seed state")
 
 
 def write_csv(path: Path, rows: list[dict[str, object]], fieldnames: list[str]) -> None:
