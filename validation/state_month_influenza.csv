@@ -1,0 +1,166 @@
+state,month,avg_activity,activity_label,isVeryHigh
+Alabama,Dec,10.25,Very High,1
+Alabama,Feb,10.5,Very High,1
+Alabama,Jan,11.25,Very High,1
+Alaska,Dec,7.75,High,0
+Alaska,Feb,4.25,Low,0
+Alaska,Jan,5.75,Moderate,0
+Arizona,Dec,9.0,High,0
+Arizona,Feb,8.5,High,0
+Arizona,Jan,9.75,High,0
+Arkansas,Dec,8.5,High,0
+Arkansas,Feb,11.25,Very High,1
+Arkansas,Jan,9.75,High,0
+California,Dec,10.0,High,0
+California,Feb,10.5,Very High,1
+California,Jan,11.0,Very High,1
+Colorado,Dec,7.75,High,0
+Colorado,Feb,10.75,Very High,1
+Colorado,Jan,10.5,Very High,1
+Commonwealth of the Northern Mariana Islands,Dec,1.5,Minimal,0
+Commonwealth of the Northern Mariana Islands,Feb,2.25,Minimal,0
+Commonwealth of the Northern Mariana Islands,Jan,1.0,Minimal,0
+Connecticut,Dec,6.5,Moderate,0
+Connecticut,Feb,10.75,Very High,1
+Connecticut,Jan,10.25,Very High,1
+Delaware,Dec,2.5,Minimal,0
+Delaware,Feb,9.0,High,0
+Delaware,Jan,4.75,Low,0
+District of Columbia,Dec,9.75,High,0
+District of Columbia,Feb,11.75,Very High,1
+District of Columbia,Jan,10.25,Very High,1
+Florida,Dec,8.0,High,0
+Florida,Feb,10.25,Very High,1
+Florida,Jan,10.25,Very High,1
+Georgia,Dec,9.25,High,0
+Georgia,Feb,10.75,Very High,1
+Georgia,Jan,11.5,Very High,1
+Hawaii,Dec,2.75,Minimal,0
+Hawaii,Feb,3.75,Low,0
+Hawaii,Jan,4.5,Low,0
+Idaho,Dec,10.25,Very High,1
+Idaho,Feb,10.75,Very High,1
+Idaho,Jan,10.25,Very High,1
+Illinois,Dec,5.5,Moderate,0
+Illinois,Feb,9.75,High,0
+Illinois,Jan,8.5,High,0
+Indiana,Dec,7.75,High,0
+Indiana,Feb,11.5,Very High,1
+Indiana,Jan,8.75,High,0
+Iowa,Dec,5.75,Moderate,0
+Iowa,Feb,11.0,Very High,1
+Iowa,Jan,8.75,High,0
+Kansas,Dec,9.25,High,0
+Kansas,Feb,12.25,Very High,1
+Kansas,Jan,10.75,Very High,1
+Kentucky,Dec,4.5,Low,0
+Kentucky,Feb,10.5,Very High,1
+Kentucky,Jan,6.75,Moderate,0
+Louisiana,Dec,11.75,Very High,1
+Louisiana,Feb,11.25,Very High,1
+Louisiana,Jan,12.25,Very High,1
+Maine,Dec,3.75,Low,0
+Maine,Feb,12.25,Very High,1
+Maine,Jan,8.5,High,0
+Maryland,Dec,6.75,Moderate,0
+Maryland,Feb,11.75,Very High,1
+Maryland,Jan,9.25,High,0
+Massachusetts,Dec,7.25,High,0
+Massachusetts,Feb,13.0,Very High,1
+Massachusetts,Jan,11.5,Very High,1
+Michigan,Dec,5.5,Moderate,0
+Michigan,Feb,13.0,Very High,1
+Michigan,Jan,10.75,Very High,1
+Minnesota,Dec,4.75,Low,0
+Minnesota,Feb,8.5,High,0
+Minnesota,Jan,10.5,Very High,1
+Mississippi,Dec,8.5,High,0
+Mississippi,Feb,10.0,High,0
+Mississippi,Jan,10.5,Very High,1
+Missouri,Dec,3.75,Low,0
+Missouri,Feb,10.25,Very High,1
+Missouri,Jan,6.0,Moderate,0
+Montana,Dec,2.0,Minimal,0
+Montana,Feb,5.75,Moderate,0
+Montana,Jan,1.25,Minimal,0
+Nebraska,Dec,7.25,High,0
+Nebraska,Feb,12.5,Very High,1
+Nebraska,Jan,11.0,Very High,1
+Nevada,Dec,8.75,High,0
+Nevada,Feb,7.5,High,0
+Nevada,Jan,9.75,High,0
+New Hampshire,Dec,6.25,Moderate,0
+New Hampshire,Feb,13.0,Very High,1
+New Hampshire,Jan,11.25,Very High,1
+New Jersey,Dec,9.75,High,0
+New Jersey,Feb,11.75,Very High,1
+New Jersey,Jan,12.0,Very High,1
+New Mexico,Dec,9.5,High,0
+New Mexico,Feb,12.5,Very High,1
+New Mexico,Jan,12.25,Very High,1
+New York,Dec,7.25,High,0
+New York,Feb,11.75,Very High,1
+New York,Jan,10.5,Very High,1
+New York City,Dec,10.0,High,0
+New York City,Feb,12.25,Very High,1
+New York City,Jan,12.5,Very High,1
+North Carolina,Dec,6.75,Moderate,0
+North Carolina,Feb,11.25,Very High,1
+North Carolina,Jan,10.5,Very High,1
+North Dakota,Dec,2.5,Minimal,0
+North Dakota,Feb,7.0,Moderate,0
+North Dakota,Jan,6.5,Moderate,0
+Ohio,Dec,7.75,High,0
+Ohio,Feb,13.0,Very High,1
+Ohio,Jan,10.75,Very High,1
+Oklahoma,Dec,4.5,Low,0
+Oklahoma,Feb,10.5,Very High,1
+Oklahoma,Jan,8.0,High,0
+Oregon,Dec,11.25,Very High,1
+Oregon,Feb,12.5,Very High,1
+Oregon,Jan,11.5,Very High,1
+Pennsylvania,Dec,5.5,Moderate,0
+Pennsylvania,Feb,10.25,Very High,1
+Pennsylvania,Jan,8.75,High,0
+Puerto Rico,Dec,4.25,Low,0
+Puerto Rico,Feb,5.5,Moderate,0
+Puerto Rico,Jan,8.0,High,0
+Rhode Island,Dec,4.25,Low,0
+Rhode Island,Feb,11.5,Very High,1
+Rhode Island,Jan,9.25,High,0
+South Carolina,Dec,9.0,High,0
+South Carolina,Feb,12.5,Very High,1
+South Carolina,Jan,12.5,Very High,1
+South Dakota,Dec,3.0,Minimal,0
+South Dakota,Feb,8.25,High,0
+South Dakota,Jan,6.25,Moderate,0
+Tennessee,Dec,10.5,Very High,1
+Tennessee,Feb,12.25,Very High,1
+Tennessee,Jan,12.5,Very High,1
+Texas,Dec,8.25,High,0
+Texas,Feb,11.25,Very High,1
+Texas,Jan,10.5,Very High,1
+Utah,Dec,4.75,Low,0
+Utah,Feb,6.5,Moderate,0
+Utah,Jan,7.0,Moderate,0
+Vermont,Dec,1.25,Minimal,0
+Vermont,Feb,9.75,High,0
+Vermont,Jan,5.0,Low,0
+Virgin Islands,Dec,2.0,Minimal,0
+Virgin Islands,Feb,3.5,Low,0
+Virgin Islands,Jan,5.5,Moderate,0
+Virginia,Dec,7.5,High,0
+Virginia,Feb,12.0,Very High,1
+Virginia,Jan,9.5,High,0
+Washington,Dec,8.0,High,0
+Washington,Feb,12.5,Very High,1
+Washington,Jan,10.5,Very High,1
+West Virginia,Dec,2.0,Minimal,0
+West Virginia,Feb,8.5,High,0
+West Virginia,Jan,1.5,Minimal,0
+Wisconsin,Dec,5.0,Low,0
+Wisconsin,Feb,10.0,High,0
+Wisconsin,Jan,8.5,High,0
+Wyoming,Dec,3.0,Minimal,0
+Wyoming,Feb,7.0,Moderate,0
+Wyoming,Jan,5.0,Low,0
