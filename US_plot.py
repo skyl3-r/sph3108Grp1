@@ -4,6 +4,7 @@ import csv
 import struct
 import zipfile
 from pathlib import Path
+import argparse
 
 from PIL import Image, ImageDraw, ImageFont
 
@@ -260,6 +261,7 @@ def generate_infection_maps(
     status_csv_path: Path = STATUS_CSV,
     zip_path: Path = ZIP_PATH,
     output_dir: Path = OUTPUT_DIR,
+    map_name: str = "infection_map"
 ) -> list[Path]:
     rows = load_status_rows(status_csv_path)
     if not rows:
@@ -272,7 +274,8 @@ def generate_infection_maps(
 
     output_paths: list[Path] = []
     for year_month in year_months:
-        output_path = output_dir / f"infection_map_{year_month}.png"
+        fname = f"{map_name}_{year_month}.png"
+        output_path = output_dir / fname
         render_month_map(state_shapes, status_index, year_month, seed_state, output_path)
         output_paths.append(output_path)
 
@@ -280,7 +283,26 @@ def generate_infection_maps(
 
 
 def main() -> None:
-    output_paths = generate_infection_maps()
+    parser = argparse.ArgumentParser(description="Render US influenza infection maps")
+    parser.add_argument(
+        "--mode",
+        choices=["predict", "validate"],
+        default="predict",
+        help="Data mode: predict = state_infection_status.csv, validate = state_infection_validation.csv",
+    )
+
+    args = parser.parse_args()
+
+    if args.mode == "validate":
+        status_csv_path = Path("outputs") / "state_infection_validation.csv"
+        map_name = "validation_map"
+    else:
+        status_csv_path = Path("outputs") / "state_infection_status.csv"
+        map_name = "infection_map"
+
+    print(f"Running US_plot in mode='{args.mode}', status CSV='{status_csv_path}'")
+
+    output_paths = generate_infection_maps(status_csv_path=status_csv_path, map_name=map_name)
     for path in output_paths:
         print(f"Saved map to {path}")
 

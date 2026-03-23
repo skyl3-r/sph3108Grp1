@@ -106,8 +106,7 @@ US_STATE_ABBREV = {
 def state_monthly_to_status_csv(
     source_df: pd.DataFrame,
     out_path: str = None,
-    infection_threshold: float = 11.0,
-    seed_state: str = 'NY',
+    seed_state: str = 'LA',
     season_year: int = 2024,
 ) -> pd.DataFrame:
     """Convert monthly state activity to infection status CSV readable by US_plot.py."""
@@ -145,6 +144,6 @@ if __name__ == '__main__':
     print(result.head(40).to_string(index=False))
 
     status_file = os.path.join(os.path.dirname(__file__), '..', 'outputs', 'state_infection_validation.csv')
-    status_result = state_monthly_to_status_csv(result, out_path=status_file, infection_threshold=5.0, seed_state='NY')
+    status_result = state_monthly_to_status_csv(result, out_path=status_file, seed_state='LA')
     print(f'Saved US_plot-compatible infection status to: {status_file}')
     print(status_result.head(40).to_string(index=False))
