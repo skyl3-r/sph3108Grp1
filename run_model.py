@@ -382,6 +382,7 @@ def main() -> None:
     map_paths = generate_infection_maps(
         status_csv_path=state_output_path,
         output_dir=OUTPUT_DIR / "maps",
+        map_style="infection",
     )
 
     print(f"Saved state output to {state_output_path}")

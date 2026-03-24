@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from dataclasses import dataclass
 import csv
 import struct
 import zipfile
@@ -13,6 +14,7 @@ ROOT = Path(__file__).resolve().parent
 ZIP_PATH = ROOT / "cb_2024_us_state_500k.zip"
 STATUS_CSV = ROOT / "outputs" / "state_infection_status.csv"
 OUTPUT_DIR = ROOT / "outputs" / "maps"
+POPULATION_CSV = ROOT / "US_pop_with_geo.csv"
 
 EXCLUDED_STATES = {"AK", "HI", "DC", "PR", "VI", "GU", "MP", "AS"}
 IMAGE_SIZE = (1800, 1100)
@@ -22,6 +24,51 @@ SUSCEPTIBLE_COLOR = "#d9d9d9"
 INFECTED_COLOR = "#c62828"
 TEXT_COLOR = "#1f1f1f"
 LEGEND_OUTLINE_COLOR = "#5f5f5f"
+LABEL_TEXT_COLOR = "#ffffff"
+LABEL_STROKE_COLOR = "#1f1f1f"
+
+STATE_LABEL_OFFSETS: dict[str, tuple[int, int]] = {
+    "VT": (-18, -18),
+    "NH": (34, -24),
+    "MA": (58, -6),
+    "RI": (62, 18),
+    "CT": (24, 24),
+    "NY": (-36, -10),
+    "NJ": (46, 24),
+    "PA": (-24, 20),
+    "DE": (52, 34),
+    "MD": (10, 40),
+}
+
+
+@dataclass(frozen=True)
+class MapStyleConfig:
+    map_name: str
+    title_font_size: float | None
+    subtitle_font_size: float | None
+    legend_font_size: float | None
+    show_state_labels: bool
+    state_label_font_size: float | None = None
+
+
+MAP_STYLE_CONFIGS = {
+    "infection": MapStyleConfig(
+        map_name="infection_map",
+        title_font_size=28,
+        subtitle_font_size=20,
+        legend_font_size=20,
+        show_state_labels=True,
+        state_label_font_size=12,
+    ),
+    "validation": MapStyleConfig(
+        map_name="validation_map",
+        title_font_size=None,
+        subtitle_font_size=None,
+        legend_font_size=None,
+        show_state_labels=False,
+        state_label_font_size=None,
+    ),
+}
 
 
 def read_dbf_records(dbf_bytes: bytes) -> list[dict[str, str]]:
@@ -141,6 +188,21 @@ def load_status_rows(status_csv_path: Path = STATUS_CSV) -> list[dict[str, str]]
         return list(csv.DictReader(handle))
 
 
+def load_label_anchors(population_csv_path: Path = POPULATION_CSV) -> dict[str, dict[str, object]]:
+    label_anchors: dict[str, dict[str, object]] = {}
+    with population_csv_path.open(newline="", encoding="utf-8") as handle:
+        for row in csv.DictReader(handle):
+            abbrev = row["abbrev"]
+            if abbrev in EXCLUDED_STATES:
+                continue
+            label_anchors[abbrev] = {
+                "state": row["name"],
+                "longitude": float(row["longitude"]),
+                "latitude": float(row["latitude"]),
+            }
+    return label_anchors
+
+
 def build_status_index(rows: list[dict[str, str]]) -> dict[tuple[str, str], dict[str, str]]:
     status_index: dict[tuple[str, str], dict[str, str]] = {}
     for row in rows:
@@ -194,11 +256,40 @@ def transform_ring(
     return transformed
 
 
+def transform_point(
+    x_value: float,
+    y_value: float,
+    scale: float,
+    x_offset: float,
+    y_offset: float,
+    max_y: float,
+) -> tuple[int, int]:
+    x_px = int(round(x_offset + x_value * scale))
+    y_px = int(round(y_offset + (max_y - y_value) * scale))
+    return x_px, y_px
+
+
+def load_font(size: float | None) -> ImageFont.ImageFont:
+    if size is None:
+        return ImageFont.load_default()
+    return ImageFont.load_default(size=size)
+
+
+def text_size(font: ImageFont.ImageFont, text: str) -> tuple[int, int]:
+    left, top, right, bottom = font.getbbox(text)
+    return right - left, bottom - top
+
+
 def draw_legend(draw: ImageDraw.ImageDraw, font: ImageFont.ImageFont, image_size: tuple[int, int]) -> None:
     width, _height = image_size
     box_size = 28
-    start_x = width - 320
+    label_gap = 14
+    horizontal_margin = 70
     start_y = 55
+    label_width = max(text_size(font, "Susceptible")[0], text_size(font, "Infected")[0])
+    legend_width = box_size + label_gap + label_width
+    start_x = width - horizontal_margin - legend_width
+    row_height = max(box_size, text_size(font, "Susceptible")[1]) + 14
 
     draw.rectangle(
         [start_x, start_y, start_x + box_size, start_y + box_size],
@@ -206,29 +297,90 @@ def draw_legend(draw: ImageDraw.ImageDraw, font: ImageFont.ImageFont, image_size
         outline=LEGEND_OUTLINE_COLOR,
         width=1,
     )
-    draw.text((start_x + 40, start_y + 3), "Susceptible", fill=TEXT_COLOR, font=font)
+    draw.text(
+        (start_x + box_size + label_gap, start_y + box_size / 2),
+        "Susceptible",
+        fill=TEXT_COLOR,
+        font=font,
+        anchor="lm",
+    )
 
-    second_y = start_y + 42
+    second_y = start_y + row_height
     draw.rectangle(
         [start_x, second_y, start_x + box_size, second_y + box_size],
         fill=INFECTED_COLOR,
         outline=LEGEND_OUTLINE_COLOR,
         width=1,
     )
-    draw.text((start_x + 40, second_y + 3), "Infected", fill=TEXT_COLOR, font=font)
+    draw.text(
+        (start_x + box_size + label_gap, second_y + box_size / 2),
+        "Infected",
+        fill=TEXT_COLOR,
+        font=font,
+        anchor="lm",
+    )
+
+
+def draw_state_labels(
+    draw: ImageDraw.ImageDraw,
+    state_shapes: list[dict[str, object]],
+    status_index: dict[tuple[str, str], dict[str, str]],
+    year_month: str,
+    label_anchors: dict[str, dict[str, object]],
+    scale: float,
+    x_offset: float,
+    y_offset: float,
+    max_y: float,
+    font: ImageFont.ImageFont,
+) -> None:
+    for state in state_shapes:
+        row = status_index[(year_month, state["abbrev"])]
+        if row["infected"] != "1":
+            continue
+
+        anchor = label_anchors.get(state["abbrev"])
+        if anchor is None:
+            continue
+
+        label_x, label_y = transform_point(
+            anchor["longitude"],
+            anchor["latitude"],
+            scale,
+            x_offset,
+            y_offset,
+            max_y,
+        )
+        offset_x, offset_y = STATE_LABEL_OFFSETS.get(state["abbrev"], (0, 0))
+        draw.text(
+            (label_x + offset_x, label_y + offset_y),
+            anchor["state"],
+            fill=LABEL_TEXT_COLOR,
+            font=font,
+            anchor="mm",
+            stroke_width=1,
+            stroke_fill=LABEL_STROKE_COLOR,
+        )
 
 
 def render_month_map(
     state_shapes: list[dict[str, object]],
     status_index: dict[tuple[str, str], dict[str, str]],
+    label_anchors: dict[str, dict[str, object]],
+    style_config: MapStyleConfig,
     year_month: str,
     seed_state: str,
     output_path: Path,
 ) -> None:
     image = Image.new("RGB", IMAGE_SIZE, BACKGROUND_COLOR)
     draw = ImageDraw.Draw(image)
-    title_font = ImageFont.load_default()
-    body_font = ImageFont.load_default()
+    title_font = load_font(style_config.title_font_size)
+    subtitle_font = load_font(style_config.subtitle_font_size)
+    legend_font = load_font(style_config.legend_font_size)
+    label_font = (
+        load_font(style_config.state_label_font_size)
+        if style_config.show_state_labels and style_config.state_label_font_size is not None
+        else None
+    )
 
     bounds = get_bounds(state_shapes)
     scale, x_offset, y_offset, max_y = build_transform(bounds)
@@ -247,11 +399,29 @@ def render_month_map(
             transformed_ring = transform_ring(ring, scale, x_offset, y_offset, max_y)
             draw.polygon(transformed_ring, fill=fill_color, outline=STATE_OUTLINE_COLOR)
 
+    if label_font is not None:
+        draw_state_labels(
+            draw,
+            state_shapes,
+            status_index,
+            year_month,
+            label_anchors,
+            scale,
+            x_offset,
+            y_offset,
+            max_y,
+            label_font,
+        )
+
     title = f"Influenza Spread Simulation - {year_month} - Seed: {seed_state}"
     subtitle = "Contiguous 48-state cohort"
-    draw.text((70, 45), title, fill=TEXT_COLOR, font=title_font)
-    draw.text((70, 78), subtitle, fill=TEXT_COLOR, font=body_font)
-    draw_legend(draw, body_font, IMAGE_SIZE)
+    title_x = 70
+    title_y = 45
+    title_height = text_size(title_font, title)[1]
+    subtitle_y = title_y + title_height + 10
+    draw.text((title_x, title_y), title, fill=TEXT_COLOR, font=title_font)
+    draw.text((title_x, subtitle_y), subtitle, fill=TEXT_COLOR, font=subtitle_font)
+    draw_legend(draw, legend_font, IMAGE_SIZE)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     image.save(output_path)
@@ -261,22 +431,35 @@ def generate_infection_maps(
     status_csv_path: Path = STATUS_CSV,
     zip_path: Path = ZIP_PATH,
     output_dir: Path = OUTPUT_DIR,
-    map_name: str = "infection_map"
+    map_style: str = "infection",
 ) -> list[Path]:
+    style_config = MAP_STYLE_CONFIGS.get(map_style)
+    if style_config is None:
+        raise ValueError(f"Unsupported map style: {map_style}")
+
     rows = load_status_rows(status_csv_path)
     if not rows:
         raise ValueError("Status CSV is empty")
 
     state_shapes = load_contiguous_state_shapes(zip_path)
+    label_anchors = load_label_anchors()
     status_index = build_status_index(rows)
     year_months = sorted({row["year_month"] for row in rows})
     seed_state = rows[0]["seed_state"]
 
     output_paths: list[Path] = []
     for year_month in year_months:
-        fname = f"{map_name}_{year_month}.png"
+        fname = f"{style_config.map_name}_{year_month}.png"
         output_path = output_dir / fname
-        render_month_map(state_shapes, status_index, year_month, seed_state, output_path)
+        render_month_map(
+            state_shapes,
+            status_index,
+            label_anchors,
+            style_config,
+            year_month,
+            seed_state,
+            output_path,
+        )
         output_paths.append(output_path)
 
     return output_paths
@@ -295,14 +478,14 @@ def main() -> None:
 
     if args.mode == "validate":
         status_csv_path = Path("outputs") / "state_infection_validation.csv"
-        map_name = "validation_map"
+        map_style = "validation"
     else:
         status_csv_path = Path("outputs") / "state_infection_status.csv"
-        map_name = "infection_map"
+        map_style = "infection"
 
     print(f"Running US_plot in mode='{args.mode}', status CSV='{status_csv_path}'")
 
-    output_paths = generate_infection_maps(status_csv_path=status_csv_path, map_name=map_name)
+    output_paths = generate_infection_maps(status_csv_path=status_csv_path, map_style=map_style)
     for path in output_paths:
         print(f"Saved map to {path}")
 

@@ -127,6 +127,9 @@ One row per inter-state origin-destination-month edge, with these columns:
 
 - susceptible = light gray
 - infected = red
+- infection maps label infected states only, using full state names
+- validation maps remain unlabeled
+- infection-map title, subtitle, and legend text are rendered larger than validation maps
 
 The plotting script reads `outputs/state_infection_status.csv`, loads the Census state shapefile from `cb_2024_us_state_500k.zip`, filters out Alaska, Hawaii, District of Columbia, Puerto Rico, and other non-contiguous territories, then saves one PNG per month.
 
@@ -163,3 +166,5 @@ Additionally, maps of the actual infected states can be plotted with:
 ```powershell
 python US_plot.py --mode validate
 ```
+
+These validation maps keep the same default text sizing and do not add state labels.
